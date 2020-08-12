@@ -4,8 +4,8 @@
 简单: 22    中等: 17    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
-## 说明
-此项目仅为作者刷leetcode记录，不一定为最优解法。
+欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social">## 说明
+项目仅为作者刷leetcode记录，不一定为最优解法。
 
 **题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
 
@@ -23,8 +23,8 @@
     |-- question_bank
         |-- question1
             |-- question1.py
-            |-- question1.md
-        |-- question2
+     # 解题代码            |-- question1.md
+     # 题目        |-- question2
             |-- question2.py
             |-- question2.md
         ……
