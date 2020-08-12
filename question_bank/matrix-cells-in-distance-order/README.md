@@ -39,12 +39,12 @@
 	<li><code>0 &lt;= r0 &lt; R</code></li>
 	<li><code>0 &lt;= c0 &lt; C</code></li>
 </ol>
-
-------
-
  难度: Easy
 
  标签: 排序、 
+
+
+------
 
 <h2>1030. Matrix Cells in Distance Order</h2><p>We are given a matrix with <code>R</code> rows and <code>C</code> columns has cells with integer coordinates&nbsp;<code>(r, c)</code>, where <code>0 &lt;= r &lt; R</code> and <code>0 &lt;= c &lt; C</code>.</p>
 

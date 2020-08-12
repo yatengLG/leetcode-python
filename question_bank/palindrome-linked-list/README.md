@@ -13,12 +13,12 @@
 
 <p><strong>进阶：</strong><br>
 你能否用&nbsp;O(n) 时间复杂度和 O(1) 空间复杂度解决此题？</p>
-
-------
-
  难度: Easy
 
  标签: 链表、 双指针、 
+
+
+------
 
 <h2>234. Palindrome Linked List</h2><p>Given a singly linked list, determine if it is a palindrome.</p>
 

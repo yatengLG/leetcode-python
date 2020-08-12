@@ -40,12 +40,12 @@ for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }
 </pre>
-
-------
-
  难度: Easy
 
  标签: 数组、 双指针、 
+
+
+------
 
 <h2>26. Remove Duplicates from Sorted Array</h2><p>Given a sorted array <em>nums</em>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each element appear only <em>once</em> and return the new length.</p>
 

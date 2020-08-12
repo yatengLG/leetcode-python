@@ -29,12 +29,12 @@ L     D     R
 E   O E   I I
 E C   I H   N
 T     S     G</pre>
-
-------
-
  难度: Medium
 
  标签: 字符串、 
+
+
+------
 
 <h2>6. ZigZag Conversion</h2><p>The string <code>&quot;PAYPALISHIRING&quot;</code> is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)</p>
 

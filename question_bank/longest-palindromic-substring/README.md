@@ -12,12 +12,12 @@
 <pre><strong>输入:</strong> &quot;cbbd&quot;
 <strong>输出:</strong> &quot;bb&quot;
 </pre>
-
-------
-
  难度: Medium
 
  标签: 字符串、 动态规划、 
+
+
+------
 
 <h2>5. Longest Palindromic Substring</h2><p>Given a string <strong>s</strong>, find the longest palindromic substring in <strong>s</strong>. You may assume that the maximum length of <strong>s</strong> is 1000.</p>
 

@@ -14,12 +14,12 @@
 <p><strong>进阶：</strong></p>
 
 <p>你能尝试使用一趟扫描实现吗？</p>
-
-------
-
  难度: Medium
 
  标签: 链表、 双指针、 
+
+
+------
 
 <h2>19. Remove Nth Node From End of List</h2><p>Given a linked list, remove the <em>n</em>-th node from the end of list and return its head.</p>
 

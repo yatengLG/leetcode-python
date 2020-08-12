@@ -37,12 +37,12 @@
 <ol>
 	<li><code>1 &lt;= N &lt;= 1000</code></li>
 </ol>
-
-------
-
  难度: Easy
 
  标签: 数学、 动态规划、 
+
+
+------
 
 <h2>1025. Divisor Game</h2><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 

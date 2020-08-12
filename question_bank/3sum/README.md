@@ -14,12 +14,12 @@
   [-1, -1, 2]
 ]
 </pre>
-
-------
-
  难度: Medium
 
  标签: 数组、 双指针、 
+
+
+------
 
 <h2>15. 3Sum</h2><p>Given an array <code>nums</code> of <em>n</em> integers, are there elements <em>a</em>, <em>b</em>, <em>c</em> in <code>nums</code> such that <em>a</em> + <em>b</em> + <em>c</em> = 0? Find all unique triplets in the array which gives the sum of zero.</p>
 

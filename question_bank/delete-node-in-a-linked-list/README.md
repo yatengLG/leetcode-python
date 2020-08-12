@@ -32,12 +32,12 @@
 	<li>给定的节点为非末尾节点并且一定是链表中的一个有效节点。</li>
 	<li>不要从你的函数中返回任何结果。</li>
 </ul>
-
-------
-
  难度: Easy
 
  标签: 链表、 
+
+
+------
 
 <h2>237. Delete Node in a Linked List</h2><p>Write a function to delete a node (except the tail) in a singly linked list, given only access to that node.</p>
 

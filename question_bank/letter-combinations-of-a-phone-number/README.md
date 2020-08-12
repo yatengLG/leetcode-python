@@ -12,12 +12,12 @@
 
 <p><strong>说明:</strong><br>
 尽管上面的答案是按字典序排列的，但是你可以任意选择答案输出的顺序。</p>
-
-------
-
  难度: Medium
 
  标签: 字符串、 回溯算法、 
+
+
+------
 
 <h2>17. Letter Combinations of a Phone Number</h2><p>Given a string containing digits from <code>2-9</code> inclusive, return all possible letter combinations that the number could represent.</p>
 

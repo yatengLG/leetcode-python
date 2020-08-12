@@ -19,12 +19,12 @@
 <strong>输入：</strong>(6 -&gt; 1 -&gt; 7) + (2 -&gt; 9 -&gt; 5)，即617 + 295
 <strong>输出：</strong>9 -&gt; 1 -&gt; 2，即912
 </pre>
-
-------
-
  难度: Medium
 
  标签: 链表、 数学、 
+
+
+------
 
 <h2>面试题 02.05. Sum Lists LCCI</h2><p>You have two numbers represented by a linked list, where each node contains a single digit. The digits are stored in reverse order, such that the 1&#39;s digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.</p>
 

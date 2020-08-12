@@ -31,12 +31,12 @@
 <ul>
 	<li>给出的日期一定是在&nbsp;<code>1971</code> 到&nbsp;<code>2100</code>&nbsp;年之间的有效日期。</li>
 </ul>
-
-------
-
  难度: Easy
 
  标签: 数组、 
+
+
+------
 
 <h2>1185. Day of the Week</h2><p>Given a date, return the corresponding day of the week for that date.</p>
 

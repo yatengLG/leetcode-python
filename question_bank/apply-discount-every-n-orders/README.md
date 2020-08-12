@@ -52,12 +52,12 @@ cashier.getBill([2,3,5],[5,3,2]);                    // 返回 2500.0
 	<li>最多有&nbsp;<code>1000</code> 次对&nbsp;<code>getBill</code>&nbsp;函数的调用。</li>
 	<li>返回结果与标准答案误差在&nbsp;<code>10^-5</code>&nbsp;以内都视为正确结果。</li>
 </ul>
-
-------
-
  难度: Medium
 
  标签: 设计、 
+
+
+------
 
 <h2>1357. Apply Discount Every n Orders</h2><p>There is&nbsp;a sale in a supermarket, there will be a <code>discount</code> every <code>n</code> customer.<br />
 There are some products in the supermarket where the id of the <code>i-th</code> product is <code>products[i]</code> and the price per unit of this product is&nbsp;<code>prices[i]</code>.<br />

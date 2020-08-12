@@ -21,12 +21,12 @@ nums2 = [3, 4]
 
 则中位数是 (2 + 3)/2 = 2.5
 </pre>
-
-------
-
  难度: Hard
 
  标签: 数组、 二分查找、 分治算法、 
+
+
+------
 
 <h2>4. Median of Two Sorted Arrays</h2><p>There are two sorted arrays <b>nums1</b> and <b>nums2</b> of size m and n respectively.</p>
 

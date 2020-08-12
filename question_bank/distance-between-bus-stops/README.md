@@ -46,12 +46,12 @@
 	<li><code>0 &lt;= start, destination &lt; n</code></li>
 	<li><code>0 &lt;= distance[i] &lt;= 10^4</code></li>
 </ul>
-
-------
-
  难度: Easy
 
  标签: 数组、 
+
+
+------
 
 <h2>1184. Distance Between Bus Stops</h2><p>A bus&nbsp;has <code>n</code> stops numbered from <code>0</code> to <code>n - 1</code> that form&nbsp;a circle. We know the distance between all pairs of neighboring stops where <code>distance[i]</code> is the distance between the stops number&nbsp;<code>i</code> and <code>(i + 1) % n</code>.</p>
 

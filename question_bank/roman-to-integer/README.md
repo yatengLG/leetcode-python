@@ -48,12 +48,12 @@ M             1000</pre>
 <pre><strong>输入:</strong>&nbsp;&quot;MCMXCIV&quot;
 <strong>输出:</strong> 1994
 <strong>解释:</strong> M = 1000, CM = 900, XC = 90, IV = 4.</pre>
-
-------
-
  难度: Easy
 
  标签: 数学、 字符串、 
+
+
+------
 
 <h2>13. Roman to Integer</h2><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 

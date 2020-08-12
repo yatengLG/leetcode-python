@@ -10,12 +10,12 @@
 <strong>输出：</strong>7 -&gt; 0 -&gt; 8
 <strong>原因：</strong>342 + 465 = 807
 </pre>
-
-------
-
  难度: Medium
 
  标签: 链表、 数学、 
+
+
+------
 
 <h2>2. Add Two Numbers</h2><p>You are given two <b>non-empty</b> linked lists representing two non-negative integers. The digits are stored in <b>reverse order</b> and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.</p>
 

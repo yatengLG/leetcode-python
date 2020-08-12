@@ -18,12 +18,12 @@
 	<li><code>-10^3&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^3</code></li>
 	<li><code>-10^4&nbsp;&lt;= target&nbsp;&lt;= 10^4</code></li>
 </ul>
-
-------
-
  难度: Medium
 
  标签: 数组、 双指针、 
+
+
+------
 
 <h2>16. 3Sum Closest</h2><p>Given an array <code>nums</code> of <em>n</em> integers and an integer <code>target</code>, find three integers in <code>nums</code>&nbsp;such that the sum is closest to&nbsp;<code>target</code>. Return the sum of the three integers. You may assume that each input would have exactly one solution.</p>
 

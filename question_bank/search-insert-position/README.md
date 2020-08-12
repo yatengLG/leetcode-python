@@ -25,12 +25,12 @@
 <pre><strong>输入:</strong> [1,3,5,6], 0
 <strong>输出:</strong> 0
 </pre>
-
-------
-
  难度: Easy
 
  标签: 数组、 二分查找、 
+
+
+------
 
 <h2>35. Search Insert Position</h2><p>Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.</p>
 

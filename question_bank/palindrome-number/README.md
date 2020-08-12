@@ -23,12 +23,12 @@
 <p><strong>进阶:</strong></p>
 
 <p>你能不将整数转为字符串来解决这个问题吗？</p>
-
-------
-
  难度: Easy
 
  标签: 数学、 
+
+
+------
 
 <h2>9. Palindrome Number</h2><p>Determine whether an integer is a palindrome. An integer&nbsp;is&nbsp;a&nbsp;palindrome when it&nbsp;reads the same backward as forward.</p>
 

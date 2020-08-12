@@ -19,12 +19,12 @@
 <ol>
 <li>A，B范围在[-2147483648, 2147483647]之间</li>
 </ol>
-
-------
-
  难度: Easy
 
  标签: 位运算、 
+
+
+------
 
 <h2>面试题 05.06. Convert Integer LCCI</h2><p>Write a function to determine the number of bits you would need to flip to convert integer A to integer B.</p>
 

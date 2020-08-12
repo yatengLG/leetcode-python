@@ -55,12 +55,12 @@ p = &quot;c*a*b&quot;
 s = &quot;mississippi&quot;
 p = &quot;mis*is*p*.&quot;
 <strong>输出:</strong> false</pre>
-
-------
-
  难度: Hard
 
  标签: 字符串、 动态规划、 回溯算法、 
+
+
+------
 
 <h2>10. Regular Expression Matching</h2><p>Given an input string (<code>s</code>) and a pattern (<code>p</code>), implement regular expression matching with support for <code>&#39;.&#39;</code> and <code>&#39;*&#39;</code>.</p>
 

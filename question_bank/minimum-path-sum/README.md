@@ -13,12 +13,12 @@
 <strong>输出:</strong> 7
 <strong>解释:</strong> 因为路径 1&rarr;3&rarr;1&rarr;1&rarr;1 的总和最小。
 </pre>
-
-------
-
  难度: Medium
 
  标签: 数组、 动态规划、 
+
+
+------
 
 <h2>64. Minimum Path Sum</h2><p>Given a <em>m</em> x <em>n</em> grid filled with non-negative numbers, find a path from top left to bottom right which <em>minimizes</em> the sum of all numbers along its path.</p>
 

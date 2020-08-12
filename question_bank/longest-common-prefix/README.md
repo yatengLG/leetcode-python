@@ -18,12 +18,12 @@
 <p><strong>说明:</strong></p>
 
 <p>所有输入只包含小写字母&nbsp;<code>a-z</code>&nbsp;。</p>
-
-------
-
  难度: Easy
 
  标签: 字符串、 
+
+
+------
 
 <h2>14. Longest Common Prefix</h2><p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 

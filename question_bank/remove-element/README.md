@@ -45,12 +45,12 @@ for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }
 </pre>
-
-------
-
  难度: Easy
 
  标签: 数组、 双指针、 
+
+
+------
 
 <h2>27. Remove Element</h2><p>Given an array <em>nums</em> and a value <em>val</em>, remove all instances of that value <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> and return the new length.</p>
 

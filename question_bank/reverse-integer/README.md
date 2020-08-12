@@ -21,12 +21,12 @@
 <p><strong>注意:</strong></p>
 
 <p>假设我们的环境只能存储得下 32 位的有符号整数，则其数值范围为&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。请根据这个假设，如果反转后整数溢出那么就返回 0。</p>
-
-------
-
  难度: Easy
 
  标签: 数学、 
+
+
+------
 
 <h2>7. Reverse Integer</h2><p>Given a 32-bit signed integer, reverse digits of an integer.</p>
 

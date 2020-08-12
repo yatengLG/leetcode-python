@@ -30,12 +30,12 @@
 	<li>所有节点的值都是唯一的。</li>
 	<li>p、q 为不同节点且均存在于给定的二叉树中。</li>
 </ul>
-
-------
-
  难度: Medium
 
  标签: 树、 
+
+
+------
 
 <h2>236. Lowest Common Ancestor of a Binary Tree</h2><p>Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.</p>
 

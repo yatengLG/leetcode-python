@@ -37,12 +37,12 @@
 
 <pre><strong>输入:</strong> &quot;{[]}&quot;
 <strong>输出:</strong> true</pre>
-
-------
-
  难度: Easy
 
  标签: 栈、 字符串、 
+
+
+------
 
 <h2>20. Valid Parentheses</h2><p>Given a string containing just the characters <code>&#39;(&#39;</code>, <code>&#39;)&#39;</code>, <code>&#39;{&#39;</code>, <code>&#39;}&#39;</code>, <code>&#39;[&#39;</code> and <code>&#39;]&#39;</code>, determine if the input string is valid.</p>
 

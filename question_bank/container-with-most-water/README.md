@@ -14,12 +14,12 @@
 
 <pre><strong>输入：</strong>[1,8,6,2,5,4,8,3,7]
 <strong>输出：</strong>49</pre>
-
-------
-
  难度: Medium
 
  标签: 数组、 双指针、 
+
+
+------
 
 <h2>11. Container With Most Water</h2><p>Given <i>n</i> non-negative integers <i>a<sub>1</sub></i>, <i>a<sub>2</sub></i>, ..., <i>a<sub>n&nbsp;</sub></i>, where each represents a point at coordinate (<i>i</i>, <i>a<sub>i</sub></i>). <i>n</i> vertical lines are drawn such that the two endpoints of line <i>i</i> is at (<i>i</i>, <i>a<sub>i</sub></i>) and (<i>i</i>, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.</p>
 

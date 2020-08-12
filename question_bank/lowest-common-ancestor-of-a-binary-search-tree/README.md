@@ -29,12 +29,12 @@
 	<li>所有节点的值都是唯一的。</li>
 	<li>p、q 为不同节点且均存在于给定的二叉搜索树中。</li>
 </ul>
-
-------
-
  难度: Easy
 
  标签: 树、 
+
+
+------
 
 <h2>235. Lowest Common Ancestor of a Binary Search Tree</h2><p>Given a binary search tree (BST), find the lowest common ancestor (LCA) of two given nodes in the BST.</p>
 

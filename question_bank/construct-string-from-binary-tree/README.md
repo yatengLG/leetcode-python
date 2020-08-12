@@ -34,12 +34,12 @@
 <strong>解释:</strong> 和第一个示例相似，
 除了我们不能省略第一个对括号来中断输入和输出之间的一对一映射关系。
 </pre>
-
-------
-
  难度: Easy
 
  标签: 树、 字符串、 
+
+
+------
 
 <h2>606. Construct String from Binary Tree</h2><p>You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.</p>
 

@@ -34,12 +34,12 @@
 	<li><code>1 &lt;= S.length &lt;= 10000</code></li>
 	<li><code>S</code> 只包含字符&nbsp;<code>&quot;I&quot;</code>&nbsp;或&nbsp;<code>&quot;D&quot;</code>。</li>
 </ol>
-
-------
-
  难度: Easy
 
  标签: 数学、 
+
+
+------
 
 <h2>942. DI String Match</h2><p>Given a string <code>S</code> that <strong>only</strong> contains &quot;I&quot; (increase) or &quot;D&quot; (decrease), let <code>N = S.length</code>.</p>
 
