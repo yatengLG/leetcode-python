@@ -34,6 +34,8 @@
 	<li><code>1 &lt;= S.length &lt;= 10000</code></li>
 	<li><code>S</code> 只包含字符&nbsp;<code>&quot;I&quot;</code>&nbsp;或&nbsp;<code>&quot;D&quot;</code>。</li>
 </ol>
+
+
  **难度**: Easy
 
  **标签**: 数学、 
@@ -83,7 +85,9 @@
 <ol>
 	<li><code>1 &lt;= S.length &lt;= 10000</code></li>
 	<li><code>S</code> only contains characters <code>&quot;I&quot;</code> or <code>&quot;D&quot;</code>.</li>
-</ol> **difficulty**: Easy
+</ol>
+
+ **difficulty**: Easy
 
  **topic**: Math, 
 

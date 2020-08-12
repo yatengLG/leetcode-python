@@ -19,6 +19,8 @@
 <p>当&nbsp;<code>needle</code>&nbsp;是空字符串时，我们应当返回什么值呢？这是一个在面试中很好的问题。</p>
 
 <p>对于本题而言，当&nbsp;<code>needle</code>&nbsp;是空字符串时我们应当返回 0 。这与C语言的&nbsp;<a href="https://baike.baidu.com/item/strstr/811469" target="_blank">strstr()</a>&nbsp;以及 Java的&nbsp;<a href="https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String)" target="_blank">indexOf()</a>&nbsp;定义相符。</p>
+
+
  **难度**: Easy
 
  **标签**: 双指针、 字符串、 
@@ -56,6 +58,8 @@
 <ul>
 	<li><code>haystack</code> and&nbsp;<code>needle</code> consist only of lowercase English characters.</li>
 </ul>
+
+
  **difficulty**: Easy
 
  **topic**: Two Pointers, String, 

@@ -21,6 +21,8 @@ nums2 = [3, 4]
 
 则中位数是 (2 + 3)/2 = 2.5
 </pre>
+
+
  **难度**: Hard
 
  **标签**: 数组、 二分查找、 分治算法、 
@@ -51,6 +53,8 @@ nums2 = [3, 4]
 
 The median is (2 + 3)/2 = 2.5
 </pre>
+
+
  **difficulty**: Hard
 
  **topic**: Array, Binary Search, Divide and Conquer, 

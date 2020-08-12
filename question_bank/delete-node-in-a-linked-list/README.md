@@ -32,6 +32,8 @@
 	<li>给定的节点为非末尾节点并且一定是链表中的一个有效节点。</li>
 	<li>不要从你的函数中返回任何结果。</li>
 </ul>
+
+
  **难度**: Easy
 
  **标签**: 链表、 
@@ -73,6 +75,8 @@
 	<li>The given node&nbsp;will not be the tail and it will always be a valid node of the linked list.</li>
 	<li>Do not return anything from your function.</li>
 </ul>
+
+
  **difficulty**: Easy
 
  **topic**: Linked List, 

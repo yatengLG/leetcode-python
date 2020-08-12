@@ -56,6 +56,8 @@
 <strong>解释:</strong> 数字 &quot;-91283472332&quot; 超过 32 位有符号整数范围。 
 &nbsp;    因此返回 INT_MIN (&minus;2<sup>31</sup>) 。
 </pre>
+
+
  **难度**: Medium
 
  **标签**: 数学、 字符串、 
@@ -119,6 +121,8 @@
 <strong>Output:</strong> -2147483648
 <strong>Explanation:</strong> The number &quot;-91283472332&quot; is out of the range of a 32-bit signed integer.
 &nbsp;            Thefore INT_MIN (&minus;2<sup>31</sup>) is returned.</pre>
+
+
  **difficulty**: Medium
 
  **topic**: Math, String, 

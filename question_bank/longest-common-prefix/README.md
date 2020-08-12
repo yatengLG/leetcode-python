@@ -18,6 +18,8 @@
 <p><strong>说明:</strong></p>
 
 <p>所有输入只包含小写字母&nbsp;<code>a-z</code>&nbsp;。</p>
+
+
  **难度**: Easy
 
  **标签**: 字符串、 
@@ -47,6 +49,8 @@
 <p><strong>Note:</strong></p>
 
 <p>All given inputs are in lowercase letters <code>a-z</code>.</p>
+
+
  **difficulty**: Easy
 
  **topic**: String, 

@@ -37,6 +37,8 @@
 <ol>
 	<li><code>1 &lt;= N &lt;= 1000</code></li>
 </ol>
+
+
  **难度**: Easy
 
  **标签**: 数学、 动态规划、 
@@ -88,7 +90,9 @@
 	<li><code>1 &lt;= N &lt;= 1000</code></li>
 </ol>
 </div>
-</div> **difficulty**: Easy
+</div>
+
+ **difficulty**: Easy
 
  **topic**: Math, Dynamic Programming, 
 

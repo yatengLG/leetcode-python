@@ -14,6 +14,8 @@
 <p><strong>进阶：</strong></p>
 
 <p>你能尝试使用一趟扫描实现吗？</p>
+
+
  **难度**: Medium
 
  **标签**: 链表、 双指针、 
@@ -38,6 +40,8 @@ After removing the second node from the end, the linked list becomes <strong>1-&
 <p><strong>Follow up:</strong></p>
 
 <p>Could you do this in one pass?</p>
+
+
  **difficulty**: Medium
 
  **topic**: Linked List, Two Pointers, 

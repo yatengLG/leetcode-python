@@ -52,6 +52,8 @@ cashier.getBill([2,3,5],[5,3,2]);                    // 返回 2500.0
 	<li>最多有&nbsp;<code>1000</code> 次对&nbsp;<code>getBill</code>&nbsp;函数的调用。</li>
 	<li>返回结果与标准答案误差在&nbsp;<code>10^-5</code>&nbsp;以内都视为正确结果。</li>
 </ul>
+
+
  **难度**: Medium
 
  **标签**: 设计、 
@@ -108,7 +110,9 @@ cashier.getBill([2,3,5],[5,3,2]);                    // return 2500.0
 	<li><code>1 &lt;= amount[i] &lt;= 1000</code></li>
 	<li>At most <code>1000</code> calls will be made to <code>getBill</code>.</li>
 	<li>Answers within&nbsp;<code>10^-5</code>&nbsp;of the actual value will be accepted as correct.</li>
-</ul> **difficulty**: Medium
+</ul>
+
+ **difficulty**: Medium
 
  **topic**: Design, 
 

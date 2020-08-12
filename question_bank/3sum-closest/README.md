@@ -18,6 +18,8 @@
 	<li><code>-10^3&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^3</code></li>
 	<li><code>-10^4&nbsp;&lt;= target&nbsp;&lt;= 10^4</code></li>
 </ul>
+
+
  **难度**: Medium
 
  **标签**: 数组、 双指针、 
@@ -44,6 +46,8 @@
 	<li><code>-10^3&nbsp;&lt;= nums[i]&nbsp;&lt;= 10^3</code></li>
 	<li><code>-10^4&nbsp;&lt;= target&nbsp;&lt;= 10^4</code></li>
 </ul>
+
+
  **difficulty**: Medium
 
  **topic**: Array, Two Pointers, 

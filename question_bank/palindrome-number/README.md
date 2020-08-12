@@ -23,6 +23,8 @@
 <p><strong>进阶:</strong></p>
 
 <p>你能不将整数转为字符串来解决这个问题吗？</p>
+
+
  **难度**: Easy
 
  **标签**: 数学、 
@@ -58,6 +60,8 @@
 <p><strong>Follow up:</strong></p>
 
 <p>Coud you solve&nbsp;it without converting the integer to a string?</p>
+
+
  **difficulty**: Easy
 
  **topic**: Math, 

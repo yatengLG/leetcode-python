@@ -7,6 +7,8 @@
 <pre><strong>输入：</strong>1-&gt;2-&gt;4, 1-&gt;3-&gt;4
 <strong>输出：</strong>1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4
 </pre>
+
+
  **难度**: Easy
 
  **标签**: 链表、 
@@ -22,6 +24,8 @@
 <b>Input:</b> 1-&gt;2-&gt;4, 1-&gt;3-&gt;4
 <b>Output:</b> 1-&gt;1-&gt;2-&gt;3-&gt;4-&gt;4
 </pre>
+
+
  **difficulty**: Easy
 
  **topic**: Linked List, 

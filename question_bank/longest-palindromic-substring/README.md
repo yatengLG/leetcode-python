@@ -12,6 +12,8 @@
 <pre><strong>输入:</strong> &quot;cbbd&quot;
 <strong>输出:</strong> &quot;bb&quot;
 </pre>
+
+
  **难度**: Medium
 
  **标签**: 字符串、 动态规划、 
@@ -35,6 +37,8 @@
 <strong>Input:</strong> &quot;cbbd&quot;
 <strong>Output:</strong> &quot;bb&quot;
 </pre>
+
+
  **difficulty**: Medium
 
  **topic**: String, Dynamic Programming, 

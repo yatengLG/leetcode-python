@@ -19,6 +19,8 @@
 <ol>
 <li>A，B范围在[-2147483648, 2147483647]之间</li>
 </ol>
+
+
  **难度**: Easy
 
  **标签**: 位运算、 
@@ -47,6 +49,8 @@
 <ol>
 	<li><code>-2147483648 &lt;= A, B &lt;= 2147483647</code></li>
 </ol>
+
+
  **difficulty**: Easy
 
  **topic**: Bit Manipulation, 
