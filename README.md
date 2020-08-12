@@ -5,7 +5,9 @@
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
-欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/yatengLG/leetcode-python?style=social"> 共同学习## 说明
+欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/yatengLG/leetcode-python?style=social"> 共同学习
+
+## 说明
 项目仅为作者刷leetcode记录，不一定为最优解法。
 
 **题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
