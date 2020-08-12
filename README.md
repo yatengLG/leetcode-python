@@ -7,19 +7,28 @@
 ## 说明
 此项目仅为作者刷leetcode记录，不一定为最优解法。
 
-具体代码以提名作为文件名保存。可通过下表进行查询。
+**题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
 
-**题号**、**题名**、等均以leetcode后台题库为标准。
+**题号**一栏指向leetcode题目页面。
 
-**题名**一栏指向leetcode当前题页面。
-
-**解题思路**一栏指向leetcode当前题**解题**页面。
+**题名**一栏指向本项目中题目页面。
 
 如作者通过且上传代码的题目，**是否通过**一栏会指向Github具体对应代码页。
 
 代码注释中标注的执行时间及内存消耗，仅记录leetcode返回的值，不代表实际运行消耗。
 
-## 题库
+## 项目结构
+```text|-- leetcode-python
+    |-- README.md
+    |-- question_bank
+        |-- question1
+            |-- question1.py
+            |-- question1.md
+        |-- question2
+            |-- question2.py
+            |-- question2.md
+        ……
+```## 题库
  | 题号 | 题名 | 难度 | 通过率 | 会员可用 | 是否通过 | 
  | ---- | ---- | ---- | ---- | ---- | ---- |
  | 1 | [Two Sum](/question_bank/two-sum) | 易  | 0.49 |  | [:link:code](/question_bank/two-sum/two-sum.py) |
