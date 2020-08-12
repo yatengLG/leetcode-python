@@ -4,7 +4,8 @@
 简单: 22    中等: 17    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
-欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social">## 说明
+
+欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/yatengLG/leetcode-python?style=social"> 共同学习## 说明
 项目仅为作者刷leetcode记录，不一定为最优解法。
 
 **题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
@@ -261,7 +262,7 @@
  | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | Invert Binary Tree | 易  | 0.76 |  |   |
  | [227](https://leetcode-cn.com/problems/basic-calculator-ii/) | Basic Calculator II | 中  | 0.37 |  |   |
  | [228](https://leetcode-cn.com/problems/summary-ranges/) | Summary Ranges | 中  | 0.53 |  |   |
- | [229](https://leetcode-cn.com/problems/majority-element-ii/) | Majority Element II | 中  | 0.44 |  |   |
+ | [229](https://leetcode-cn.com/problems/majority-element-ii/) | Majority Element II | 中  | 0.43 |  |   |
  | [230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | Kth Smallest Element in a BST | 中  | 0.71 |  |   |
  | [231](https://leetcode-cn.com/problems/power-of-two/) | Power of Two | 易  | 0.48 |  |   |
  | [232](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | Implement Queue using Stacks | 易  | 0.65 |  |   |
@@ -307,7 +308,7 @@
  | [272](https://leetcode-cn.com/problems/closest-binary-search-tree-value-ii/) | Closest Binary Search Tree Value II | 难  | 0.62 | :heavy_check_mark: |   |
  | [273](https://leetcode-cn.com/problems/integer-to-english-words/) | Integer to English Words | 难  | 0.28 |  |   |
  | [274](https://leetcode-cn.com/problems/h-index/) | H-Index | 中  | 0.39 |  |   |
- | [275](https://leetcode-cn.com/problems/h-index-ii/) | H-Index II | 中  | 0.42 |  |   |
+ | [275](https://leetcode-cn.com/problems/h-index-ii/) | H-Index II | 中  | 0.41 |  |   |
  | [276](https://leetcode-cn.com/problems/paint-fence/) | Paint Fence | 易  | 0.46 | :heavy_check_mark: |   |
  | [277](https://leetcode-cn.com/problems/find-the-celebrity/) | Find the Celebrity | 中  | 0.56 | :heavy_check_mark: |   |
  | [278](https://leetcode-cn.com/problems/first-bad-version/) | First Bad Version | 易  | 0.40 |  |   |
@@ -1579,7 +1580,7 @@
  | [1532](https://leetcode-cn.com/problems/the-most-recent-three-orders/) | The Most Recent Three Orders | 中  | 0.52 | :heavy_check_mark: |   |
  | [1533](https://leetcode-cn.com/problems/find-the-index-of-the-large-integer/) | Find the Index of the Large Integer | 中  | 0.78 | :heavy_check_mark: |   |
  | [1538](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array/) | Guess the Majority in a Hidden Array | 中  | 0.42 | :heavy_check_mark: |   |
- | [1543](https://leetcode-cn.com/problems/fix-product-name-format/) | Fix Product Name Format | 易  | 0.45 | :heavy_check_mark: |   |
+ | [1543](https://leetcode-cn.com/problems/fix-product-name-format/) | Fix Product Name Format | 易  | 0.44 | :heavy_check_mark: |   |
  | [LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction/) | Deep Dark Fraction | 易  | 0.65 |  |   |
  | [LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes/) | Broken Board Dominoes | 难  | 0.34 |  |   |
  | [LCP 05](https://leetcode-cn.com/problems/coin-bonus/) | Coin Bonus | 难  | 0.17 |  |   |
@@ -1757,7 +1758,7 @@
  | [面试题 17.09](https://leetcode-cn.com/problems/get-kth-magic-number-lcci/) | Get Kth Magic Number LCCI | 中  | 0.54 |  |   |
  | [面试题 17.10](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Find Majority Element LCCI | 易  | 0.65 |  |   |
  | [面试题 17.11](https://leetcode-cn.com/problems/find-closest-lcci/) | Find Closest LCCI | 中  | 0.67 |  |   |
- | [面试题 10.02](https://leetcode-cn.com/problems/group-anagrams-lcci/) | Group Anagrams LCCI | 中  | 0.66 |  |   |
+ | [面试题 10.02](https://leetcode-cn.com/problems/group-anagrams-lcci/) | Group Anagrams LCCI | 中  | 0.65 |  |   |
  | [面试题 10.10](https://leetcode-cn.com/problems/rank-from-stream-lcci/) | Rank from Stream LCCI | 中  | 0.62 |  |   |
  | [面试题 16.24](https://leetcode-cn.com/problems/pairs-with-sum-lcci/) | Pairs With Sum LCCI | 中  | 0.46 |  |   |
  | [面试题 17.18](https://leetcode-cn.com/problems/shortest-supersequence-lcci/) | Shortest Supersequence LCCI | 中  | 0.44 |  |   |
