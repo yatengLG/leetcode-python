@@ -13,9 +13,9 @@
 <strong>输出:</strong> 7
 <strong>解释:</strong> 因为路径 1&rarr;3&rarr;1&rarr;1&rarr;1 的总和最小。
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 数组、 动态规划、 
+ **标签**: 数组、 动态规划、 
 
 
 ------
@@ -36,10 +36,7 @@
 <strong>Output:</strong> 7
 <strong>Explanation:</strong> Because the path 1&rarr;3&rarr;1&rarr;1&rarr;1 minimizes the sum.
 </pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Array, Dynamic Programming, 
+ **topic**: Array, Dynamic Programming, 
 

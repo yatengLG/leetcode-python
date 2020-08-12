@@ -25,9 +25,9 @@
 <pre><strong>输入:</strong> [1,3,5,6], 0
 <strong>输出:</strong> 0
 </pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数组、 二分查找、 
+ **标签**: 数组、 二分查找、 
 
 
 ------
@@ -63,10 +63,7 @@
 <strong>Input:</strong> [1,3,5,6], 0
 <strong>Output:</strong> 0
 </pre>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Array, Binary Search, 
+ **topic**: Array, Binary Search, 
 

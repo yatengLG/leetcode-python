@@ -31,9 +31,9 @@
 <ul>
 	<li>给出的日期一定是在&nbsp;<code>1971</code> 到&nbsp;<code>2100</code>&nbsp;年之间的有效日期。</li>
 </ul>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数组、 
+ **标签**: 数组、 
 
 
 ------
@@ -71,10 +71,7 @@
 
 <ul>
 	<li>The given dates are valid&nbsp;dates between the years <code>1971</code> and <code>2100</code>.</li>
-</ul>
-------
+</ul> **difficulty**: Easy
 
- difficulty: Easy
-
- topic: Array, 
+ **topic**: Array, 
 

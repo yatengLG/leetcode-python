@@ -14,9 +14,9 @@
 
 <pre><strong>输入：</strong>[1,8,6,2,5,4,8,3,7]
 <strong>输出：</strong>49</pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 数组、 双指针、 
+ **标签**: 数组、 双指针、 
 
 
 ------
@@ -37,10 +37,7 @@
 
 <pre>
 <strong>Input:</strong> [1,8,6,2,5,4,8,3,7]
-<strong>Output:</strong> 49</pre>
-------
+<strong>Output:</strong> 49</pre> **difficulty**: Medium
 
- difficulty: Medium
-
- topic: Array, Two Pointers, 
+ **topic**: Array, Two Pointers, 
 

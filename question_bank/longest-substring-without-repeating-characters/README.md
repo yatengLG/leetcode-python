@@ -21,9 +21,9 @@
 <strong>解释: </strong>因为无重复字符的最长子串是&nbsp;<code>&quot;wke&quot;</code>，所以其长度为 3。
 &nbsp;    请注意，你的答案必须是 <strong>子串 </strong>的长度，<code>&quot;pwke&quot;</code>&nbsp;是一个<em>子序列，</em>不是子串。
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 哈希表、 双指针、 字符串、 None、 
+ **标签**: 哈希表、 双指针、 字符串、 None、 
 
 
 ------
@@ -60,10 +60,7 @@
 </div>
 </div>
 </div>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Hash Table, Two Pointers, String, Sliding Window, 
+ **topic**: Hash Table, Two Pointers, String, Sliding Window, 
 

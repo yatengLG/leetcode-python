@@ -11,9 +11,9 @@
 因为 nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9
 所以返回 [<strong>0, 1</strong>]
 </pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数组、 哈希表、 
+ **标签**: 数组、 哈希表、 
 
 
 ------
@@ -30,10 +30,7 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[<strong>0</strong>] + nums[<strong>1</strong>] = 2 + 7 = 9,
 return [<strong>0</strong>, <strong>1</strong>].
 </pre>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Array, Hash Table, 
+ **topic**: Array, Hash Table, 
 

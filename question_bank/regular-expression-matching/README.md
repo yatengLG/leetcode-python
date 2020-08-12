@@ -55,9 +55,9 @@ p = &quot;c*a*b&quot;
 s = &quot;mississippi&quot;
 p = &quot;mis*is*p*.&quot;
 <strong>输出:</strong> false</pre>
- 难度: Hard
+ **难度**: Hard
 
- 标签: 字符串、 动态规划、 回溯算法、 
+ **标签**: 字符串、 动态规划、 回溯算法、 
 
 
 ------
@@ -126,10 +126,7 @@ s = &quot;mississippi&quot;
 p = &quot;mis*is*p*.&quot;
 <strong>Output:</strong> false
 </pre>
+ **difficulty**: Hard
 
-------
-
- difficulty: Hard
-
- topic: String, Dynamic Programming, Backtracking, 
+ **topic**: String, Dynamic Programming, Backtracking, 
 

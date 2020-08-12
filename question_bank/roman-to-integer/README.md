@@ -48,9 +48,9 @@ M             1000</pre>
 <pre><strong>输入:</strong>&nbsp;&quot;MCMXCIV&quot;
 <strong>输出:</strong> 1994
 <strong>解释:</strong> M = 1000, CM = 900, XC = 90, IV = 4.</pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数学、 字符串、 
+ **标签**: 数学、 字符串、 
 
 
 ------
@@ -111,10 +111,7 @@ M             1000</pre>
 <strong>Input:</strong>&nbsp;&quot;MCMXCIV&quot;
 <strong>Output:</strong> 1994
 <strong>Explanation:</strong> M = 1000, CM = 900, XC = 90 and IV = 4.</pre>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Math, String, 
+ **topic**: Math, String, 
 

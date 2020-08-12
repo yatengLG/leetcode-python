@@ -19,9 +19,9 @@
 <strong>输入：</strong>(6 -&gt; 1 -&gt; 7) + (2 -&gt; 9 -&gt; 5)，即617 + 295
 <strong>输出：</strong>9 -&gt; 1 -&gt; 2，即912
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 链表、 数学、 
+ **标签**: 链表、 数学、 
 
 
 ------
@@ -45,10 +45,7 @@
 <strong>Input: </strong>(6 -&gt; 1 -&gt; 7) + (2 -&gt; 9 -&gt; 5). That is, 617 + 295.
 <strong>Output: </strong>9 -&gt; 1 -&gt; 2. That is, 912.
 </pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Linked List, Math, 
+ **topic**: Linked List, Math, 
 

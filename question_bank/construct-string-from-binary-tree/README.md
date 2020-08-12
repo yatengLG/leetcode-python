@@ -34,9 +34,9 @@
 <strong>解释:</strong> 和第一个示例相似，
 除了我们不能省略第一个对括号来中断输入和输出之间的一对一映射关系。
 </pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 树、 字符串、 
+ **标签**: 树、 字符串、 
 
 
 ------
@@ -71,10 +71,7 @@
 <b>Output:</b> "1(2()(4))(3)"
 <br/><b>Explanation:</b> Almost the same as the first example, <br/>except we can't omit the first parenthesis pair to break the one-to-one mapping relationship between the input and the output.
 </pre>
-</p>
-------
+</p> **difficulty**: Easy
 
- difficulty: Easy
-
- topic: Tree, String, 
+ **topic**: Tree, String, 
 

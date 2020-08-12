@@ -14,9 +14,9 @@
   [-1, -1, 2]
 ]
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 数组、 双指针、 
+ **标签**: 数组、 双指针、 
 
 
 ------
@@ -38,10 +38,7 @@ A solution set is:
   [-1, -1, 2]
 ]
 </pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Array, Two Pointers, 
+ **topic**: Array, Two Pointers, 
 

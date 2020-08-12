@@ -5,9 +5,9 @@
 <pre><strong>输入:</strong> head = 3-&gt;5-&gt;8-&gt;5-&gt;10-&gt;2-&gt;1, <em>x</em> = 5
 <strong>输出:</strong> 3-&gt;1-&gt;2-&gt;10-&gt;5-&gt;5-&gt;8
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 链表、 双指针、 
+ **标签**: 链表、 双指针、 
 
 
 ------
@@ -20,10 +20,7 @@
 <strong>Input:</strong> head = 3-&gt;5-&gt;8-&gt;5-&gt;10-&gt;2-&gt;1, <em>x</em> = 5
 <strong>Output:</strong> 3-&gt;1-&gt;2-&gt;10-&gt;5-&gt;5-&gt;8
 </pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Linked List, Two Pointers, 
+ **topic**: Linked List, Two Pointers, 
 

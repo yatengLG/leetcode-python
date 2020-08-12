@@ -29,9 +29,9 @@ L     D     R
 E   O E   I I
 E C   I H   N
 T     S     G</pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 字符串、 
+ **标签**: 字符串、 
 
 
 ------
@@ -69,10 +69,7 @@ P     I    N
 A   L S  I G
 Y A   H R
 P     I</pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: String, 
+ **topic**: String, 
 

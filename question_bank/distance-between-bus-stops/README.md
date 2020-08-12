@@ -46,9 +46,9 @@
 	<li><code>0 &lt;= start, destination &lt; n</code></li>
 	<li><code>0 &lt;= distance[i] &lt;= 10^4</code></li>
 </ul>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数组、 
+ **标签**: 数组、 
 
 
 ------
@@ -101,10 +101,7 @@
 	<li><code>distance.length == n</code></li>
 	<li><code>0 &lt;= start, destination &lt; n</code></li>
 	<li><code>0 &lt;= distance[i] &lt;= 10^4</code></li>
-</ul>
-------
+</ul> **difficulty**: Easy
 
- difficulty: Easy
-
- topic: Array, 
+ **topic**: Array, 
 

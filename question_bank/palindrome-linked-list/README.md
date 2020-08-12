@@ -13,9 +13,9 @@
 
 <p><strong>进阶：</strong><br>
 你能否用&nbsp;O(n) 时间复杂度和 O(1) 空间复杂度解决此题？</p>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 链表、 双指针、 
+ **标签**: 链表、 双指针、 
 
 
 ------
@@ -36,10 +36,7 @@
 
 <p><b>Follow up:</b><br />
 Could you do it in O(n) time and O(1) space?</p>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Linked List, Two Pointers, 
+ **topic**: Linked List, Two Pointers, 
 

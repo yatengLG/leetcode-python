@@ -37,9 +37,9 @@
 
 <pre><strong>输入:</strong> &quot;{[]}&quot;
 <strong>输出:</strong> true</pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 栈、 字符串、 
+ **标签**: 栈、 字符串、 
 
 
 ------
@@ -89,10 +89,7 @@
 <strong>Input:</strong> &quot;{[]}&quot;
 <strong>Output:</strong> true
 </pre>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Stack, String, 
+ **topic**: Stack, String, 
 

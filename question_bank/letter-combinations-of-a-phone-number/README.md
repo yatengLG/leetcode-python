@@ -12,9 +12,9 @@
 
 <p><strong>说明:</strong><br>
 尽管上面的答案是按字典序排列的，但是你可以任意选择答案输出的顺序。</p>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 字符串、 回溯算法、 
+ **标签**: 字符串、 回溯算法、 
 
 
 ------
@@ -35,10 +35,7 @@
 <p><strong>Note:</strong></p>
 
 <p>Although the above answer is in lexicographical order, your answer could be in any order you want.</p>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: String, Backtracking, 
+ **topic**: String, Backtracking, 
 

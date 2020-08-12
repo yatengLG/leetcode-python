@@ -34,9 +34,9 @@
 <pre><strong>输入:</strong> 4
 <strong>输出:</strong> &quot;1211&quot;
 <strong>解释：</strong>当 n = 3 时，序列是 &quot;21&quot;，其中我们有 &quot;2&quot; 和 &quot;1&quot; 两组，&quot;2&quot; 可以读作 &quot;12&quot;，也就是出现频次 = 1 而 值 = 2；类似 &quot;1&quot; 可以读作 &quot;11&quot;。所以答案是 &quot;12&quot; 和 &quot;11&quot; 组合在一起，也就是 &quot;1211&quot;。</pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 字符串、 
+ **标签**: 字符串、 
 
 
 ------
@@ -76,10 +76,7 @@
 <b>Output:</b> &quot;1211&quot;
 <b>Explanation:</b> For n = 3 the term was &quot;21&quot; in which we have two groups &quot;2&quot; and &quot;1&quot;, &quot;2&quot; can be read as &quot;12&quot; which means frequency = 1 and value = 2, the same way &quot;1&quot; is read as &quot;11&quot;, so the answer is the concatenation of &quot;12&quot; and &quot;11&quot; which is &quot;1211&quot;.
 </pre>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: String, 
+ **topic**: String, 
 

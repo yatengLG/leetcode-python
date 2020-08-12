@@ -40,9 +40,9 @@ for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
 }
 </pre>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数组、 双指针、 
+ **标签**: 数组、 双指针、 
 
 
 ------
@@ -86,10 +86,7 @@ int len = removeDuplicates(nums);
 // using the length returned by your function, it prints the first <strong>len</strong> elements.
 for (int i = 0; i &lt; len; i++) {
 &nbsp; &nbsp; print(nums[i]);
-}</pre>
-------
+}</pre> **difficulty**: Easy
 
- difficulty: Easy
-
- topic: Array, Two Pointers, 
+ **topic**: Array, Two Pointers, 
 

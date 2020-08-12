@@ -29,9 +29,9 @@
 	<li>所有节点的值都是唯一的。</li>
 	<li>p、q 为不同节点且均存在于给定的二叉搜索树中。</li>
 </ul>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 树、 
+ **标签**: 树、 
 
 
 ------
@@ -67,10 +67,7 @@
 	<li>All of the nodes&#39; values will be unique.</li>
 	<li>p and q are different and both values will&nbsp;exist in the BST.</li>
 </ul>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Tree, 
+ **topic**: Tree, 
 

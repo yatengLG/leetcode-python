@@ -15,9 +15,9 @@
   [-2,  0, 0, 2]
 ]
 </pre>
- 难度: Medium
+ **难度**: Medium
 
- 标签: 数组、 哈希表、 双指针、 
+ **标签**: 数组、 哈希表、 双指针、 
 
 
 ------
@@ -40,10 +40,7 @@ A solution set is:
   [-2,  0, 0, 2]
 ]
 </pre>
+ **difficulty**: Medium
 
-------
-
- difficulty: Medium
-
- topic: Array, Hash Table, Two Pointers, 
+ **topic**: Array, Hash Table, Two Pointers, 
 

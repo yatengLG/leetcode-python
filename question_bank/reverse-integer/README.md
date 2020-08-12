@@ -21,9 +21,9 @@
 <p><strong>注意:</strong></p>
 
 <p>假设我们的环境只能存储得下 32 位的有符号整数，则其数值范围为&nbsp;[&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]。请根据这个假设，如果反转后整数溢出那么就返回 0。</p>
- 难度: Easy
+ **难度**: Easy
 
- 标签: 数学、 
+ **标签**: 数学、 
 
 
 ------
@@ -53,10 +53,7 @@
 
 <p><strong>Note:</strong><br />
 Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [&minus;2<sup>31</sup>,&nbsp; 2<sup>31&nbsp;</sup>&minus; 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.</p>
+ **difficulty**: Easy
 
-------
-
- difficulty: Easy
-
- topic: Math, 
+ **topic**: Math, 
 
