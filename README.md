@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 48/1748 
+已通过 49/1748 
 
-简单: 28    中等: 18    困难: 2
+简单: 29    中等: 18    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -751,7 +751,7 @@
  | [743](https://leetcode-cn.com/problems/network-delay-time/) | Network Delay Time | 中  | 0.45 |  |   |
  | [744](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/) | Find Smallest Letter Greater Than Target | 易  | 0.45 |  |   |
  | [745](https://leetcode-cn.com/problems/prefix-and-suffix-search/) | Prefix and Suffix Search | 难  | 0.33 |  |   |
- | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | Min Cost Climbing Stairs | 易  | 0.49 |  |   |
+ | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | 易  | 0.49 |  | [:link:code](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | Largest Number At Least Twice of Others | 易  | 0.40 |  |   |
  | [748](https://leetcode-cn.com/problems/shortest-completing-word/) | Shortest Completing Word | 易  | 0.59 |  |   |
  | [749](https://leetcode-cn.com/problems/contain-virus/) | Contain Virus | 难  | 0.46 |  |   |
@@ -1770,7 +1770,7 @@
  | [面试题 17.19](https://leetcode-cn.com/problems/missing-two-lcci/) | Missing Two LCCI | 难  | 0.55 |  |   |
  | [面试题 17.23](https://leetcode-cn.com/problems/max-black-square-lcci/) | Max Black Square LCCI | 中  | 0.36 |  |   |
  | [面试题 17.24](https://leetcode-cn.com/problems/max-submatrix-lcci/) | Max Submatrix LCCI | 难  | 0.52 |  |   |
- | [面试题 16.20](https://leetcode-cn.com/problems/t9-lcci/) | T9 LCCI | 中  | 0.72 |  |   |
+ | [面试题 16.20](https://leetcode-cn.com/problems/t9-lcci/) | T9 LCCI | 中  | 0.71 |  |   |
  | [面试题 16.21](https://leetcode-cn.com/problems/sum-swap-lcci/) | Sum Swap LCCI | 中  | 0.44 |  |   |
  | [面试题 17.25](https://leetcode-cn.com/problems/word-rectangle-lcci/) | Word Rectangle LCCI | 难  | 0.46 |  |   |
  | [面试题 16.22](https://leetcode-cn.com/problems/langtons-ant-lcci/) | Langtons Ant LCCI | 中  | 0.58 |  |   |
