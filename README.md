@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 46/1748 
+已通过 47/1748 
 
-简单: 26    中等: 18    困难: 2
+简单: 27    中等: 18    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -340,7 +340,7 @@
  | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | Longest Increasing Subsequence | 中  | 0.45 |  |   |
  | [301](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | Remove Invalid Parentheses | 难  | 0.48 |  |   |
  | [302](https://leetcode-cn.com/problems/smallest-rectangle-enclosing-black-pixels/) | Smallest Rectangle Enclosing Black Pixels | 难  | 0.70 | :heavy_check_mark: |   |
- | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | Range Sum Query - Immutable | 易  | 0.63 |  |   |
+ | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](/question_bank/range-sum-query-immutable) | 易  | 0.63 |  | [:link:code](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
  | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | Range Sum Query 2D - Immutable | 中  | 0.45 |  |   |
  | [305](https://leetcode-cn.com/problems/number-of-islands-ii/) | Number of Islands II | 难  | 0.34 | :heavy_check_mark: |   |
  | [306](https://leetcode-cn.com/problems/additive-number/) | Additive Number | 中  | 0.32 |  |   |
@@ -427,7 +427,7 @@
  | [387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) | First Unique Character in a String | 易  | 0.46 |  |   |
  | [388](https://leetcode-cn.com/problems/longest-absolute-file-path/) | Longest Absolute File Path | 中  | 0.48 |  |   |
  | [389](https://leetcode-cn.com/problems/find-the-difference/) | Find the Difference | 易  | 0.63 |  |   |
- | [390](https://leetcode-cn.com/problems/elimination-game/) | Elimination Game | 中  | 0.45 |  |   |
+ | [390](https://leetcode-cn.com/problems/elimination-game/) | Elimination Game | 中  | 0.44 |  |   |
  | [391](https://leetcode-cn.com/problems/perfect-rectangle/) | Perfect Rectangle | 难  | 0.27 |  |   |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | Is Subsequence | 易  | 0.50 |  |   |
  | [393](https://leetcode-cn.com/problems/utf-8-validation/) | UTF-8 Validation | 中  | 0.39 |  |   |
@@ -767,7 +767,7 @@
  | [758](https://leetcode-cn.com/problems/bold-words-in-string/) | Bold Words in String | 易  | 0.45 | :heavy_check_mark: |   |
  | [759](https://leetcode-cn.com/problems/employee-free-time/) | Employee Free Time | 难  | 0.60 | :heavy_check_mark: |   |
  | [760](https://leetcode-cn.com/problems/find-anagram-mappings/) | Find Anagram Mappings | 易  | 0.84 | :heavy_check_mark: |   |
- | [761](https://leetcode-cn.com/problems/special-binary-string/) | Special Binary String | 难  | 0.57 |  |   |
+ | [761](https://leetcode-cn.com/problems/special-binary-string/) | Special Binary String | 难  | 0.56 |  |   |
  | [429](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | N-ary Tree Level Order Traversal | 中  | 0.66 |  |   |
  | [428](https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/) | Serialize and Deserialize N-ary Tree | 难  | 0.61 | :heavy_check_mark: |   |
  | [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | Flatten a Multilevel Doubly Linked List | 中  | 0.51 |  |   |
@@ -1043,7 +1043,7 @@
  | [1006](https://leetcode-cn.com/problems/clumsy-factorial/) | Clumsy Factorial | 中  | 0.51 |  |   |
  | [1007](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row/) | Minimum Domino Rotations For Equal Row | 中  | 0.44 |  |   |
  | [1008](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Construct Binary Search Tree from Preorder Traversal | 中  | 0.72 |  |   |
- | [1055](https://leetcode-cn.com/problems/shortest-way-to-form-string/) | Shortest Way to Form String | 中  | 0.58 | :heavy_check_mark: |   |
+ | [1055](https://leetcode-cn.com/problems/shortest-way-to-form-string/) | Shortest Way to Form String | 中  | 0.59 | :heavy_check_mark: |   |
  | [1057](https://leetcode-cn.com/problems/campus-bikes/) | Campus Bikes | 中  | 0.42 | :heavy_check_mark: |   |
  | [1058](https://leetcode-cn.com/problems/minimize-rounding-error-to-meet-target/) | Minimize Rounding Error to Meet Target | 中  | 0.31 | :heavy_check_mark: |   |
  | [1009](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | Complement of Base 10 Integer | 易  | 0.60 |  |   |
@@ -1523,7 +1523,7 @@
  | [1481](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals/) | Least Number of Unique Integers after K Removals | 中  | 0.51 |  |   |
  | [1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Minimum Number of Days to Make m Bouquets | 中  | 0.42 |  |   |
  | [1459](https://leetcode-cn.com/problems/rectangles-area/) | Rectangles Area | 中  | 0.53 | :heavy_check_mark: |   |
- | [1468](https://leetcode-cn.com/problems/calculate-salaries/) | Calculate Salaries | 中  | 0.74 | :heavy_check_mark: |   |
+ | [1468](https://leetcode-cn.com/problems/calculate-salaries/) | Calculate Salaries | 中  | 0.75 | :heavy_check_mark: |   |
  | [1469](https://leetcode-cn.com/problems/find-all-the-lonely-nodes/) | Find All The Lonely Nodes | 易  | 0.79 | :heavy_check_mark: |   |
  | [1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | XOR Operation in an Array | 易  | 0.86 |  |   |
  | [1487](https://leetcode-cn.com/problems/making-file-names-unique/) | Making File Names Unique | 中  | 0.28 |  |   |
