@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 51/1749 
+已通过 52/1749 
 
-简单: 31    中等: 18    困难: 2
+简单: 32    中等: 18    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -706,7 +706,7 @@
  | [688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | Knight Probability in Chessboard | 中  | 0.48 |  |   |
  | [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | Maximum Sum of 3 Non-Overlapping Subarrays | 难  | 0.46 |  |   |
  | [690](https://leetcode-cn.com/problems/employee-importance/) | Employee Importance | 易  | 0.59 |  |   |
- | [691](https://leetcode-cn.com/problems/stickers-to-spell-word/) | Stickers to Spell Word | 难  | 0.45 |  |   |
+ | [691](https://leetcode-cn.com/problems/stickers-to-spell-word/) | Stickers to Spell Word | 难  | 0.44 |  |   |
  | [692](https://leetcode-cn.com/problems/top-k-frequent-words/) | Top K Frequent Words | 中  | 0.52 |  |   |
  | [693](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | Binary Number with Alternating Bits | 易  | 0.61 |  |   |
  | [694](https://leetcode-cn.com/problems/number-of-distinct-islands/) | Number of Distinct Islands | 中  | 0.49 | :heavy_check_mark: |   |
@@ -1201,7 +1201,7 @@
  | [1188](https://leetcode-cn.com/problems/design-bounded-blocking-queue/) | Design Bounded Blocking Queue | 中  | 0.71 | :heavy_check_mark: |   |
  | [1286](https://leetcode-cn.com/problems/iterator-for-combination/) | Iterator for Combination | 中  | 0.61 |  |   |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | Sequential Digits | 中  | 0.49 |  |   |
- | [1259](https://leetcode-cn.com/problems/handshakes-that-dont-cross/) | Handshakes That Don't Cross | 难  | 0.46 | :heavy_check_mark: |   |
+ | [1259](https://leetcode-cn.com/problems/handshakes-that-dont-cross/) | Handshakes That Don't Cross | 难  | 0.47 | :heavy_check_mark: |   |
  | [1112](https://leetcode-cn.com/problems/highest-grade-for-each-student/) | Highest Grade For Each Student | 中  | 0.60 | :heavy_check_mark: |   |
  | [1113](https://leetcode-cn.com/problems/reported-posts/) | Reported Posts | 易  | 0.54 | :heavy_check_mark: |   |
  | [1116](https://leetcode-cn.com/problems/print-zero-even-odd/) | Print Zero Even Odd | 中  | 0.49 |  |   |
@@ -1226,7 +1226,7 @@
  | [1132](https://leetcode-cn.com/problems/reported-posts-ii/) | Reported Posts II | 中  | 0.40 | :heavy_check_mark: |   |
  | [1138](https://leetcode-cn.com/problems/alphabet-board-path/) | Alphabet Board Path | 中  | 0.41 |  |   |
  | [1139](https://leetcode-cn.com/problems/largest-1-bordered-square/) | Largest 1-Bordered Square | 中  | 0.46 |  |   |
- | [1140](https://leetcode-cn.com/problems/stone-game-ii/) | Stone Game II | 中  | 0.63 |  |   |
+ | [1140](https://leetcode-cn.com/problems/stone-game-ii/) | Stone Game II | 中  | 0.64 |  |   |
  | [1313](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | Decompress Run-Length Encoded List | 易  | 0.82 |  |   |
  | [1314](https://leetcode-cn.com/problems/matrix-block-sum/) | Matrix Block Sum | 中  | 0.71 |  |   |
  | [1315](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Sum of Nodes with Even-Valued Grandparent | 中  | 0.81 |  |   |
@@ -1529,7 +1529,7 @@
  | [1487](https://leetcode-cn.com/problems/making-file-names-unique/) | Making File Names Unique | 中  | 0.28 |  |   |
  | [1488](https://leetcode-cn.com/problems/avoid-flood-in-the-city/) | Avoid Flood in The City | 中  | 0.21 |  |   |
  | [1489](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | 难  | 0.49 |  |   |
- | [1508](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums/) | Range Sum of Sorted Subarray Sums | 中  | 0.67 |  |   |
+ | [1508](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums/) | Range Sum of Sorted Subarray Sums | 中  | 0.66 |  |   |
  | [1509](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/) | Minimum Difference Between Largest and Smallest Value in Three Moves | 中  | 0.52 |  |   |
  | [1510](https://leetcode-cn.com/problems/stone-game-iv/) | Stone Game IV | 难  | 0.51 |  |   |
  | [1474](https://leetcode-cn.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | Delete N Nodes After M Nodes of a Linked List | 易  | 0.71 | :heavy_check_mark: |   |
@@ -1581,7 +1581,7 @@
  | [1542](https://leetcode-cn.com/problems/find-longest-awesome-substring/) | Find Longest Awesome Substring | 难  | 0.32 |  |   |
  | [1547](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/) | Minimum Cost to Cut a Stick | 难  | 0.47 |  |   |
  | [1527](https://leetcode-cn.com/problems/patients-with-a-condition/) | Patients With a Condition | 易  | 0.85 | :heavy_check_mark: |   |
- | [1532](https://leetcode-cn.com/problems/the-most-recent-three-orders/) | The Most Recent Three Orders | 中  | 0.53 | :heavy_check_mark: |   |
+ | [1532](https://leetcode-cn.com/problems/the-most-recent-three-orders/) | The Most Recent Three Orders | 中  | 0.54 | :heavy_check_mark: |   |
  | [1533](https://leetcode-cn.com/problems/find-the-index-of-the-large-integer/) | Find the Index of the Large Integer | 中  | 0.78 | :heavy_check_mark: |   |
  | [1538](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array/) | Guess the Majority in a Hidden Array | 中  | 0.44 | :heavy_check_mark: |   |
  | [1543](https://leetcode-cn.com/problems/fix-product-name-format/) | Fix Product Name Format | 易  | 0.42 | :heavy_check_mark: |   |
@@ -1728,7 +1728,7 @@
  | [面试题 16.14](https://leetcode-cn.com/problems/best-line-lcci/) | Best Line LCCI | 中  | 0.49 |  |   |
  | [面试题 16.15](https://leetcode-cn.com/problems/master-mind-lcci/) | Master Mind LCCI | 易  | 0.50 |  |   |
  | [面试题 16.16](https://leetcode-cn.com/problems/sub-sort-lcci/) | Sub Sort LCCI | 中  | 0.44 |  |   |
- | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | Contiguous Sequence LCCI | 易  | 0.60 |  |   |
+ | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | 易  | 0.60 |  | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 16.18](https://leetcode-cn.com/problems/pattern-matching-lcci/) | Pattern Matching LCCI | 中  | 0.34 |  |   |
  | [面试题 16.19](https://leetcode-cn.com/problems/pond-sizes-lcci/) | Pond Sizes LCCI | 中  | 0.60 |  |   |
  | [面试题 01.05](https://leetcode-cn.com/problems/one-away-lcci/) | One Away LCCI | 中  | 0.32 |  |   |
