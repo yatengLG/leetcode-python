@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 52/1749 
+已通过 53/1749 
 
-简单: 32    中等: 18    困难: 2
+简单: 33    中等: 18    困难: 2
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -181,7 +181,7 @@
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | Linked List Cycle | 易  | 0.49 |  |   |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | Linked List Cycle II | 中  | 0.51 |  |   |
  | [143](https://leetcode-cn.com/problems/reorder-list/) | Reorder List | 中  | 0.56 |  |   |
- | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | 中  | 0.67 |  |   |
+ | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | Binary Tree Preorder Traversal | 中  | 0.66 |  |   |
  | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | Binary Tree Postorder Traversal | 难  | 0.72 |  |   |
  | [146](https://leetcode-cn.com/problems/lru-cache/) | LRU Cache | 中  | 0.50 |  |   |
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | Insertion Sort List | 中  | 0.65 |  |   |
@@ -1199,7 +1199,7 @@
  | [1110](https://leetcode-cn.com/problems/delete-nodes-and-return-forest/) | Delete Nodes And Return Forest | 中  | 0.60 |  |   |
  | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | Maximum Nesting Depth of Two Valid Parentheses Strings | 中  | 0.78 |  |   |
  | [1188](https://leetcode-cn.com/problems/design-bounded-blocking-queue/) | Design Bounded Blocking Queue | 中  | 0.71 | :heavy_check_mark: |   |
- | [1286](https://leetcode-cn.com/problems/iterator-for-combination/) | Iterator for Combination | 中  | 0.61 |  |   |
+ | [1286](https://leetcode-cn.com/problems/iterator-for-combination/) | Iterator for Combination | 中  | 0.60 |  |   |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | Sequential Digits | 中  | 0.49 |  |   |
  | [1259](https://leetcode-cn.com/problems/handshakes-that-dont-cross/) | Handshakes That Don't Cross | 难  | 0.47 | :heavy_check_mark: |   |
  | [1112](https://leetcode-cn.com/problems/highest-grade-for-each-student/) | Highest Grade For Each Student | 中  | 0.60 | :heavy_check_mark: |   |
@@ -1325,7 +1325,7 @@
  | [1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | Count Number of Nice Subarrays | 中  | 0.54 |  |   |
  | [1249](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | 中  | 0.56 |  |   |
  | [1250](https://leetcode-cn.com/problems/check-if-it-is-a-good-array/) | Check If It Is a Good Array | 难  | 0.52 |  |   |
- | [1428](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/) | Leftmost Column with at Least a One | 中  | 0.64 | :heavy_check_mark: |   |
+ | [1428](https://leetcode-cn.com/problems/leftmost-column-with-at-least-a-one/) | Leftmost Column with at Least a One | 中  | 0.65 | :heavy_check_mark: |   |
  | [1241](https://leetcode-cn.com/problems/number-of-comments-per-post/) | Number of Comments per Post | 易  | 0.60 | :heavy_check_mark: |   |
  | [1252](https://leetcode-cn.com/problems/cells-with-odd-values-in-a-matrix/) | Cells with Odd Values in a Matrix | 易  | 0.76 |  |   |
  | [1253](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix/) | Reconstruct a 2-Row Binary Matrix | 中  | 0.38 |  |   |
@@ -1714,7 +1714,7 @@
  | [剑指 Offer 67](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | 把字符串转换成整数 LCOF | 中  | 0.28 |  |   |
  | [剑指 Offer 61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | 扑克牌中的顺子  LCOF | 易  | 0.45 |  |   |
  | [剑指 Offer 55 - II](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | 平衡二叉树 LCOF | 易  | 0.58 |  |   |
- | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 LCOF | 易  | 0.62 |  |   |
+ | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | 圆圈中最后剩下的数字 LCOF | 易  | 0.63 |  |   |
  | [剑指 Offer 63](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | 股票的最大利润  LCOF | 中  | 0.64 |  |   |
  | [剑指 Offer 64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | 求1+2+…+n LCOF | 中  | 0.85 |  |   |
  | [剑指 Offer 68 - I](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | 二叉搜索树的最近公共祖先 LCOF | 易  | 0.69 |  |   |
@@ -1747,7 +1747,7 @@
  | [面试题 17.13](https://leetcode-cn.com/problems/re-space-lcci/) | Re-Space LCCI | 中  | 0.56 |  |   |
  | [面试题 17.14](https://leetcode-cn.com/problems/smallest-k-lcci/) | Smallest K LCCI | 中  | 0.56 |  |   |
  | [面试题 17.15](https://leetcode-cn.com/problems/longest-word-lcci/) | Longest Word LCCI | 中  | 0.38 |  |   |
- | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | The Masseuse LCCI | 易  | 0.53 |  |   |
+ | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [The Masseuse LCCI](/question_bank/the-masseuse-lcci) | 易  | 0.53 |  | [:link:code](/question_bank/the-masseuse-lcci/the-masseuse-lcci.py) |
  | [面试题 17.17](https://leetcode-cn.com/problems/multi-search-lcci/) | Multi Search LCCI | 中  | 0.43 |  |   |
  | [面试题 17.01](https://leetcode-cn.com/problems/add-without-plus-lcci/) | Add Without Plus LCCI | 易  | 0.56 |  |   |
  | [面试题 16.25](https://leetcode-cn.com/problems/lru-cache-lcci/) | LRU Cache LCCI | 中  | 0.54 |  |   |
