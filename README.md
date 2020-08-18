@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 64/1753 
+已通过 65/1753 
 
-简单: 35    中等: 24    困难: 5
+简单: 35    中等: 25    困难: 5
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -189,7 +189,7 @@
  | [149](https://leetcode-cn.com/problems/max-points-on-a-line/) | Max Points on a Line | 难  | 0.23 |  |   |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | Evaluate Reverse Polish Notation | 中  | 0.50 |  |   |
  | [151](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | Reverse Words in a String | 中  | 0.43 |  |   |
- | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | Maximum Product Subarray | 中  | 0.40 |  |   |
+ | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Maximum Product Subarray](/question_bank/maximum-product-subarray) | 中  | 0.40 |  | [:link:code](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
  | [153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | Find Minimum in Rotated Sorted Array | 中  | 0.52 |  |   |
  | [154](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Find Minimum in Rotated Sorted Array II | 难  | 0.50 |  |   |
  | [155](https://leetcode-cn.com/problems/min-stack/) | Min Stack | 易  | 0.55 |  |   |
@@ -473,7 +473,7 @@
  | [439](https://leetcode-cn.com/problems/ternary-expression-parser/) | Ternary Expression Parser | 中  | 0.57 | :heavy_check_mark: |   |
  | [440](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/) | K-th Smallest in Lexicographical Order | 难  | 0.35 |  |   |
  | [441](https://leetcode-cn.com/problems/arranging-coins/) | Arranging Coins | 易  | 0.41 |  |   |
- | [442](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | 中  | 0.67 |  |   |
+ | [442](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | Find All Duplicates in an Array | 中  | 0.66 |  |   |
  | [443](https://leetcode-cn.com/problems/string-compression/) | String Compression | 易  | 0.40 |  |   |
  | [444](https://leetcode-cn.com/problems/sequence-reconstruction/) | Sequence Reconstruction | 中  | 0.22 | :heavy_check_mark: |   |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | Add Two Numbers II | 中  | 0.58 |  |   |
@@ -1570,7 +1570,7 @@
  | [1529](https://leetcode-cn.com/problems/bulb-switcher-iv/) | Bulb Switcher IV | 中  | 0.67 |  |   |
  | [1530](https://leetcode-cn.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | 中  | 0.51 |  |   |
  | [1511](https://leetcode-cn.com/problems/customer-order-frequency/) | Customer Order Frequency | 易  | 0.70 | :heavy_check_mark: |   |
- | [1516](https://leetcode-cn.com/problems/move-sub-tree-of-n-ary-tree/) | Move Sub-Tree of N-Ary Tree | 难  | 0.56 | :heavy_check_mark: |   |
+ | [1516](https://leetcode-cn.com/problems/move-sub-tree-of-n-ary-tree/) | Move Sub-Tree of N-Ary Tree | 难  | 0.55 | :heavy_check_mark: |   |
  | [1534](https://leetcode-cn.com/problems/count-good-triplets/) | Count Good Triplets | 易  | 0.78 |  |   |
  | [1535](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | 中  | 0.43 |  |   |
  | [1536](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Minimum Swaps to Arrange a Binary Grid | 中  | 0.40 |  |   |
@@ -1769,7 +1769,7 @@
  | [面试题 17.10](https://leetcode-cn.com/problems/find-majority-element-lcci/) | Find Majority Element LCCI | 易  | 0.65 |  |   |
  | [面试题 17.11](https://leetcode-cn.com/problems/find-closest-lcci/) | Find Closest LCCI | 中  | 0.67 |  |   |
  | [面试题 10.02](https://leetcode-cn.com/problems/group-anagrams-lcci/) | Group Anagrams LCCI | 中  | 0.65 |  |   |
- | [面试题 10.10](https://leetcode-cn.com/problems/rank-from-stream-lcci/) | Rank from Stream LCCI | 中  | 0.61 |  |   |
+ | [面试题 10.10](https://leetcode-cn.com/problems/rank-from-stream-lcci/) | Rank from Stream LCCI | 中  | 0.62 |  |   |
  | [面试题 16.24](https://leetcode-cn.com/problems/pairs-with-sum-lcci/) | Pairs With Sum LCCI | 中  | 0.46 |  |   |
  | [面试题 17.18](https://leetcode-cn.com/problems/shortest-supersequence-lcci/) | Shortest Supersequence LCCI | 中  | 0.44 |  |   |
  | [面试题 17.19](https://leetcode-cn.com/problems/missing-two-lcci/) | Missing Two LCCI | 难  | 0.55 |  |   |
