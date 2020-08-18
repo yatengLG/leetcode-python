@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 62/1753 
+已通过 63/1753 
 
-简单: 35    中等: 22    困难: 5
+简单: 35    中等: 23    困难: 5
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -157,7 +157,7 @@
  | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | Populating Next Right Pointers in Each Node II | 中  | 0.51 |  |   |
  | [118](https://leetcode-cn.com/problems/pascals-triangle/) | Pascal's Triangle | 易  | 0.67 |  |   |
  | [119](https://leetcode-cn.com/problems/pascals-triangle-ii/) | Pascal's Triangle II | 易  | 0.62 |  |   |
- | [120](https://leetcode-cn.com/problems/triangle/) | Triangle | 中  | 0.67 |  |   |
+ | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | 中  | 0.67 |  | [:link:code](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | 易  | 0.55 |  | [:link:code](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | Best Time to Buy and Sell Stock II | 易  | 0.62 |  |   |
  | [123](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/) | Best Time to Buy and Sell Stock III | 难  | 0.45 |  |   |
@@ -524,7 +524,7 @@
  | [493](https://leetcode-cn.com/problems/reverse-pairs/) | Reverse Pairs | 难  | 0.28 |  |   |
  | [494](https://leetcode-cn.com/problems/target-sum/) | Target Sum | 中  | 0.44 |  |   |
  | [495](https://leetcode-cn.com/problems/teemo-attacking/) | Teemo Attacking | 中  | 0.54 |  |   |
- | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | Next Greater Element I | 易  | 0.65 |  |   |
+ | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | Next Greater Element I | 易  | 0.66 |  |   |
  | [498](https://leetcode-cn.com/problems/diagonal-traverse/) | Diagonal Traverse | 中  | 0.42 |  |   |
  | [499](https://leetcode-cn.com/problems/the-maze-iii/) | The Maze III | 难  | 0.33 | :heavy_check_mark: |   |
  | [500](https://leetcode-cn.com/problems/keyboard-row/) | Keyboard Row | 易  | 0.70 |  |   |
@@ -838,7 +838,7 @@
  | [813](https://leetcode-cn.com/problems/largest-sum-of-averages/) | Largest Sum of Averages | 中  | 0.51 |  |   |
  | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | Binary Tree Pruning | 中  | 0.74 |  |   |
  | [815](https://leetcode-cn.com/problems/bus-routes/) | Bus Routes | 难  | 0.31 |  |   |
- | [816](https://leetcode-cn.com/problems/ambiguous-coordinates/) | Ambiguous Coordinates | 中  | 0.49 |  |   |
+ | [816](https://leetcode-cn.com/problems/ambiguous-coordinates/) | Ambiguous Coordinates | 中  | 0.50 |  |   |
  | [817](https://leetcode-cn.com/problems/linked-list-components/) | Linked List Components | 中  | 0.58 |  |   |
  | [818](https://leetcode-cn.com/problems/race-car/) | Race Car | 难  | 0.37 |  |   |
  | [819](https://leetcode-cn.com/problems/most-common-word/) | Most Common Word | 易  | 0.41 |  |   |
@@ -1274,7 +1274,7 @@
  | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | 易  | 0.60 |  | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1187](https://leetcode-cn.com/problems/make-array-strictly-increasing/) | Make Array Strictly Increasing | 难  | 0.40 |  |   |
  | [1173](https://leetcode-cn.com/problems/immediate-food-delivery-i/) | Immediate Food Delivery I | 易  | 0.76 | :heavy_check_mark: |   |
- | [1174](https://leetcode-cn.com/problems/immediate-food-delivery-ii/) | Immediate Food Delivery II | 中  | 0.56 | :heavy_check_mark: |   |
+ | [1174](https://leetcode-cn.com/problems/immediate-food-delivery-ii/) | Immediate Food Delivery II | 中  | 0.57 | :heavy_check_mark: |   |
  | [1550](https://leetcode-cn.com/problems/three-consecutive-odds/) | Three Consecutive Odds | 易  | 0.73 |  |   |
  | [1483](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node/) | Kth Ancestor of a Tree Node | 难  | 0.27 |  |   |
  | [1189](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | Maximum Number of Balloons | 易  | 0.64 |  |   |
@@ -1556,7 +1556,7 @@
  | [1515](https://leetcode-cn.com/problems/best-position-for-a-service-centre/) | Best Position for a Service Centre | 难  | 0.32 |  |   |
  | [1495](https://leetcode-cn.com/problems/friendly-movies-streamed-last-month/) | Friendly Movies Streamed Last Month | 易  | 0.55 | :heavy_check_mark: |   |
  | [1500](https://leetcode-cn.com/problems/design-a-file-sharing-system/) | Design a File Sharing System | 中  | 0.55 | :heavy_check_mark: |   |
- | [1501](https://leetcode-cn.com/problems/countries-you-can-safely-invest-in/) | Countries You Can Safely Invest In | 中  | 0.62 | :heavy_check_mark: |   |
+ | [1501](https://leetcode-cn.com/problems/countries-you-can-safely-invest-in/) | Countries You Can Safely Invest In | 中  | 0.61 | :heavy_check_mark: |   |
  | [1518](https://leetcode-cn.com/problems/water-bottles/) | Water Bottles | 易  | 0.69 |  |   |
  | [1519](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Number of Nodes in the Sub-Tree With the Same Label | 中  | 0.26 |  |   |
  | [1520](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/) | Maximum Number of Non-Overlapping Substrings | 中  | 0.29 |  |   |
