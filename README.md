@@ -27,9 +27,9 @@
     |-- README.md
     |-- question_bank
         |-- question1
-            |-- question1.py
-     # 解题代码            |-- question1.md
-     # 题目        |-- question2
+            |-- question1.py     # 解题代码
+            |-- question1.md     # 题目
+        |-- question2
             |-- question2.py
             |-- question2.md
         ……
