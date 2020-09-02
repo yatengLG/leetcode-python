@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 88/1769 
+已通过 91/1769 
 
-简单: 38    中等: 45    困难: 5
+简单: 38    中等: 48    困难: 5
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -80,7 +80,7 @@
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | Combination Sum II | 中  | 0.63 |  |   |
  | [41](https://leetcode-cn.com/problems/first-missing-positive/) | First Missing Positive | 难  | 0.40 |  |   |
  | [42](https://leetcode-cn.com/problems/trapping-rain-water/) | Trapping Rain Water | 难  | 0.52 |  |   |
- | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中  | 0.45 |  | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
+ | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中  | 0.44 |  | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [Wildcard Matching](/question_bank/wildcard-matching) | 难  | 0.31 |  | [:link:code](/question_bank/wildcard-matching/wildcard-matching.py) |
  | [45](https://leetcode-cn.com/problems/jump-game-ii/) | Jump Game II | 难  | 0.37 |  |   |
  | [46](https://leetcode-cn.com/problems/permutations/) | Permutations | 中  | 0.77 |  |   |
@@ -232,7 +232,7 @@
  | [192](https://leetcode-cn.com/problems/word-frequency/) | Word Frequency | 中  | 0.34 |  |   |
  | [193](https://leetcode-cn.com/problems/valid-phone-numbers/) | Valid Phone Numbers | 易  | 0.30 |  |   |
  | [194](https://leetcode-cn.com/problems/transpose-file/) | Transpose File | 中  | 0.34 |  |   |
- | [195](https://leetcode-cn.com/problems/tenth-line/) | Tenth Line | 易  | 0.43 |  |   |
+ | [195](https://leetcode-cn.com/problems/tenth-line/) | Tenth Line | 易  | 0.44 |  |   |
  | [196](https://leetcode-cn.com/problems/delete-duplicate-emails/) | Delete Duplicate Emails | 易  | 0.64 |  |   |
  | [197](https://leetcode-cn.com/problems/rising-temperature/) | Rising Temperature | 易  | 0.52 |  |   |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [House Robber](/question_bank/house-robber) | 易  | 0.47 |  | [:link:code](/question_bank/house-robber/house-robber.py) |
@@ -315,11 +315,11 @@
  | [275](https://leetcode-cn.com/problems/h-index-ii/) | H-Index II | 中  | 0.42 |  |   |
  | [276](https://leetcode-cn.com/problems/paint-fence/) | Paint Fence | 易  | 0.45 | :heavy_check_mark: |   |
  | [277](https://leetcode-cn.com/problems/find-the-celebrity/) | Find the Celebrity | 中  | 0.57 | :heavy_check_mark: |   |
- | [278](https://leetcode-cn.com/problems/first-bad-version/) | First Bad Version | 易  | 0.40 |  |   |
+ | [278](https://leetcode-cn.com/problems/first-bad-version/) | First Bad Version | 易  | 0.41 |  |   |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [Perfect Squares](/question_bank/perfect-squares) | 中  | 0.58 |  | [:link:code](/question_bank/perfect-squares/perfect-squares.py) |
  | [280](https://leetcode-cn.com/problems/wiggle-sort/) | Wiggle Sort | 中  | 0.68 | :heavy_check_mark: |   |
  | [281](https://leetcode-cn.com/problems/zigzag-iterator/) | Zigzag Iterator | 中  | 0.75 | :heavy_check_mark: |   |
- | [282](https://leetcode-cn.com/problems/expression-add-operators/) | Expression Add Operators | 难  | 0.34 |  |   |
+ | [282](https://leetcode-cn.com/problems/expression-add-operators/) | Expression Add Operators | 难  | 0.35 |  |   |
  | [283](https://leetcode-cn.com/problems/move-zeroes/) | Move Zeroes | 易  | 0.62 |  |   |
  | [284](https://leetcode-cn.com/problems/peeking-iterator/) | Peeking Iterator | 中  | 0.71 |  |   |
  | [285](https://leetcode-cn.com/problems/inorder-successor-in-bst/) | Inorder Successor in BST | 中  | 0.63 | :heavy_check_mark: |   |
@@ -350,14 +350,14 @@
  | [310](https://leetcode-cn.com/problems/minimum-height-trees/) | Minimum Height Trees | 中  | 0.35 |  |   |
  | [311](https://leetcode-cn.com/problems/sparse-matrix-multiplication/) | Sparse Matrix Multiplication | 中  | 0.75 | :heavy_check_mark: |   |
  | [312](https://leetcode-cn.com/problems/burst-balloons/) | Burst Balloons | 难  | 0.67 |  |   |
- | [313](https://leetcode-cn.com/problems/super-ugly-number/) | Super Ugly Number | 中  | 0.63 |  |   |
+ | [313](https://leetcode-cn.com/problems/super-ugly-number/) | Super Ugly Number | 中  | 0.64 |  |   |
  | [314](https://leetcode-cn.com/problems/binary-tree-vertical-order-traversal/) | Binary Tree Vertical Order Traversal | 中  | 0.55 | :heavy_check_mark: |   |
  | [315](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/) | Count of Smaller Numbers After Self | 难  | 0.41 |  |   |
  | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | Remove Duplicate Letters | 难  | 0.41 |  |   |
  | [317](https://leetcode-cn.com/problems/shortest-distance-from-all-buildings/) | Shortest Distance from All Buildings | 难  | 0.47 | :heavy_check_mark: |   |
  | [318](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | Maximum Product of Word Lengths | 中  | 0.65 |  |   |
  | [319](https://leetcode-cn.com/problems/bulb-switcher/) | Bulb Switcher | 中  | 0.47 |  |   |
- | [320](https://leetcode-cn.com/problems/generalized-abbreviation/) | Generalized Abbreviation | 中  | 0.66 | :heavy_check_mark: |   |
+ | [320](https://leetcode-cn.com/problems/generalized-abbreviation/) | Generalized Abbreviation | 中  | 0.65 | :heavy_check_mark: |   |
  | [321](https://leetcode-cn.com/problems/create-maximum-number/) | Create Maximum Number | 难  | 0.31 |  |   |
  | [322](https://leetcode-cn.com/problems/coin-change/) | [Coin Change](/question_bank/coin-change) | 中  | 0.41 |  | [:link:code](/question_bank/coin-change/coin-change.py) |
  | [323](https://leetcode-cn.com/problems/number-of-connected-components-in-an-undirected-graph/) | Number of Connected Components in an Undirected Graph | 中  | 0.59 | :heavy_check_mark: |   |
@@ -413,7 +413,7 @@
  | [373](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/) | Find K Pairs with Smallest Sums | 中  | 0.43 |  |   |
  | [374](https://leetcode-cn.com/problems/guess-number-higher-or-lower/) | Guess Number Higher or Lower | 易  | 0.45 |  |   |
  | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | 中  | 0.40 |  | [:link:code](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
- | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | Wiggle Subsequence | 中  | 0.42 |  |   |
+ | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | 中  | 0.42 |  | [:link:code](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | Combination Sum IV | 中  | 0.43 |  |   |
  | [378](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Kth Smallest Element in a Sorted Matrix | 中  | 0.63 |  |   |
  | [379](https://leetcode-cn.com/problems/design-phone-directory/) | Design Phone Directory | 中  | 0.67 | :heavy_check_mark: |   |
@@ -462,7 +462,7 @@
  | [422](https://leetcode-cn.com/problems/valid-word-square/) | Valid Word Square | 易  | 0.41 | :heavy_check_mark: |   |
  | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | Reconstruct Original Digits from English | 中  | 0.54 |  |   |
  | [424](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | Longest Repeating Character Replacement | 中  | 0.48 |  |   |
- | [425](https://leetcode-cn.com/problems/word-squares/) | Word Squares | 难  | 0.57 | :heavy_check_mark: |   |
+ | [425](https://leetcode-cn.com/problems/word-squares/) | Word Squares | 难  | 0.58 | :heavy_check_mark: |   |
  | [432](https://leetcode-cn.com/problems/all-oone-data-structure/) | All O`one Data Structure | 难  | 0.35 |  |   |
  | [433](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | Minimum Genetic Mutation | 中  | 0.52 |  |   |
  | [434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | Number of Segments in a String | 易  | 0.36 |  |   |
@@ -481,7 +481,7 @@
  | [447](https://leetcode-cn.com/problems/number-of-boomerangs/) | Number of Boomerangs | 易  | 0.58 |  |   |
  | [448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | Find All Numbers Disappeared in an Array | 易  | 0.60 |  |   |
  | [449](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/) | Serialize and Deserialize BST | 中  | 0.53 |  |   |
- | [450](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | Delete Node in a BST | 中  | 0.43 |  |   |
+ | [450](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | Delete Node in a BST | 中  | 0.44 |  |   |
  | [451](https://leetcode-cn.com/problems/sort-characters-by-frequency/) | Sort Characters By Frequency | 中  | 0.65 |  |   |
  | [452](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Minimum Number of Arrows to Burst Balloons | 中  | 0.51 |  |   |
  | [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | Minimum Moves to Equal Array Elements | 易  | 0.55 |  |   |
@@ -515,7 +515,7 @@
  | [483](https://leetcode-cn.com/problems/smallest-good-base/) | Smallest Good Base | 难  | 0.40 |  |   |
  | [484](https://leetcode-cn.com/problems/find-permutation/) | Find Permutation | 中  | 0.65 | :heavy_check_mark: |   |
  | [485](https://leetcode-cn.com/problems/max-consecutive-ones/) | Max Consecutive Ones | 易  | 0.57 |  |   |
- | [486](https://leetcode-cn.com/problems/predict-the-winner/) | Predict the Winner | 中  | 0.57 |  |   |
+ | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [Predict the Winner](/question_bank/predict-the-winner) | 中  | 0.59 |  | [:link:code](/question_bank/predict-the-winner/predict-the-winner.py) |
  | [487](https://leetcode-cn.com/problems/max-consecutive-ones-ii/) | Max Consecutive Ones II | 中  | 0.55 | :heavy_check_mark: |   |
  | [488](https://leetcode-cn.com/problems/zuma-game/) | Zuma Game | 难  | 0.43 |  |   |
  | [490](https://leetcode-cn.com/problems/the-maze/) | The Maze | 中  | 0.46 | :heavy_check_mark: |   |
@@ -532,7 +532,7 @@
  | [502](https://leetcode-cn.com/problems/ipo/) | IPO | 难  | 0.40 |  |   |
  | [503](https://leetcode-cn.com/problems/next-greater-element-ii/) | Next Greater Element II | 中  | 0.57 |  |   |
  | [504](https://leetcode-cn.com/problems/base-7/) | Base 7 | 易  | 0.49 |  |   |
- | [505](https://leetcode-cn.com/problems/the-maze-ii/) | The Maze II | 中  | 0.46 | :heavy_check_mark: |   |
+ | [505](https://leetcode-cn.com/problems/the-maze-ii/) | The Maze II | 中  | 0.45 | :heavy_check_mark: |   |
  | [506](https://leetcode-cn.com/problems/relative-ranks/) | Relative Ranks | 易  | 0.55 |  |   |
  | [507](https://leetcode-cn.com/problems/perfect-number/) | Perfect Number | 易  | 0.38 |  |   |
  | [508](https://leetcode-cn.com/problems/most-frequent-subtree-sum/) | Most Frequent Subtree Sum | 中  | 0.65 |  |   |
@@ -545,7 +545,7 @@
  | [517](https://leetcode-cn.com/problems/super-washing-machines/) | Super Washing Machines | 难  | 0.42 |  |   |
  | [518](https://leetcode-cn.com/problems/coin-change-2/) | Coin Change 2 | 中  | 0.55 |  |   |
  | [520](https://leetcode-cn.com/problems/detect-capital/) | Detect Capital | 易  | 0.55 |  |   |
- | [521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | Longest Uncommon Subsequence I  | 易  | 0.69 |  |   |
+ | [521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | Longest Uncommon Subsequence I | 易  | 0.69 |  |   |
  | [522](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/) | Longest Uncommon Subsequence II | 中  | 0.34 |  |   |
  | [523](https://leetcode-cn.com/problems/continuous-subarray-sum/) | Continuous Subarray Sum | 中  | 0.22 |  |   |
  | [524](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | Longest Word in Dictionary through Deleting | 中  | 0.46 |  |   |
@@ -594,7 +594,7 @@
  | [572](https://leetcode-cn.com/problems/subtree-of-another-tree/) | Subtree of Another Tree | 易  | 0.47 |  |   |
  | [573](https://leetcode-cn.com/problems/squirrel-simulation/) | Squirrel Simulation | 中  | 0.65 | :heavy_check_mark: |   |
  | [574](https://leetcode-cn.com/problems/winning-candidate/) | Winning Candidate | 中  | 0.62 | :heavy_check_mark: |   |
- | [575](https://leetcode-cn.com/problems/distribute-candies/) | Distribute Candies | 易  | 0.68 |  |   |
+ | [575](https://leetcode-cn.com/problems/distribute-candies/) | Distribute Candies | 易  | 0.67 |  |   |
  | [576](https://leetcode-cn.com/problems/out-of-boundary-paths/) | Out of Boundary Paths | 中  | 0.37 |  |   |
  | [577](https://leetcode-cn.com/problems/employee-bonus/) | Employee Bonus | 易  | 0.71 | :heavy_check_mark: |   |
  | [578](https://leetcode-cn.com/problems/get-highest-answer-rate-question/) | Get Highest Answer Rate Question | 中  | 0.51 | :heavy_check_mark: |   |
@@ -669,8 +669,8 @@
  | [651](https://leetcode-cn.com/problems/4-keys-keyboard/) | 4 Keys Keyboard | 中  | 0.58 | :heavy_check_mark: |   |
  | [652](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | Find Duplicate Subtrees | 中  | 0.54 |  |   |
  | [653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | Two Sum IV - Input is a BST | 易  | 0.56 |  |   |
- | [654](https://leetcode-cn.com/problems/maximum-binary-tree/) | Maximum Binary Tree | 中  | 0.81 |  |   |
- | [655](https://leetcode-cn.com/problems/print-binary-tree/) | Print Binary Tree | 中  | 0.57 |  |   |
+ | [654](https://leetcode-cn.com/problems/maximum-binary-tree/) | Maximum Binary Tree | 中  | 0.82 |  |   |
+ | [655](https://leetcode-cn.com/problems/print-binary-tree/) | Print Binary Tree | 中  | 0.58 |  |   |
  | [656](https://leetcode-cn.com/problems/coin-path/) | Coin Path | 难  | 0.30 | :heavy_check_mark: |   |
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | 易  | 0.79 |  | [:link:code](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
  | [658](https://leetcode-cn.com/problems/find-k-closest-elements/) | Find K Closest Elements | 中  | 0.44 |  |   |
@@ -693,17 +693,17 @@
  | [675](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event/) | Cut Off Trees for Golf Event | 难  | 0.38 |  |   |
  | [676](https://leetcode-cn.com/problems/implement-magic-dictionary/) | Implement Magic Dictionary | 中  | 0.57 |  |   |
  | [677](https://leetcode-cn.com/problems/map-sum-pairs/) | Map Sum Pairs | 中  | 0.61 |  |   |
- | [678](https://leetcode-cn.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | 中  | 0.34 |  |   |
+ | [678](https://leetcode-cn.com/problems/valid-parenthesis-string/) | Valid Parenthesis String | 中  | 0.33 |  |   |
  | [679](https://leetcode-cn.com/problems/24-game/) | 24 Game | 难  | 0.55 |  |   |
  | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | Valid Palindrome II | 易  | 0.40 |  |   |
  | [681](https://leetcode-cn.com/problems/next-closest-time/) | Next Closest Time | 中  | 0.50 | :heavy_check_mark: |   |
  | [682](https://leetcode-cn.com/problems/baseball-game/) | Baseball Game | 易  | 0.68 |  |   |
  | [683](https://leetcode-cn.com/problems/k-empty-slots/) | K Empty Slots | 难  | 0.39 | :heavy_check_mark: |   |
  | [684](https://leetcode-cn.com/problems/redundant-connection/) | Redundant Connection | 中  | 0.60 |  |   |
- | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | Redundant Connection II | 难  | 0.35 |  |   |
+ | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | Redundant Connection II | 难  | 0.36 |  |   |
  | [686](https://leetcode-cn.com/problems/repeated-string-match/) | Repeated String Match | 中  | 0.34 |  |   |
  | [687](https://leetcode-cn.com/problems/longest-univalue-path/) | Longest Univalue Path | 易  | 0.42 |  |   |
- | [688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | Knight Probability in Chessboard | 中  | 0.48 |  |   |
+ | [688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | Knight Probability in Chessboard | 中  | 0.49 |  |   |
  | [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | Maximum Sum of 3 Non-Overlapping Subarrays | 难  | 0.46 |  |   |
  | [690](https://leetcode-cn.com/problems/employee-importance/) | Employee Importance | 易  | 0.59 |  |   |
  | [691](https://leetcode-cn.com/problems/stickers-to-spell-word/) | Stickers to Spell Word | 难  | 0.45 |  |   |
@@ -712,7 +712,7 @@
  | [694](https://leetcode-cn.com/problems/number-of-distinct-islands/) | Number of Distinct Islands | 中  | 0.49 | :heavy_check_mark: |   |
  | [695](https://leetcode-cn.com/problems/max-area-of-island/) | Max Area of Island | 中  | 0.64 |  |   |
  | [696](https://leetcode-cn.com/problems/count-binary-substrings/) | Count Binary Substrings | 易  | 0.62 |  |   |
- | [697](https://leetcode-cn.com/problems/degree-of-an-array/) | Degree of an Array | 易  | 0.54 |  |   |
+ | [697](https://leetcode-cn.com/problems/degree-of-an-array/) | Degree of an Array | 易  | 0.55 |  |   |
  | [698](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/) | Partition to K Equal Sum Subsets | 中  | 0.43 |  |   |
  | [699](https://leetcode-cn.com/problems/falling-squares/) | Falling Squares | 难  | 0.41 |  |   |
  | [711](https://leetcode-cn.com/problems/number-of-distinct-islands-ii/) | Number of Distinct Islands II | 难  | 0.55 | :heavy_check_mark: |   |
@@ -754,8 +754,8 @@
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | 易  | 0.50 |  | [:link:code](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/) | Largest Number At Least Twice of Others | 易  | 0.40 |  |   |
  | [748](https://leetcode-cn.com/problems/shortest-completing-word/) | Shortest Completing Word | 易  | 0.59 |  |   |
- | [749](https://leetcode-cn.com/problems/contain-virus/) | Contain Virus | 难  | 0.47 |  |   |
- | [750](https://leetcode-cn.com/problems/number-of-corner-rectangles/) | Number Of Corner Rectangles | 中  | 0.72 | :heavy_check_mark: |   |
+ | [749](https://leetcode-cn.com/problems/contain-virus/) | Contain Virus | 难  | 0.46 |  |   |
+ | [750](https://leetcode-cn.com/problems/number-of-corner-rectangles/) | Number Of Corner Rectangles | 中  | 0.73 | :heavy_check_mark: |   |
  | [751](https://leetcode-cn.com/problems/ip-to-cidr/) | IP to CIDR | 易  | 0.60 | :heavy_check_mark: |   |
  | [752](https://leetcode-cn.com/problems/open-the-lock/) | Open the Lock | 中  | 0.49 |  |   |
  | [753](https://leetcode-cn.com/problems/cracking-the-safe/) | Cracking the Safe | 难  | 0.56 |  |   |
@@ -765,7 +765,7 @@
  | [426](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | Convert Binary Search Tree to Sorted Doubly Linked List | 中  | 0.64 | :heavy_check_mark: |   |
  | [757](https://leetcode-cn.com/problems/set-intersection-size-at-least-two/) | Set Intersection Size At Least Two | 难  | 0.39 |  |   |
  | [758](https://leetcode-cn.com/problems/bold-words-in-string/) | Bold Words in String | 易  | 0.45 | :heavy_check_mark: |   |
- | [759](https://leetcode-cn.com/problems/employee-free-time/) | Employee Free Time | 难  | 0.60 | :heavy_check_mark: |   |
+ | [759](https://leetcode-cn.com/problems/employee-free-time/) | Employee Free Time | 难  | 0.61 | :heavy_check_mark: |   |
  | [760](https://leetcode-cn.com/problems/find-anagram-mappings/) | Find Anagram Mappings | 易  | 0.84 | :heavy_check_mark: |   |
  | [761](https://leetcode-cn.com/problems/special-binary-string/) | Special Binary String | 难  | 0.56 |  |   |
  | [429](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) | N-ary Tree Level Order Traversal | 中  | 0.66 |  |   |
@@ -792,7 +792,7 @@
  | [772](https://leetcode-cn.com/problems/basic-calculator-iii/) | Basic Calculator III | 难  | 0.39 | :heavy_check_mark: |   |
  | [702](https://leetcode-cn.com/problems/search-in-a-sorted-array-of-unknown-size/) | Search in a Sorted Array of Unknown Size | 中  | 0.69 | :heavy_check_mark: |   |
  | [773](https://leetcode-cn.com/problems/sliding-puzzle/) | Sliding Puzzle | 难  | 0.60 |  |   |
- | [774](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station/) | Minimize Max Distance to Gas Station | 难  | 0.57 | :heavy_check_mark: |   |
+ | [774](https://leetcode-cn.com/problems/minimize-max-distance-to-gas-station/) | Minimize Max Distance to Gas Station | 难  | 0.58 | :heavy_check_mark: |   |
  | [703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | Kth Largest Element in a Stream | 易  | 0.45 |  |   |
  | [775](https://leetcode-cn.com/problems/global-and-local-inversions/) | Global and Local Inversions | 中  | 0.44 |  |   |
  | [776](https://leetcode-cn.com/problems/split-bst/) | Split BST | 中  | 0.58 | :heavy_check_mark: |   |
@@ -802,7 +802,7 @@
  | [779](https://leetcode-cn.com/problems/k-th-symbol-in-grammar/) | K-th Symbol in Grammar | 中  | 0.43 |  |   |
  | [780](https://leetcode-cn.com/problems/reaching-points/) | Reaching Points | 难  | 0.27 |  |   |
  | [781](https://leetcode-cn.com/problems/rabbits-in-forest/) | Rabbits in Forest | 中  | 0.56 |  |   |
- | [782](https://leetcode-cn.com/problems/transform-to-chessboard/) | Transform to Chessboard | 难  | 0.41 |  |   |
+ | [782](https://leetcode-cn.com/problems/transform-to-chessboard/) | Transform to Chessboard | 难  | 0.42 |  |   |
  | [783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | Minimum Distance Between BST Nodes | 易  | 0.54 |  |   |
  | [784](https://leetcode-cn.com/problems/letter-case-permutation/) | Letter Case Permutation | 中  | 0.65 |  |   |
  | [785](https://leetcode-cn.com/problems/is-graph-bipartite/) | Is Graph Bipartite? | 中  | 0.50 |  |   |
@@ -822,7 +822,7 @@
  | [799](https://leetcode-cn.com/problems/champagne-tower/) | Champagne Tower | 中  | 0.37 |  |   |
  | [705](https://leetcode-cn.com/problems/design-hashset/) | Design HashSet | 易  | 0.57 |  |   |
  | [706](https://leetcode-cn.com/problems/design-hashmap/) | Design HashMap | 易  | 0.58 |  |   |
- | [800](https://leetcode-cn.com/problems/similar-rgb-color/) | Similar RGB Color | 易  | 0.67 | :heavy_check_mark: |   |
+ | [800](https://leetcode-cn.com/problems/similar-rgb-color/) | Similar RGB Color | 易  | 0.68 | :heavy_check_mark: |   |
  | [801](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/) | Minimum Swaps To Make Sequences Increasing | 中  | 0.41 |  |   |
  | [802](https://leetcode-cn.com/problems/find-eventual-safe-states/) | Find Eventual Safe States | 中  | 0.47 |  |   |
  | [803](https://leetcode-cn.com/problems/bricks-falling-when-hit/) | Bricks Falling When Hit | 难  | 0.26 |  |   |
@@ -831,14 +831,14 @@
  | [806](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | Number of Lines To Write String | 易  | 0.66 |  |   |
  | [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | Max Increase to Keep City Skyline | 中  | 0.82 |  |   |
  | [808](https://leetcode-cn.com/problems/soup-servings/) | Soup Servings | 中  | 0.45 |  |   |
- | [809](https://leetcode-cn.com/problems/expressive-words/) | Expressive Words | 中  | 0.42 |  |   |
+ | [809](https://leetcode-cn.com/problems/expressive-words/) | Expressive Words | 中  | 0.41 |  |   |
  | [810](https://leetcode-cn.com/problems/chalkboard-xor-game/) | Chalkboard XOR Game | 难  | 0.55 |  |   |
  | [811](https://leetcode-cn.com/problems/subdomain-visit-count/) | Subdomain Visit Count | 易  | 0.68 |  |   |
  | [812](https://leetcode-cn.com/problems/largest-triangle-area/) | Largest Triangle Area | 易  | 0.61 |  |   |
  | [813](https://leetcode-cn.com/problems/largest-sum-of-averages/) | Largest Sum of Averages | 中  | 0.51 |  |   |
  | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | Binary Tree Pruning | 中  | 0.73 |  |   |
  | [815](https://leetcode-cn.com/problems/bus-routes/) | Bus Routes | 难  | 0.31 |  |   |
- | [816](https://leetcode-cn.com/problems/ambiguous-coordinates/) | Ambiguous Coordinates | 中  | 0.50 |  |   |
+ | [816](https://leetcode-cn.com/problems/ambiguous-coordinates/) | Ambiguous Coordinates | 中  | 0.49 |  |   |
  | [817](https://leetcode-cn.com/problems/linked-list-components/) | Linked List Components | 中  | 0.58 |  |   |
  | [818](https://leetcode-cn.com/problems/race-car/) | Race Car | 难  | 0.38 |  |   |
  | [819](https://leetcode-cn.com/problems/most-common-word/) | Most Common Word | 易  | 0.41 |  |   |
@@ -964,7 +964,7 @@
  | [928](https://leetcode-cn.com/problems/minimize-malware-spread-ii/) | Minimize Malware Spread II | 难  | 0.40 |  |   |
  | [929](https://leetcode-cn.com/problems/unique-email-addresses/) | Unique Email Addresses | 易  | 0.64 |  |   |
  | [930](https://leetcode-cn.com/problems/binary-subarrays-with-sum/) | Binary Subarrays With Sum | 中  | 0.38 |  |   |
- | [931](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | 中  | 0.61 |  |   |
+ | [931](https://leetcode-cn.com/problems/minimum-falling-path-sum/) | Minimum Falling Path Sum | 中  | 0.62 |  |   |
  | [932](https://leetcode-cn.com/problems/beautiful-array/) | Beautiful Array | 中  | 0.60 |  |   |
  | [933](https://leetcode-cn.com/problems/number-of-recent-calls/) | Number of Recent Calls | 易  | 0.72 |  |   |
  | [934](https://leetcode-cn.com/problems/shortest-bridge/) | Shortest Bridge | 中  | 0.45 |  |   |
@@ -995,11 +995,11 @@
  | [959](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | Regions Cut By Slashes | 中  | 0.67 |  |   |
  | [960](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii/) | Delete Columns to Make Sorted III | 难  | 0.54 |  |   |
  | [961](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/) | N-Repeated Element in Size 2N Array | 易  | 0.67 |  |   |
- | [962](https://leetcode-cn.com/problems/maximum-width-ramp/) | Maximum Width Ramp | 中  | 0.39 |  |   |
+ | [962](https://leetcode-cn.com/problems/maximum-width-ramp/) | Maximum Width Ramp | 中  | 0.40 |  |   |
  | [963](https://leetcode-cn.com/problems/minimum-area-rectangle-ii/) | Minimum Area Rectangle II | 中  | 0.48 |  |   |
  | [964](https://leetcode-cn.com/problems/least-operators-to-express-number/) | Least Operators to Express Number | 难  | 0.40 |  |   |
  | [965](https://leetcode-cn.com/problems/univalued-binary-tree/) | Univalued Binary Tree | 易  | 0.68 |  |   |
- | [966](https://leetcode-cn.com/problems/vowel-spellchecker/) | Vowel Spellchecker | 中  | 0.39 |  |   |
+ | [966](https://leetcode-cn.com/problems/vowel-spellchecker/) | Vowel Spellchecker | 中  | 0.38 |  |   |
  | [967](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/) | Numbers With Same Consecutive Differences | 中  | 0.37 |  |   |
  | [968](https://leetcode-cn.com/problems/binary-tree-cameras/) | Binary Tree Cameras | 难  | 0.40 |  |   |
  | [969](https://leetcode-cn.com/problems/pancake-sorting/) | Pancake Sorting | 中  | 0.65 |  |   |
@@ -1096,7 +1096,7 @@
  | [1136](https://leetcode-cn.com/problems/parallel-courses/) | Parallel Courses | 难  | 0.55 | :heavy_check_mark: |   |
  | [1150](https://leetcode-cn.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) | Check If a Number Is Majority Element in a Sorted Array | 易  | 0.63 | :heavy_check_mark: |   |
  | [1033](https://leetcode-cn.com/problems/moving-stones-until-consecutive/) | Moving Stones Until Consecutive | 易  | 0.38 |  |   |
- | [1034](https://leetcode-cn.com/problems/coloring-a-border/) | Coloring A Border | 中  | 0.43 |  |   |
+ | [1034](https://leetcode-cn.com/problems/coloring-a-border/) | Coloring A Border | 中  | 0.42 |  |   |
  | [1035](https://leetcode-cn.com/problems/uncrossed-lines/) | Uncrossed Lines | 中  | 0.54 |  |   |
  | [1036](https://leetcode-cn.com/problems/escape-a-large-maze/) | Escape a Large Maze | 难  | 0.29 |  |   |
  | [1151](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/) | Minimum Swaps to Group All 1's Together | 中  | 0.47 | :heavy_check_mark: |   |
@@ -1169,7 +1169,7 @@
  | [1245](https://leetcode-cn.com/problems/tree-diameter/) | Tree Diameter | 中  | 0.46 | :heavy_check_mark: |   |
  | [1216](https://leetcode-cn.com/problems/valid-palindrome-iii/) | Valid Palindrome III | 难  | 0.50 | :heavy_check_mark: |   |
  | [511](https://leetcode-cn.com/problems/game-play-analysis-i/) | Game Play Analysis I | 易  | 0.73 | :heavy_check_mark: |   |
- | [512](https://leetcode-cn.com/problems/game-play-analysis-ii/) | Game Play Analysis II | 易  | 0.52 | :heavy_check_mark: |   |
+ | [512](https://leetcode-cn.com/problems/game-play-analysis-ii/) | Game Play Analysis II | 易  | 0.53 | :heavy_check_mark: |   |
  | [534](https://leetcode-cn.com/problems/game-play-analysis-iii/) | Game Play Analysis III | 中  | 0.66 | :heavy_check_mark: |   |
  | [550](https://leetcode-cn.com/problems/game-play-analysis-iv/) | Game Play Analysis IV | 中  | 0.45 | :heavy_check_mark: |   |
  | [1093](https://leetcode-cn.com/problems/statistics-from-a-large-sample/) | Statistics from a Large Sample | 中  | 0.42 |  |   |
@@ -1217,7 +1217,7 @@
  | [1128](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | Number of Equivalent Domino Pairs | 易  | 0.46 |  |   |
  | [1130](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/) | Minimum Cost Tree From Leaf Values | 中  | 0.62 |  |   |
  | [1129](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors/) | Shortest Path with Alternating Colors | 中  | 0.35 |  |   |
- | [1131](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression/) | Maximum of Absolute Value Expression | 中  | 0.42 |  |   |
+ | [1131](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression/) | Maximum of Absolute Value Expression | 中  | 0.43 |  |   |
  | [1299](https://leetcode-cn.com/problems/replace-elements-with-greatest-element-on-right-side/) | Replace Elements with Greatest Element on Right Side | 易  | 0.77 |  |   |
  | [1300](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target/) | Sum of Mutated Array Closest to Target | 中  | 0.47 |  |   |
  | [1274](https://leetcode-cn.com/problems/number-of-ships-in-a-rectangle/) | Number of Ships in a Rectangle | 难  | 0.55 | :heavy_check_mark: |   |
@@ -1229,7 +1229,7 @@
  | [1140](https://leetcode-cn.com/problems/stone-game-ii/) | Stone Game II | 中  | 0.64 |  |   |
  | [1313](https://leetcode-cn.com/problems/decompress-run-length-encoded-list/) | Decompress Run-Length Encoded List | 易  | 0.82 |  |   |
  | [1314](https://leetcode-cn.com/problems/matrix-block-sum/) | Matrix Block Sum | 中  | 0.71 |  |   |
- | [1315](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Sum of Nodes with Even-Valued Grandparent | 中  | 0.80 |  |   |
+ | [1315](https://leetcode-cn.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Sum of Nodes with Even-Valued Grandparent | 中  | 0.81 |  |   |
  | [1316](https://leetcode-cn.com/problems/distinct-echo-substrings/) | Distinct Echo Substrings | 难  | 0.41 |  |   |
  | [1141](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-i/) | User Activity for the Past 30 Days I | 易  | 0.53 | :heavy_check_mark: |   |
  | [1142](https://leetcode-cn.com/problems/user-activity-for-the-past-30-days-ii/) | User Activity for the Past 30 Days II | 易  | 0.37 | :heavy_check_mark: |   |
@@ -1288,10 +1288,10 @@
  | [1202](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | Smallest String With Swaps | 中  | 0.33 |  |   |
  | [1203](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies/) | Sort Items by Groups Respecting Dependencies | 难  | 0.39 |  |   |
  | [1195](https://leetcode-cn.com/problems/fizz-buzz-multithreaded/) | Fizz Buzz Multithreaded | 中  | 0.63 |  |   |
- | [1193](https://leetcode-cn.com/problems/monthly-transactions-i/) | Monthly Transactions I | 中  | 0.62 | :heavy_check_mark: |   |
+ | [1193](https://leetcode-cn.com/problems/monthly-transactions-i/) | Monthly Transactions I | 中  | 0.61 | :heavy_check_mark: |   |
  | [1194](https://leetcode-cn.com/problems/tournament-winners/) | Tournament Winners | 难  | 0.48 | :heavy_check_mark: |   |
  | [1207](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | Unique Number of Occurrences | 易  | 0.70 |  |   |
- | [1209](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Remove All Adjacent Duplicates in String II | 中  | 0.53 |  |   |
+ | [1209](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | Remove All Adjacent Duplicates in String II | 中  | 0.54 |  |   |
  | [1208](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/) | Get Equal Substrings Within Budget | 中  | 0.39 |  |   |
  | [1210](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations/) | Minimum Moves to Reach Target with Rotations | 难  | 0.43 |  |   |
  | [1514](https://leetcode-cn.com/problems/path-with-maximum-probability/) | Path with Maximum Probability | 中  | 0.27 |  |   |
@@ -1309,19 +1309,19 @@
  | [1222](https://leetcode-cn.com/problems/queens-that-can-attack-the-king/) | Queens That Can Attack the King | 中  | 0.65 |  |   |
  | [1223](https://leetcode-cn.com/problems/dice-roll-simulation/) | Dice Roll Simulation | 中  | 0.47 |  |   |
  | [1224](https://leetcode-cn.com/problems/maximum-equal-frequency/) | Maximum Equal Frequency | 难  | 0.30 |  |   |
- | [1427](https://leetcode-cn.com/problems/perform-string-shifts/) | Perform String Shifts | 易  | 0.66 | :heavy_check_mark: |   |
+ | [1427](https://leetcode-cn.com/problems/perform-string-shifts/) | Perform String Shifts | 易  | 0.67 | :heavy_check_mark: |   |
  | [1232](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | Check If It Is a Straight Line | 易  | 0.48 |  |   |
  | [1233](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem/) | Remove Sub-Folders from the Filesystem | 中  | 0.46 |  |   |
  | [1234](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string/) | Replace the Substring for Balanced String | 中  | 0.31 |  |   |
  | [1235](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling/) | Maximum Profit in Job Scheduling | 难  | 0.43 |  |   |
- | [1225](https://leetcode-cn.com/problems/report-contiguous-dates/) | Report Contiguous Dates | 难  | 0.53 | :heavy_check_mark: |   |
+ | [1225](https://leetcode-cn.com/problems/report-contiguous-dates/) | Report Contiguous Dates | 难  | 0.54 | :heavy_check_mark: |   |
  | [1237](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation/) | Find Positive Integer Solution for a Given Equation | 易  | 0.69 |  |   |
  | [1238](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation/) | Circular Permutation in Binary Representation | 中  | 0.63 |  |   |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | Maximum Length of a Concatenated String with Unique Characters | 中  | 0.40 |  |   |
  | [1240](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares/) | Tiling a Rectangle with the Fewest Squares | 难  | 0.47 |  |   |
  | [1227](https://leetcode-cn.com/problems/airplane-seat-assignment-probability/) | Airplane Seat Assignment Probability | 中  | 0.65 |  |   |
- | [1429](https://leetcode-cn.com/problems/first-unique-number/) | First Unique Number | 中  | 0.51 | :heavy_check_mark: |   |
- | [1242](https://leetcode-cn.com/problems/web-crawler-multithreaded/) | Web Crawler Multithreaded | 中  | 0.38 | :heavy_check_mark: |   |
+ | [1429](https://leetcode-cn.com/problems/first-unique-number/) | First Unique Number | 中  | 0.52 | :heavy_check_mark: |   |
+ | [1242](https://leetcode-cn.com/problems/web-crawler-multithreaded/) | Web Crawler Multithreaded | 中  | 0.39 | :heavy_check_mark: |   |
  | [1247](https://leetcode-cn.com/problems/minimum-swaps-to-make-strings-equal/) | Minimum Swaps to Make Strings Equal | 中  | 0.59 |  |   |
  | [1248](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | Count Number of Nice Subarrays | 中  | 0.54 |  |   |
  | [1249](https://leetcode-cn.com/problems/minimum-remove-to-make-valid-parentheses/) | Minimum Remove to Make Valid Parentheses | 中  | 0.57 |  |   |
@@ -1334,7 +1334,7 @@
  | [1255](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters/) | Maximum Score Words Formed by Letters | 难  | 0.65 |  |   |
  | [1260](https://leetcode-cn.com/problems/shift-2d-grid/) | Shift 2D Grid | 易  | 0.60 |  |   |
  | [1261](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree/) | Find Elements in a Contaminated Binary Tree | 中  | 0.72 |  |   |
- | [1262](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | 中  | 0.48 |  |   |
+ | [1262](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three/) | Greatest Sum Divisible by Three | 中  | 0.49 |  |   |
  | [1263](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location/) | Minimum Moves to Move a Box to Their Target Location | 难  | 0.41 |  |   |
  | [1251](https://leetcode-cn.com/problems/average-selling-price/) | Average Selling Price | 易  | 0.78 | :heavy_check_mark: |   |
  | [1426](https://leetcode-cn.com/problems/counting-elements/) | Counting Elements | 易  | 0.67 | :heavy_check_mark: |   |
@@ -1368,7 +1368,7 @@
  | [1305](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/) | All Elements in Two Binary Search Trees | 中  | 0.73 |  |   |
  | [1306](https://leetcode-cn.com/problems/jump-game-iii/) | Jump Game III | 中  | 0.58 |  |   |
  | [1307](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle/) | Verbal Arithmetic Puzzle | 难  | 0.33 |  |   |
- | [1430](https://leetcode-cn.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | 中  | 0.58 | :heavy_check_mark: |   |
+ | [1430](https://leetcode-cn.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) | Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree | 中  | 0.59 | :heavy_check_mark: |   |
  | [1309](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) | Decrypt String from Alphabet to Integer Mapping | 易  | 0.75 |  |   |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | XOR Queries of a Subarray | 中  | 0.64 |  |   |
  | [1311](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends/) | Get Watched Videos by Your Friends | 中  | 0.36 |  |   |
@@ -1457,7 +1457,7 @@
  | [1404](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Number of Steps to Reduce a Number in Binary Representation to One | 中  | 0.47 |  |   |
  | [1406](https://leetcode-cn.com/problems/stone-game-iii/) | Stone Game III | 难  | 0.56 |  |   |
  | [1393](https://leetcode-cn.com/problems/capital-gainloss/) | Capital Gain/Loss | 中  | 0.86 | :heavy_check_mark: |   |
- | [1408](https://leetcode-cn.com/problems/string-matching-in-an-array/) | String Matching in an Array | 易  | 0.60 |  |   |
+ | [1408](https://leetcode-cn.com/problems/string-matching-in-an-array/) | String Matching in an Array | 易  | 0.61 |  |   |
  | [1409](https://leetcode-cn.com/problems/queries-on-a-permutation-with-key/) | Queries on a Permutation With Key | 中  | 0.80 |  |   |
  | [1410](https://leetcode-cn.com/problems/html-entity-parser/) | HTML Entity Parser | 中  | 0.50 |  |   |
  | [1411](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid/) | Number of Ways to Paint N × 3 Grid | 难  | 0.57 |  |   |
@@ -1476,7 +1476,7 @@
  | [1407](https://leetcode-cn.com/problems/top-travellers/) | Top Travellers | 易  | 0.66 | :heavy_check_mark: |   |
  | [1446](https://leetcode-cn.com/problems/consecutive-characters/) | Consecutive Characters | 易  | 0.58 |  |   |
  | [1447](https://leetcode-cn.com/problems/simplified-fractions/) | Simplified Fractions | 中  | 0.62 |  |   |
- | [1448](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/) | Count Good Nodes in Binary Tree | 中  | 0.70 |  |   |
+ | [1448](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree/) | Count Good Nodes in Binary Tree | 中  | 0.71 |  |   |
  | [1449](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target/) | Form Largest Integer With Digits That Add up to Target | 难  | 0.38 |  |   |
  | [1412](https://leetcode-cn.com/problems/find-the-quiet-students-in-all-exams/) | Find the Quiet Students in All Exams | 难  | 0.60 | :heavy_check_mark: |   |
  | [1436](https://leetcode-cn.com/problems/destination-city/) | Destination City | 易  | 0.79 |  |   |
@@ -1493,7 +1493,7 @@
  | [1462](https://leetcode-cn.com/problems/course-schedule-iv/) | Course Schedule IV | 中  | 0.39 |  |   |
  | [1463](https://leetcode-cn.com/problems/cherry-pickup-ii/) | Cherry Pickup II | 难  | 0.56 |  |   |
  | [1450](https://leetcode-cn.com/problems/number-of-students-doing-homework-at-a-given-time/) | Number of Students Doing Homework at a Given Time | 易  | 0.81 |  |   |
- | [1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/) | Rearrange Words in a Sentence | 中  | 0.49 |  |   |
+ | [1451](https://leetcode-cn.com/problems/rearrange-words-in-a-sentence/) | Rearrange Words in a Sentence | 中  | 0.48 |  |   |
  | [1452](https://leetcode-cn.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | People Whose List of Favorite Companies Is Not a Subset of Another List | 中  | 0.48 |  |   |
  | [1453](https://leetcode-cn.com/problems/maximum-number-of-darts-inside-of-a-circular-dartboard/) | Maximum Number of Darts Inside of a Circular Dartboard | 难  | 0.35 |  |   |
  | [1435](https://leetcode-cn.com/problems/create-a-session-bar-chart/) | Create a Session Bar Chart | 易  | 0.63 | :heavy_check_mark: |   |
@@ -1525,7 +1525,7 @@
  | [1482](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets/) | Minimum Number of Days to Make m Bouquets | 中  | 0.43 |  |   |
  | [1459](https://leetcode-cn.com/problems/rectangles-area/) | Rectangles Area | 中  | 0.54 | :heavy_check_mark: |   |
  | [1468](https://leetcode-cn.com/problems/calculate-salaries/) | Calculate Salaries | 中  | 0.73 | :heavy_check_mark: |   |
- | [1469](https://leetcode-cn.com/problems/find-all-the-lonely-nodes/) | Find All The Lonely Nodes | 易  | 0.77 | :heavy_check_mark: |   |
+ | [1469](https://leetcode-cn.com/problems/find-all-the-lonely-nodes/) | Find All The Lonely Nodes | 易  | 0.78 | :heavy_check_mark: |   |
  | [1486](https://leetcode-cn.com/problems/xor-operation-in-an-array/) | XOR Operation in an Array | 易  | 0.85 |  |   |
  | [1487](https://leetcode-cn.com/problems/making-file-names-unique/) | Making File Names Unique | 中  | 0.28 |  |   |
  | [1488](https://leetcode-cn.com/problems/avoid-flood-in-the-city/) | Avoid Flood in The City | 中  | 0.21 |  |   |
@@ -1545,7 +1545,7 @@
  | [1503](https://leetcode-cn.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/) | Last Moment Before All Ants Fall Out of a Plank | 中  | 0.49 |  |   |
  | [1504](https://leetcode-cn.com/problems/count-submatrices-with-all-ones/) | Count Submatrices With All Ones | 中  | 0.55 |  |   |
  | [1505](https://leetcode-cn.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Minimum Possible Integer After at Most K Adjacent Swaps On Digits | 难  | 0.35 |  |   |
- | [1523](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/) | Count Odd Numbers in an Interval Range | 易  | 0.56 |  |   |
+ | [1523](https://leetcode-cn.com/problems/count-odd-numbers-in-an-interval-range/) | Count Odd Numbers in an Interval Range | 易  | 0.57 |  |   |
  | [1524](https://leetcode-cn.com/problems/number-of-sub-arrays-with-odd-sum/) | Number of Sub-arrays With Odd Sum | 中  | 0.38 |  |   |
  | [1525](https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string/) | Number of Good Ways to Split a String | 中  | 0.68 |  |   |
  | [1526](https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | Minimum Number of Increments on Subarrays to Form a Target Array | 难  | 0.58 |  |   |
@@ -1555,22 +1555,22 @@
  | [1531](https://leetcode-cn.com/problems/string-compression-ii/) | String Compression II | 难  | 0.27 |  |   |
  | [1515](https://leetcode-cn.com/problems/best-position-for-a-service-centre/) | Best Position for a Service Centre | 难  | 0.32 |  |   |
  | [1495](https://leetcode-cn.com/problems/friendly-movies-streamed-last-month/) | Friendly Movies Streamed Last Month | 易  | 0.54 | :heavy_check_mark: |   |
- | [1500](https://leetcode-cn.com/problems/design-a-file-sharing-system/) | Design a File Sharing System | 中  | 0.54 | :heavy_check_mark: |   |
+ | [1500](https://leetcode-cn.com/problems/design-a-file-sharing-system/) | Design a File Sharing System | 中  | 0.55 | :heavy_check_mark: |   |
  | [1501](https://leetcode-cn.com/problems/countries-you-can-safely-invest-in/) | Countries You Can Safely Invest In | 中  | 0.61 | :heavy_check_mark: |   |
  | [1518](https://leetcode-cn.com/problems/water-bottles/) | Water Bottles | 易  | 0.69 |  |   |
  | [1519](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | Number of Nodes in the Sub-Tree With the Same Label | 中  | 0.27 |  |   |
  | [1520](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings/) | Maximum Number of Non-Overlapping Substrings | 中  | 0.30 |  |   |
- | [1521](https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) | Find a Value of a Mysterious Function Closest to Target | 难  | 0.38 |  |   |
+ | [1521](https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/) | Find a Value of a Mysterious Function Closest to Target | 难  | 0.37 |  |   |
  | [1539](https://leetcode-cn.com/problems/kth-missing-positive-number/) | Kth Missing Positive Number | 易  | 0.54 |  |   |
- | [1540](https://leetcode-cn.com/problems/can-convert-string-in-k-moves/) | Can Convert String in K Moves | 中  | 0.28 |  |   |
+ | [1540](https://leetcode-cn.com/problems/can-convert-string-in-k-moves/) | Can Convert String in K Moves | 中  | 0.29 |  |   |
  | [1541](https://leetcode-cn.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | Minimum Insertions to Balance a Parentheses String | 中  | 0.41 |  |   |
  | [1546](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/) | Maximum Number of Non-Overlapping Subarrays With Sum Equals Target | 中  | 0.38 |  |   |
  | [1506](https://leetcode-cn.com/problems/find-root-of-n-ary-tree/) | Find Root of N-Ary Tree | 中  | 0.79 | :heavy_check_mark: |   |
  | [1528](https://leetcode-cn.com/problems/shuffle-string/) | Shuffle String | 易  | 0.80 |  |   |
  | [1529](https://leetcode-cn.com/problems/bulb-switcher-iv/) | Bulb Switcher IV | 中  | 0.67 |  |   |
  | [1530](https://leetcode-cn.com/problems/number-of-good-leaf-nodes-pairs/) | Number of Good Leaf Nodes Pairs | 中  | 0.51 |  |   |
- | [1511](https://leetcode-cn.com/problems/customer-order-frequency/) | Customer Order Frequency | 易  | 0.67 | :heavy_check_mark: |   |
- | [1516](https://leetcode-cn.com/problems/move-sub-tree-of-n-ary-tree/) | Move Sub-Tree of N-Ary Tree | 难  | 0.56 | :heavy_check_mark: |   |
+ | [1511](https://leetcode-cn.com/problems/customer-order-frequency/) | Customer Order Frequency | 易  | 0.68 | :heavy_check_mark: |   |
+ | [1516](https://leetcode-cn.com/problems/move-sub-tree-of-n-ary-tree/) | Move Sub-Tree of N-Ary Tree | 难  | 0.54 | :heavy_check_mark: |   |
  | [1534](https://leetcode-cn.com/problems/count-good-triplets/) | Count Good Triplets | 易  | 0.78 |  |   |
  | [1535](https://leetcode-cn.com/problems/find-the-winner-of-an-array-game/) | Find the Winner of an Array Game | 中  | 0.43 |  |   |
  | [1536](https://leetcode-cn.com/problems/minimum-swaps-to-arrange-a-binary-grid/) | Minimum Swaps to Arrange a Binary Grid | 中  | 0.41 |  |   |
@@ -1585,28 +1585,28 @@
  | [1545](https://leetcode-cn.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | 中  | 0.54 |  |   |
  | [1542](https://leetcode-cn.com/problems/find-longest-awesome-substring/) | Find Longest Awesome Substring | 难  | 0.34 |  |   |
  | [1547](https://leetcode-cn.com/problems/minimum-cost-to-cut-a-stick/) | Minimum Cost to Cut a Stick | 难  | 0.50 |  |   |
- | [1527](https://leetcode-cn.com/problems/patients-with-a-condition/) | Patients With a Condition | 易  | 0.85 | :heavy_check_mark: |   |
+ | [1527](https://leetcode-cn.com/problems/patients-with-a-condition/) | Patients With a Condition | 易  | 0.84 | :heavy_check_mark: |   |
  | [1532](https://leetcode-cn.com/problems/the-most-recent-three-orders/) | The Most Recent Three Orders | 中  | 0.56 | :heavy_check_mark: |   |
  | [1533](https://leetcode-cn.com/problems/find-the-index-of-the-large-integer/) | Find the Index of the Large Integer | 中  | 0.73 | :heavy_check_mark: |   |
  | [1551](https://leetcode-cn.com/problems/minimum-operations-to-make-array-equal/) | Minimum Operations to Make Array Equal | 中  | 0.82 |  |   |
  | [1552](https://leetcode-cn.com/problems/magnetic-force-between-two-balls/) | Magnetic Force Between Two Balls | 中  | 0.47 |  |   |
  | [1553](https://leetcode-cn.com/problems/minimum-number-of-days-to-eat-n-oranges/) | Minimum Number of Days to Eat N Oranges | 难  | 0.25 |  |   |
- | [1538](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array/) | Guess the Majority in a Hidden Array | 中  | 0.44 | :heavy_check_mark: |   |
+ | [1538](https://leetcode-cn.com/problems/guess-the-majority-in-a-hidden-array/) | Guess the Majority in a Hidden Array | 中  | 0.45 | :heavy_check_mark: |   |
  | [1560](https://leetcode-cn.com/problems/most-visited-sector-in-a-circular-track/) | Most Visited Sector in  a Circular Track | 易  | 0.57 |  |   |
  | [1561](https://leetcode-cn.com/problems/maximum-number-of-coins-you-can-get/) | Maximum Number of Coins You Can Get | 中  | 0.81 |  |   |
  | [1562](https://leetcode-cn.com/problems/find-latest-group-of-size-m/) | Find Latest Group of Size M | 中  | 0.29 |  |   |
  | [1563](https://leetcode-cn.com/problems/stone-game-v/) | Stone Game V | 难  | 0.38 |  |   |
- | [1543](https://leetcode-cn.com/problems/fix-product-name-format/) | Fix Product Name Format | 易  | 0.50 | :heavy_check_mark: |   |
- | [1548](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph/) | The Most Similar Path in a Graph | 难  | 0.59 | :heavy_check_mark: |   |
+ | [1543](https://leetcode-cn.com/problems/fix-product-name-format/) | Fix Product Name Format | 易  | 0.49 | :heavy_check_mark: |   |
+ | [1548](https://leetcode-cn.com/problems/the-most-similar-path-in-a-graph/) | The Most Similar Path in a Graph | 难  | 0.61 | :heavy_check_mark: |   |
  | [1549](https://leetcode-cn.com/problems/the-most-recent-orders-for-each-product/) | The Most Recent Orders for Each Product | 中  | 0.68 | :heavy_check_mark: |   |
- | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Detect Pattern of Length M Repeated K or More Times | 易  | 0.43 |  |   |
+ | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | Detect Pattern of Length M Repeated K or More Times | 易  | 0.42 |  |   |
  | [1567](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product/) | Maximum Length of Subarray With Positive Product | 中  | 0.32 |  |   |
- | [1568](https://leetcode-cn.com/problems/minimum-number-of-days-to-disconnect-island/) | Minimum Number of Days to Disconnect Island | 中  | 0.48 |  |   |
+ | [1568](https://leetcode-cn.com/problems/minimum-number-of-days-to-disconnect-island/) | Minimum Number of Days to Disconnect Island | 难  | 0.48 |  |   |
  | [1569](https://leetcode-cn.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | Number of Ways to Reorder Array to Get Same BST | 难  | 0.44 |  |   |
  | [1554](https://leetcode-cn.com/problems/strings-differ-by-one-character/) | Strings Differ by One Character | 中  | 0.78 | :heavy_check_mark: |   |
  | [1555](https://leetcode-cn.com/problems/bank-account-summary/) | Bank Account Summary | 中  | 0.44 | :heavy_check_mark: |   |
- | [1564](https://leetcode-cn.com/problems/put-boxes-into-the-warehouse-i/) | Put Boxes Into the Warehouse I | 中  | 0.78 | :heavy_check_mark: |   |
- | [1565](https://leetcode-cn.com/problems/unique-orders-and-customers-per-month/) | Unique Orders and Customers Per Month | 易  | 0.83 | :heavy_check_mark: |   |
+ | [1564](https://leetcode-cn.com/problems/put-boxes-into-the-warehouse-i/) | Put Boxes Into the Warehouse I | 中  | 0.79 | :heavy_check_mark: |   |
+ | [1565](https://leetcode-cn.com/problems/unique-orders-and-customers-per-month/) | Unique Orders and Customers Per Month | 易  | 0.84 | :heavy_check_mark: |   |
  | [LCP 02](https://leetcode-cn.com/problems/deep-dark-fraction/) | Deep Dark Fraction | 易  | 0.65 |  |   |
  | [LCP 04](https://leetcode-cn.com/problems/broken-board-dominoes/) | Broken Board Dominoes | 难  | 0.34 |  |   |
  | [LCP 05](https://leetcode-cn.com/problems/coin-bonus/) | Coin Bonus | 难  | 0.17 |  |   |
@@ -1627,11 +1627,11 @@
  | [面试题 03.01](https://leetcode-cn.com/problems/three-in-one-lcci/) | Three in One LCCI | 易  | 0.55 |  |   |
  | [面试题 03.05](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | Sort of Stacks LCCI | 中  | 0.54 |  |   |
  | [面试题 04.02](https://leetcode-cn.com/problems/minimum-height-tree-lcci/) | Minimum Height Tree LCCI | 易  | 0.80 |  |   |
- | [面试题 04.03](https://leetcode-cn.com/problems/list-of-depth-lcci/) | List of Depth LCCI | 中  | 0.80 |  |   |
+ | [面试题 04.03](https://leetcode-cn.com/problems/list-of-depth-lcci/) | List of Depth LCCI | 中  | 0.81 |  |   |
  | [面试题 04.04](https://leetcode-cn.com/problems/check-balance-lcci/) | Check Balance LCCI | 易  | 0.57 |  |   |
  | [面试题 04.05](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | Legal Binary Search Tree LCCI | 中  | 0.34 |  |   |
- | [面试题 04.06](https://leetcode-cn.com/problems/successor-lcci/) | Successor LCCI | 中  | 0.58 |  |   |
- | [面试题 04.08](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | First Common Ancestor LCCI | 中  | 0.70 |  |   |
+ | [面试题 04.06](https://leetcode-cn.com/problems/successor-lcci/) | Successor LCCI | 中  | 0.59 |  |   |
+ | [面试题 04.08](https://leetcode-cn.com/problems/first-common-ancestor-lcci/) | First Common Ancestor LCCI | 中  | 0.69 |  |   |
  | [面试题 05.01](https://leetcode-cn.com/problems/insert-into-bits-lcci/) | Insert Into Bits LCCI | 易  | 0.48 |  |   |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [Convert Integer LCCI](/question_bank/convert-integer-lcci) | 易  | 0.51 |  | [:link:code](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
  | [面试题 05.07](https://leetcode-cn.com/problems/exchange-lcci/) | Exchange LCCI | 易  | 0.69 |  |   |
@@ -1681,7 +1681,7 @@
  | [剑指 Offer 26](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | 树的子结构  LCOF | 中  | 0.46 |  |   |
  | [剑指 Offer 27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | 二叉树的镜像  LCOF | 易  | 0.79 |  |   |
  | [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | 对称的二叉树  LCOF | 易  | 0.58 |  |   |
- | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | 表示数值的字符串 LCOF | 中  | 0.21 |  |   |
+ | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串 LCOF](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | 中  | 0.22 |  | [:link:code](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py) |
  | [剑指 Offer 21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 调整数组顺序使奇数位于偶数前面 LCOF | 易  | 0.64 |  |   |
  | [剑指 Offer 15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 二进制中1的个数 LCOF | 易  | 0.73 |  |   |
  | [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | 顺时针打印矩阵  LCOF | 易  | 0.45 |  |   |
@@ -1721,7 +1721,7 @@
  | [剑指 Offer 47](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 礼物的最大价值 LCOF | 中  | 0.68 |  |   |
  | [剑指 Offer 58 - I](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | 翻转单词顺序 LCOF | 易  | 0.43 |  |   |
  | [剑指 Offer 53 - I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | 在排序数组中查找数字  LCOF | 易  | 0.53 |  |   |
- | [剑指 Offer 58 - II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | 左旋转字符串 LCOF | 易  | 0.85 |  |   |
+ | [剑指 Offer 58 - II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | 左旋转字符串 LCOF | 易  | 0.86 |  |   |
  | [剑指 Offer 53 - II](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | 缺失的数字  LCOF | 易  | 0.44 |  |   |
  | [剑指 Offer 48](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | 最长不含重复字符的子字符串 LCOF | 中  | 0.46 |  |   |
  | [剑指 Offer 54](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 二叉搜索树的第k大节点  LCOF | 易  | 0.74 |  |   |
@@ -1777,7 +1777,7 @@
  | [面试题 17.22](https://leetcode-cn.com/problems/word-transformer-lcci/) | Word Transformer LCCI | 中  | 0.34 |  |   |
  | [面试题 08.14](https://leetcode-cn.com/problems/boolean-evaluation-lcci/) | Boolean Evaluation LCCI | 中  | 0.50 |  |   |
  | [面试题 17.04](https://leetcode-cn.com/problems/missing-number-lcci/) | Missing Number LCCI | 易  | 0.65 |  |   |
- | [面试题 17.05](https://leetcode-cn.com/problems/find-longest-subarray-lcci/) | Find Longest Subarray LCCI | 中  | 0.36 |  |   |
+ | [面试题 17.05](https://leetcode-cn.com/problems/find-longest-subarray-lcci/) | Find Longest Subarray LCCI | 中  | 0.37 |  |   |
  | [面试题 17.06](https://leetcode-cn.com/problems/number-of-2s-in-range-lcci/) | Number Of 2s In Range LCCI | 中  | 0.42 |  |   |
  | [面试题 17.07](https://leetcode-cn.com/problems/baby-names-lcci/) | Baby Names LCCI | 中  | 0.40 |  |   |
  | [面试题 17.08](https://leetcode-cn.com/problems/circus-tower-lcci/) | Circus Tower LCCI | 中  | 0.25 |  |   |
@@ -1790,8 +1790,8 @@
  | [面试题 17.18](https://leetcode-cn.com/problems/shortest-supersequence-lcci/) | Shortest Supersequence LCCI | 中  | 0.44 |  |   |
  | [面试题 17.19](https://leetcode-cn.com/problems/missing-two-lcci/) | Missing Two LCCI | 难  | 0.56 |  |   |
  | [面试题 17.23](https://leetcode-cn.com/problems/max-black-square-lcci/) | Max Black Square LCCI | 中  | 0.36 |  |   |
- | [面试题 17.24](https://leetcode-cn.com/problems/max-submatrix-lcci/) | Max Submatrix LCCI | 难  | 0.51 |  |   |
- | [面试题 16.20](https://leetcode-cn.com/problems/t9-lcci/) | T9 LCCI | 中  | 0.72 |  |   |
+ | [面试题 17.24](https://leetcode-cn.com/problems/max-submatrix-lcci/) | Max Submatrix LCCI | 难  | 0.52 |  |   |
+ | [面试题 16.20](https://leetcode-cn.com/problems/t9-lcci/) | T9 LCCI | 中  | 0.71 |  |   |
  | [面试题 16.21](https://leetcode-cn.com/problems/sum-swap-lcci/) | Sum Swap LCCI | 中  | 0.44 |  |   |
  | [面试题 17.25](https://leetcode-cn.com/problems/word-rectangle-lcci/) | Word Rectangle LCCI | 难  | 0.46 |  |   |
  | [面试题 16.22](https://leetcode-cn.com/problems/langtons-ant-lcci/) | Langtons Ant LCCI | 中  | 0.57 |  |   |
