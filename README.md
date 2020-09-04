@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 97/1770 
+已通过 100/1770 
 
-简单: 41    中等: 49    困难: 7
+简单: 42    中等: 51    困难: 7
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -71,7 +71,9 @@
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中  | 0.63 |  | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中  | 0.44 |  | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [Wildcard Matching](/question_bank/wildcard-matching) | 难  | 0.31 |  | [:link:code](/question_bank/wildcard-matching/wildcard-matching.py) |
- | [51](https://leetcode-cn.com/problems/n-queens/) | [N-Queens](/question_bank/n-queens) | 难  | 0.72 |  | [:link:code](/question_bank/n-queens/n-queens.py) |
+ | [46](https://leetcode-cn.com/problems/permutations/) | [Permutations](/question_bank/permutations) | 中  | 0.77 |  | [:link:code](/question_bank/permutations/permutations.py) |
+ | [47](https://leetcode-cn.com/problems/permutations-ii/) | [Permutations II](/question_bank/permutations-ii) | 中  | 0.60 |  | [:link:code](/question_bank/permutations-ii/permutations-ii.py) |
+ | [51](https://leetcode-cn.com/problems/n-queens/) | [N-Queens](/question_bank/n-queens) | 难  | 0.73 |  | [:link:code](/question_bank/n-queens/n-queens.py) |
  | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](/question_bank/maximum-subarray) | 易  | 0.52 |  | [:link:code](/question_bank/maximum-subarray/maximum-subarray.py) |
  | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](/question_bank/unique-paths) | 中  | 0.62 |  | [:link:code](/question_bank/unique-paths/unique-paths.py) |
  | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](/question_bank/unique-paths-ii) | 中  | 0.37 |  | [:link:code](/question_bank/unique-paths-ii/unique-paths-ii.py) |
@@ -94,6 +96,7 @@
  | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](/question_bank/lowest-common-ancestor-of-a-binary-search-tree) | 易  | 0.65 |  | [:link:code](/question_bank/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
  | [236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](/question_bank/lowest-common-ancestor-of-a-binary-tree) | 中  | 0.65 |  | [:link:code](/question_bank/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) |
  | [237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](/question_bank/delete-node-in-a-linked-list) | 易  | 0.83 |  | [:link:code](/question_bank/delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) |
+ | [257](https://leetcode-cn.com/problems/binary-tree-paths/) | [Binary Tree Paths](/question_bank/binary-tree-paths) | 易  | 0.66 |  | [:link:code](/question_bank/binary-tree-paths/binary-tree-paths.py) |
  | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [Ugly Number II](/question_bank/ugly-number-ii) | 中  | 0.54 |  | [:link:code](/question_bank/ugly-number-ii/ugly-number-ii.py) |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [Perfect Squares](/question_bank/perfect-squares) | 中  | 0.58 |  | [:link:code](/question_bank/perfect-squares/perfect-squares.py) |
  | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](/question_bank/longest-increasing-subsequence) | 中  | 0.45 |  | [:link:code](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
