@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 100/1770 
+已通过 101/1771 
 
-简单: 42    中等: 51    困难: 7
+简单: 42    中等: 51    困难: 8
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -10,17 +10,13 @@
 欢迎<img alt="GitHub stars" src="https://img.shields.io/github/stars/yatengLG/leetcode-python?style=social"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/yatengLG/leetcode-python?style=social"> 
 
 ## 说明
-项目仅为作者刷leetcode记录，不一定为最优解法。
+项目为作者leetcode刷题记录。
 
-**题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
+为增强代码算法的理解性，代码实现过程并没有采用最精简的写法。
 
-**题号**一栏指向leetcode题目页面。
+更偏向于解决问题是的思路体现。
 
-**题名**一栏指向项目中题目页面。
-
-**是否通过**一栏指向项目中题目对应代码页面。
-
-代码注释中标注的执行时间及内存消耗，仅记录leetcode返回的值，不代表实际运行消耗。
+项目持续更新中。
 
 ## 项目结构
 ```text|-- leetcode-python
@@ -36,6 +32,18 @@
 ```
 
 ## 题库
+```text**题号**、**题名**与leetcode完全一致，可通过题号快速查找对应题目。
+
+**题号**一栏指向leetcode题目页面。
+
+**题名**一栏指向项目中题目页面。
+
+**是否通过**一栏指向项目中题目对应代码页面。
+
+代码注释中标注的执行时间及内存消耗，仅记录leetcode返回的值，不代表实际运行消耗。
+
+```
+
  | 题号 | 题名 | 难度 | 通过率 | 会员可用 | 是否通过 | 
  | ---- | ---- | ---- | ---- | ---- | ---- |
  | [1](https://leetcode-cn.com/problems/two-sum/) | [Two Sum](/question_bank/two-sum) | 易  | 0.49 |  | [:link:code](/question_bank/two-sum/two-sum.py) |
@@ -74,6 +82,7 @@
  | [46](https://leetcode-cn.com/problems/permutations/) | [Permutations](/question_bank/permutations) | 中  | 0.77 |  | [:link:code](/question_bank/permutations/permutations.py) |
  | [47](https://leetcode-cn.com/problems/permutations-ii/) | [Permutations II](/question_bank/permutations-ii) | 中  | 0.60 |  | [:link:code](/question_bank/permutations-ii/permutations-ii.py) |
  | [51](https://leetcode-cn.com/problems/n-queens/) | [N-Queens](/question_bank/n-queens) | 难  | 0.73 |  | [:link:code](/question_bank/n-queens/n-queens.py) |
+ | [52](https://leetcode-cn.com/problems/n-queens-ii/) | [N-Queens II](/question_bank/n-queens-ii) | 难  | 0.80 |  | [:link:code](/question_bank/n-queens-ii/n-queens-ii.py) |
  | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](/question_bank/maximum-subarray) | 易  | 0.52 |  | [:link:code](/question_bank/maximum-subarray/maximum-subarray.py) |
  | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](/question_bank/unique-paths) | 中  | 0.62 |  | [:link:code](/question_bank/unique-paths/unique-paths.py) |
  | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](/question_bank/unique-paths-ii) | 中  | 0.37 |  | [:link:code](/question_bank/unique-paths-ii/unique-paths-ii.py) |
