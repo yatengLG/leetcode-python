@@ -15,7 +15,7 @@ class Solution:
         n = len(candidates)
         result = []         # 保存最终结果
 
-        def backstace(begin:int, current:list): # 当前数字下标，当前列表
+        def backtrack(begin:int, current:list): # 当前数字下标，当前列表
 
             if sum(current) == target:          # 如果当前列表和 == 目标，加入最终结果
                 result.append(current.copy())
@@ -26,10 +26,10 @@ class Solution:
                 if i > begin and candidates[i]== candidates[i-1]:   # 排序过了，如果当前数字已经处理过，则跳过
                     continue
                 current.append(candidates[i])   # 添加到当前列表中
-                backstace(i+1, current)         # 查询下一个
+                backtrack(i+1, current)         # 查询下一个
                 current.pop()                   # 回溯
 
-        backstace(0, [])
+        backtrack(0, [])
         return result
 
 
@@ -48,7 +48,7 @@ class Solution:
         n = len(candidates)
         result = []
 
-        def backstace(begin:int, target:int, current:list): # 当前数字下标，当前目标值，当前列表
+        def backtrack(begin:int, target:int, current:list): # 当前数字下标，当前目标值，当前列表
             if target == 0:                                 # 目标值为0， 等同于当前列表和==目标值
                 result.append(current.copy())
                 return
@@ -60,8 +60,8 @@ class Solution:
                 if i > begin and candidates[i] == candidates[i-1]:
                     continue
                 current.append(candidates[i])
-                backstace(i+1, target-candidates[i], current)   # 改为更新目标值
+                backtrack(i+1, target-candidates[i], current)   # 改为更新目标值
                 current.pop()
 
-        backstace(0,target,[])
+        backtrack(0,target,[])
         return result

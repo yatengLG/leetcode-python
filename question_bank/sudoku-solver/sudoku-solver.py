@@ -32,7 +32,7 @@ class Solution:
                     cols_record[j].append(now)
                     blocks_record[j//3 + i//3*3].append(now)
 
-        def backstace(i, used): # 未填写空的下标，填写过的信息列表
+        def backtrack(i, used): # 未填写空的下标，填写过的信息列表
 
             if i >= len(unuse_coord):   # 如果都填完了，则将当前填写方式加入到最终结果中
                 results.append(used.copy())
@@ -45,7 +45,7 @@ class Solution:
                     cols_record[c].append(num)
                     blocks_record[c//3 + r//3*3].append(num)
                     used.append((r,c,num))  # 将当前数字加入填写信息中
-                    backstace(i+1, used)    # 填下一个空
+                    backtrack(i+1, used)    # 填下一个空
 
                     # 回溯
                     rows_record[r].pop()
@@ -53,7 +53,7 @@ class Solution:
                     blocks_record[c // 3 + r // 3 * 3].pop()
                     used.pop()
 
-        backstace(0, [])
+        backtrack(0, [])
 
         result = results[0] # 这里写法会获得多个答案（如果存在多个答案），题中只要求一个
 

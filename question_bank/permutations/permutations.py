@@ -14,7 +14,7 @@ class Solution:
         n = len(nums)
         result = []     # 最终结果
 
-        def backstace(current:list, used:list): # 当前列表，用于记录使用过的数组的列表
+        def backtrack(current:list, used:list): # 当前列表，用于记录使用过的数组的列表
             if len(current) >= n:
                 result.append(current[:])
                 return
@@ -23,10 +23,10 @@ class Solution:
                 if nums[i] not in used: # 如果当前数字没有使用过
                     current.append(nums[i]) # 加入当前列表
                     used.append(nums[i])    # 记录为已使用
-                    backstace(current, used)    # 下一个数字
+                    backtrack(current, used)    # 下一个数字
                     current.pop()   # 回溯
                     used.pop()
 
-        backstace([], [])
+        backtrack([], [])
 
         return result

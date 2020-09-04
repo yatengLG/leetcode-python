@@ -16,7 +16,7 @@ class Solution:
         n = len(nums)
         result = []
 
-        def backstace(current:list, used:list):
+        def backtrack(current:list, used:list):
             print(current)
             if len(current) >= n:
                 result.append(current[:])
@@ -27,10 +27,10 @@ class Solution:
                 if i not in used:
                     current.append(nums[i])
                     used.append(i)
-                    backstace(current, used)
+                    backtrack(current, used)
                     current.pop()
                     used.pop()
 
-        backstace([], [])
+        backtrack([], [])
 
         return result

@@ -13,7 +13,7 @@ class Solution:
         candidates.sort()
         result = []
         n = len(candidates)
-        def backtrace(index, target, current):  # 递归，开始的下标，目标值，当前数组
+        def backtrack(index, target, current):  # 递归，开始的下标，目标值，当前数组
             for i in range(index, n):
                 num = candidates[i]
                 if num == target:
@@ -21,6 +21,6 @@ class Solution:
                 elif num > target:  # 数值大于目标值，则跳出
                     return
                 else:               # 小于目标值，下一层
-                    backtrace(i, target-num, current+[num])
-        backtrace(0, target, [])
+                    backtrack(i, target-num, current+[num])
+        backtrack(0, target, [])
         return result
