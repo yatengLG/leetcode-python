@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 104/1779 
+已通过 108/1779 
 
-简单: 43    中等: 53    困难: 8
+简单: 43    中等: 57    困难: 8
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -88,6 +88,10 @@
  | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](/question_bank/minimum-path-sum) | 中(M)  | 0.68 | [:link:code](/question_bank/minimum-path-sum/minimum-path-sum.py) |
  | [70](https://leetcode-cn.com/problems/climbing-stairs/) | [Climbing Stairs](/question_bank/climbing-stairs) | 易(E)  | 0.51 | [:link:code](/question_bank/climbing-stairs/climbing-stairs.py) |
  | [72](https://leetcode-cn.com/problems/edit-distance/) | [Edit Distance](/question_bank/edit-distance) | 难(H)  | 0.60 | [:link:code](/question_bank/edit-distance/edit-distance.py) |
+ | [77](https://leetcode-cn.com/problems/combinations/) | [Combinations](/question_bank/combinations) | 中(M)  | 0.75 | [:link:code](/question_bank/combinations/combinations.py) |
+ | [78](https://leetcode-cn.com/problems/subsets/) | [Subsets](/question_bank/subsets) | 中(M)  | 0.78 | [:link:code](/question_bank/subsets/subsets.py) |
+ | [79](https://leetcode-cn.com/problems/word-search/) | [Word Search](/question_bank/word-search) | 中(M)  | 0.42 | [:link:code](/question_bank/word-search/word-search.py) |
+ | [89](https://leetcode-cn.com/problems/gray-code/) | [Gray Code](/question_bank/gray-code) | 中(M)  | 0.69 | [:link:code](/question_bank/gray-code/gray-code.py) |
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](/question_bank/decode-ways) | 中(M)  | 0.24 | [:link:code](/question_bank/decode-ways/decode-ways.py) |
  | [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Binary Tree Level Order Traversal II](/question_bank/binary-tree-level-order-traversal-ii) | 易(E)  | 0.68 | [:link:code](/question_bank/binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py) |
  | [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](/question_bank/convert-sorted-list-to-binary-search-tree) | 中(M)  | 0.76 | [:link:code](/question_bank/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.py) |
