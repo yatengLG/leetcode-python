@@ -6,6 +6,8 @@
 内存消耗：14.3 MB, 在所有 Python3 提交中击败了14.82% 的用户
 
 解题思路：
+    深度优先遍历
+    并记录当前层数，便于结果存储
 
 """
 # Definition for a binary tree node.
