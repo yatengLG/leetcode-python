@@ -1,7 +1,7 @@
 # Leet Code 力扣
-已通过 115/1779 
+已通过 116/1780 
 
-简单: 43    中等: 64    困难: 8
+简单: 43    中等: 65    困难: 8
 
 (此makedown为自动生成，因爬取失败等原因，可能存在更新不及时等情况。)
 
@@ -74,7 +74,7 @@
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.63 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
- | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.63 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
+ | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.64 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中(M)  | 0.44 | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [Wildcard Matching](/question_bank/wildcard-matching) | 难(H)  | 0.31 | [:link:code](/question_bank/wildcard-matching/wildcard-matching.py) |
  | [46](https://leetcode-cn.com/problems/permutations/) | [Permutations](/question_bank/permutations) | 中(M)  | 0.77 | [:link:code](/question_bank/permutations/permutations.py) |
@@ -90,7 +90,7 @@
  | [72](https://leetcode-cn.com/problems/edit-distance/) | [Edit Distance](/question_bank/edit-distance) | 难(H)  | 0.60 | [:link:code](/question_bank/edit-distance/edit-distance.py) |
  | [77](https://leetcode-cn.com/problems/combinations/) | [Combinations](/question_bank/combinations) | 中(M)  | 0.76 | [:link:code](/question_bank/combinations/combinations.py) |
  | [78](https://leetcode-cn.com/problems/subsets/) | [Subsets](/question_bank/subsets) | 中(M)  | 0.78 | [:link:code](/question_bank/subsets/subsets.py) |
- | [79](https://leetcode-cn.com/problems/word-search/) | [Word Search](/question_bank/word-search) | 中(M)  | 0.43 | [:link:code](/question_bank/word-search/word-search.py) |
+ | [79](https://leetcode-cn.com/problems/word-search/) | [Word Search](/question_bank/word-search) | 中(M)  | 0.42 | [:link:code](/question_bank/word-search/word-search.py) |
  | [89](https://leetcode-cn.com/problems/gray-code/) | [Gray Code](/question_bank/gray-code) | 中(M)  | 0.69 | [:link:code](/question_bank/gray-code/gray-code.py) |
  | [90](https://leetcode-cn.com/problems/subsets-ii/) | [Subsets II](/question_bank/subsets-ii) | 中(M)  | 0.61 | [:link:code](/question_bank/subsets-ii/subsets-ii.py) |
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](/question_bank/decode-ways) | 中(M)  | 0.24 | [:link:code](/question_bank/decode-ways/decode-ways.py) |
@@ -127,7 +127,7 @@
  | [343](https://leetcode-cn.com/problems/integer-break/) | [Integer Break](/question_bank/integer-break) | 中(M)  | 0.59 | [:link:code](/question_bank/integer-break/integer-break.py) |
  | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/question_bank/top-k-frequent-elements) | 中(M)  | 0.62 | [:link:code](/question_bank/top-k-frequent-elements/top-k-frequent-elements.py) |
  | [357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](/question_bank/count-numbers-with-unique-digits) | 中(M)  | 0.51 | [:link:code](/question_bank/count-numbers-with-unique-digits/count-numbers-with-unique-digits.py) |
- | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](/question_bank/largest-divisible-subset) | 中(M)  | 0.38 | [:link:code](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
+ | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](/question_bank/largest-divisible-subset) | 中(M)  | 0.39 | [:link:code](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
  | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.40 | [:link:code](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | 中(M)  | 0.42 | [:link:code](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [Is Subsequence](/question_bank/is-subsequence) | 易(E)  | 0.51 | [:link:code](/question_bank/is-subsequence/is-subsequence.py) |
@@ -144,6 +144,7 @@
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | 易(E)  | 0.50 | [:link:code](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [784](https://leetcode-cn.com/problems/letter-case-permutation/) | [Letter Case Permutation](/question_bank/letter-case-permutation) | 中(M)  | 0.65 | [:link:code](/question_bank/letter-case-permutation/letter-case-permutation.py) |
  | [841](https://leetcode-cn.com/problems/keys-and-rooms/) | [Keys and Rooms](/question_bank/keys-and-rooms) | 中(M)  | 0.65 | [:link:code](/question_bank/keys-and-rooms/keys-and-rooms.py) |
+ | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](/question_bank/split-array-into-fibonacci-sequence) | 中(M)  | 0.38 | [:link:code](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [DI String Match](/question_bank/di-string-match) | 易(E)  | 0.72 | [:link:code](/question_bank/di-string-match/di-string-match.py) |
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:code](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.65 | [:link:code](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
