@@ -140,7 +140,7 @@
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | 中(M)  | 0.63 | [:link:code](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | 中(M)  | 0.65 | [:link:code](/question_bank/minesweeper/minesweeper.py) |
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](/question_bank/construct-string-from-binary-tree) | 易(E)  | 0.55 | [:link:code](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
- | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | Average of Levels in Binary Tree | 易(E)  | 0.69 | :heavy_check_mark: |
+ | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](/question_bank/average-of-levels-in-binary-tree) | 易(E)  | 0.69 | [:link:code](/question_bank/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.py) |
  | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [Palindromic Substrings](/question_bank/palindromic-substrings) | 中(M)  | 0.65 | [:link:code](/question_bank/palindromic-substrings/palindromic-substrings.py) |
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | 易(E)  | 0.78 | [:link:code](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | 易(E)  | 0.58 | [:link:code](/question_bank/flood-fill/flood-fill.py) |
