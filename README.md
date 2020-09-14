@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 119/1790 
+finished 120/1790 
 
-Easy: 44    Medium: 67    Hard: 8
+Easy: 44    Medium: 68    Hard: 8
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -119,6 +119,7 @@ The project is a record of the author's leetcode.
  | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](/question_bank/largest-divisible-subset) | Medium  | 0.39 | [:link:code](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
  | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | Medium  | 0.40 | [:link:code](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | Medium  | 0.42 | [:link:code](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
+ | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [Combination Sum IV](/question_bank/combination-sum-iv) | Medium  | 0.43 | [:link:code](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [Is Subsequence](/question_bank/is-subsequence) | Easy  | 0.51 | [:link:code](/question_bank/is-subsequence/is-subsequence.py) |
  | [401](https://leetcode-cn.com/problems/binary-watch/) | [Binary Watch](/question_bank/binary-watch) | Easy  | 0.53 | [:link:code](/question_bank/binary-watch/binary-watch.py) |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](/question_bank/repeated-substring-pattern) | Easy  | 0.51 | [:link:code](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
