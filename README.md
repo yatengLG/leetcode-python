@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 127/1790 
+finished 128/1790 
 
-Easy: 49    Medium: 70    Hard: 8
+Easy: 49    Medium: 71    Hard: 8
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -59,7 +59,7 @@ The project is a record of the author's leetcode.
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [Implement strStr()](/question_bank/implement-strstr) | Easy  | 0.40 | [:link:code](/question_bank/implement-strstr/implement-strstr.py) |
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | Hard  | 0.34 | [:link:code](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | Easy  | 0.47 | [:link:code](/question_bank/search-insert-position/search-insert-position.py) |
- | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | Hard  | 0.67 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
+ | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | Hard  | 0.66 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | Easy  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | Medium  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | Medium  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
@@ -149,6 +149,7 @@ The project is a record of the author's leetcode.
  | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.60 | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:code](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.50 | [:link:code](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
+ | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium  | 0.69 | [:link:code](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | Easy  | 0.43 | [:link:code](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [Convert Integer LCCI](/question_bank/convert-integer-lcci) | Easy  | 0.51 | [:link:code](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
  | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [Sum Lists LCCI](/question_bank/sum-lists-lcci) | Medium  | 0.46 | [:link:code](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
