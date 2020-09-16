@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 126/1790 
+已通过 127/1790 
 
-简单: 49    中等: 69    困难: 8
+简单: 49    中等: 70    困难: 8
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -71,10 +71,10 @@
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [Implement strStr()](/question_bank/implement-strstr) | 易(E)  | 0.40 | [:link:code](/question_bank/implement-strstr/implement-strstr.py) |
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | 难(H)  | 0.34 | [:link:code](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | 易(E)  | 0.47 | [:link:code](/question_bank/search-insert-position/search-insert-position.py) |
- | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.66 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
+ | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.67 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
- | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.64 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
+ | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中(M)  | 0.44 | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [Wildcard Matching](/question_bank/wildcard-matching) | 难(H)  | 0.31 | [:link:code](/question_bank/wildcard-matching/wildcard-matching.py) |
  | [46](https://leetcode-cn.com/problems/permutations/) | [Permutations](/question_bank/permutations) | 中(M)  | 0.77 | [:link:code](/question_bank/permutations/permutations.py) |
@@ -156,8 +156,9 @@
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:code](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.65 | [:link:code](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:code](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
+ | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | 中(M)  | 0.50 | [:link:code](/question_bank/sequential-digits/sequential-digits.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | 易(E)  | 0.57 | [:link:code](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | 易(E)  | 0.61 | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | 易(E)  | 0.60 | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:code](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.50 | [:link:code](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:code](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
