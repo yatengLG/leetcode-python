@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 122/1790 
+已通过 126/1790 
 
-简单: 45    中等: 69    困难: 8
+简单: 49    中等: 69    困难: 8
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -100,6 +100,7 @@
  | [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](/question_bank/convert-sorted-list-to-binary-search-tree) | 中(M)  | 0.76 | [:link:code](/question_bank/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.py) |
  | [110](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](/question_bank/balanced-binary-tree) | 易(E)  | 0.55 | [:link:code](/question_bank/balanced-binary-tree/balanced-binary-tree.py) |
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](/question_bank/minimum-depth-of-binary-tree) | 易(E)  | 0.44 | [:link:code](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
+ | [112](https://leetcode-cn.com/problems/path-sum/) | [Path Sum](/question_bank/path-sum) | 易(E)  | 0.51 | [:link:code](/question_bank/path-sum/path-sum.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | 中(M)  | 0.67 | [:link:code](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | 易(E)  | 0.55 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/question_bank/best-time-to-buy-and-sell-stock-ii) | 易(E)  | 0.63 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
@@ -146,15 +147,17 @@
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | 易(E)  | 0.78 | [:link:code](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | 易(E)  | 0.58 | [:link:code](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | 易(E)  | 0.50 | [:link:code](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
+ | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](/question_bank/n-ary-tree-preorder-traversal) | 易(E)  | 0.74 | [:link:code](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
  | [784](https://leetcode-cn.com/problems/letter-case-permutation/) | [Letter Case Permutation](/question_bank/letter-case-permutation) | 中(M)  | 0.66 | [:link:code](/question_bank/letter-case-permutation/letter-case-permutation.py) |
  | [841](https://leetcode-cn.com/problems/keys-and-rooms/) | [Keys and Rooms](/question_bank/keys-and-rooms) | 中(M)  | 0.65 | [:link:code](/question_bank/keys-and-rooms/keys-and-rooms.py) |
  | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](/question_bank/split-array-into-fibonacci-sequence) | 中(M)  | 0.39 | [:link:code](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
+ | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](/question_bank/increasing-order-search-tree) | 易(E)  | 0.72 | [:link:code](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [DI String Match](/question_bank/di-string-match) | 易(E)  | 0.72 | [:link:code](/question_bank/di-string-match/di-string-match.py) |
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:code](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.65 | [:link:code](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:code](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | 易(E)  | 0.57 | [:link:code](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | 易(E)  | 0.60 | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | 易(E)  | 0.61 | [:link:code](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:code](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.50 | [:link:code](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:code](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
@@ -163,6 +166,7 @@
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [Three Steps Problem LCCI](/question_bank/three-steps-problem-lcci) | 易(E)  | 0.35 | [:link:code](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
  | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串 LCOF](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | 中(M)  | 0.23 | [:link:code](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py) |
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | 易(E)  | 0.60 | [:link:code](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
- | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | 易(E)  | 0.60 | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
+ | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | 易(E)  | 0.69 | [:link:code](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
+ | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | 易(E)  | 0.59 | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | 中(M)  | 0.64 | [:link:code](/question_bank/partition-list-lcci/partition-list-lcci.py) |
  | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [The Masseuse LCCI](/question_bank/the-masseuse-lcci) | 易(E)  | 0.53 | [:link:code](/question_bank/the-masseuse-lcci/the-masseuse-lcci.py) |
