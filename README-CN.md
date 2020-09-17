@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 128/1790 
+已通过 129/1791 
 
-简单: 49    中等: 71    困难: 8
+简单: 49    中等: 71    困难: 9
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -74,7 +74,7 @@
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.66 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
- | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
+ | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.64 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中(M)  | 0.44 | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [Wildcard Matching](/question_bank/wildcard-matching) | 难(H)  | 0.31 | [:link:code](/question_bank/wildcard-matching/wildcard-matching.py) |
  | [46](https://leetcode-cn.com/problems/permutations/) | [Permutations](/question_bank/permutations) | 中(M)  | 0.77 | [:link:code](/question_bank/permutations/permutations.py) |
@@ -131,7 +131,7 @@
  | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [Top K Frequent Elements](/question_bank/top-k-frequent-elements) | 中(M)  | 0.62 | [:link:code](/question_bank/top-k-frequent-elements/top-k-frequent-elements.py) |
  | [357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](/question_bank/count-numbers-with-unique-digits) | 中(M)  | 0.51 | [:link:code](/question_bank/count-numbers-with-unique-digits/count-numbers-with-unique-digits.py) |
  | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](/question_bank/largest-divisible-subset) | 中(M)  | 0.39 | [:link:code](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
- | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.40 | [:link:code](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
+ | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.41 | [:link:code](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | 中(M)  | 0.42 | [:link:code](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [Combination Sum IV](/question_bank/combination-sum-iv) | 中(M)  | 0.43 | [:link:code](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [Is Subsequence](/question_bank/is-subsequence) | 易(E)  | 0.51 | [:link:code](/question_bank/is-subsequence/is-subsequence.py) |
@@ -145,6 +145,7 @@
  | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](/question_bank/average-of-levels-in-binary-tree) | 易(E)  | 0.69 | [:link:code](/question_bank/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.py) |
  | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [Palindromic Substrings](/question_bank/palindromic-substrings) | 中(M)  | 0.65 | [:link:code](/question_bank/palindromic-substrings/palindromic-substrings.py) |
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | 易(E)  | 0.78 | [:link:code](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
+ | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | Redundant Connection II | 难(H)  | 0.42 | :heavy_check_mark: |
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | 易(E)  | 0.58 | [:link:code](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | 易(E)  | 0.50 | [:link:code](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](/question_bank/n-ary-tree-preorder-traversal) | 易(E)  | 0.74 | [:link:code](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
