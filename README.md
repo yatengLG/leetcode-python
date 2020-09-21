@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 138/1806 
+finished 139/1806 
 
-Easy: 51    Medium: 76    Hard: 11
+Easy: 52    Medium: 76    Hard: 11
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -84,6 +84,7 @@ The project is a record of the author's leetcode.
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](/question_bank/decode-ways) | Medium  | 0.25 | [:link:code](/question_bank/decode-ways/decode-ways.py) |
  | [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Restore IP Addresses](/question_bank/restore-ip-addresses) | Medium  | 0.50 | [:link:code](/question_bank/restore-ip-addresses/restore-ip-addresses.py) |
  | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](/question_bank/binary-tree-inorder-traversal) | Medium  | 0.74 | [:link:code](/question_bank/binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
+ | [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Maximum Depth of Binary Tree](/question_bank/maximum-depth-of-binary-tree) | Easy  | 0.75 | [:link:code](/question_bank/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
  | [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/) | [Binary Tree Level Order Traversal II](/question_bank/binary-tree-level-order-traversal-ii) | Easy  | 0.68 | [:link:code](/question_bank/binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py) |
  | [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/) | [Convert Sorted List to Binary Search Tree](/question_bank/convert-sorted-list-to-binary-search-tree) | Medium  | 0.76 | [:link:code](/question_bank/convert-sorted-list-to-binary-search-tree/convert-sorted-list-to-binary-search-tree.py) |
  | [110](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](/question_bank/balanced-binary-tree) | Easy  | 0.55 | [:link:code](/question_bank/balanced-binary-tree/balanced-binary-tree.py) |
