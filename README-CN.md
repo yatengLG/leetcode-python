@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 131/1806 
+已通过 135/1806 
 
-简单: 51    中等: 70    困难: 10
+简单: 51    中等: 74    困难: 10
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -166,11 +166,15 @@
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.50 | [:link:code](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:code](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:code](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
+ | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.43 | [:link:code](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [Convert Integer LCCI](/question_bank/convert-integer-lcci) | 易(E)  | 0.51 | [:link:code](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
  | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [Sum Lists LCCI](/question_bank/sum-lists-lcci) | 中(M)  | 0.45 | [:link:code](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [Three Steps Problem LCCI](/question_bank/three-steps-problem-lcci) | 易(E)  | 0.35 | [:link:code](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
+ | [面试题 08.04](https://leetcode-cn.com/problems/power-set-lcci/) | [Power Set LCCI](/question_bank/power-set-lcci) | 中(M)  | 0.81 | [:link:code](/question_bank/power-set-lcci/power-set-lcci.py) |
+ | [面试题 08.07](https://leetcode-cn.com/problems/permutation-i-lcci/) | [Permutation I LCCI](/question_bank/permutation-i-lcci) | 中(M)  | 0.81 | [:link:code](/question_bank/permutation-i-lcci/permutation-i-lcci.py) |
  | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串 LCOF](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | 中(M)  | 0.23 | [:link:code](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py) |
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | 易(E)  | 0.60 | [:link:code](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
+ | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | 中(M)  | 0.54 | [:link:code](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
  | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | 易(E)  | 0.69 | [:link:code](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | 易(E)  | 0.59 | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | 中(M)  | 0.64 | [:link:code](/question_bank/partition-list-lcci/partition-list-lcci.py) |
