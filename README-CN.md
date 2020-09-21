@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 135/1806 
+已通过 136/1806 
 
-简单: 51    中等: 74    困难: 10
+简单: 51    中等: 75    困难: 10
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -176,6 +176,7 @@
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | 易(E)  | 0.60 | [:link:code](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
  | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | 中(M)  | 0.54 | [:link:code](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
  | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | 易(E)  | 0.69 | [:link:code](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
+ | [面试题 08.08](https://leetcode-cn.com/problems/permutation-ii-lcci/) | [Permutation II LCCI](/question_bank/permutation-ii-lcci) | 中(M)  | 0.71 | [:link:code](/question_bank/permutation-ii-lcci/permutation-ii-lcci.py) |
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | 易(E)  | 0.59 | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | 中(M)  | 0.64 | [:link:code](/question_bank/partition-list-lcci/partition-list-lcci.py) |
  | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [The Masseuse LCCI](/question_bank/the-masseuse-lcci) | 易(E)  | 0.53 | [:link:code](/question_bank/the-masseuse-lcci/the-masseuse-lcci.py) |

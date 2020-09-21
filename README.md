@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 135/1806 
+finished 136/1806 
 
-Easy: 51    Medium: 74    Hard: 10
+Easy: 51    Medium: 75    Hard: 10
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -164,6 +164,7 @@ The project is a record of the author's leetcode.
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | Easy  | 0.60 | [:link:code](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
  | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | Medium  | 0.54 | [:link:code](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
  | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | Easy  | 0.69 | [:link:code](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
+ | [面试题 08.08](https://leetcode-cn.com/problems/permutation-ii-lcci/) | [Permutation II LCCI](/question_bank/permutation-ii-lcci) | Medium  | 0.71 | [:link:code](/question_bank/permutation-ii-lcci/permutation-ii-lcci.py) |
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | Easy  | 0.59 | [:link:code](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | Medium  | 0.64 | [:link:code](/question_bank/partition-list-lcci/partition-list-lcci.py) |
  | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [The Masseuse LCCI](/question_bank/the-masseuse-lcci) | Easy  | 0.53 | [:link:code](/question_bank/the-masseuse-lcci/the-masseuse-lcci.py) |
