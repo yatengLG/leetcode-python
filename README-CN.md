@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 139/1806 
+已通过 143/1806 
 
-简单: 52    中等: 76    困难: 11
+简单: 55    中等: 76    困难: 12
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -71,7 +71,7 @@
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [Implement strStr()](/question_bank/implement-strstr) | 易(E)  | 0.40 | [:link:code](/question_bank/implement-strstr/implement-strstr.py) |
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | 难(H)  | 0.34 | [:link:code](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | 易(E)  | 0.47 | [:link:code](/question_bank/search-insert-position/search-insert-position.py) |
- | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.66 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
+ | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.67 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
@@ -82,10 +82,12 @@
  | [51](https://leetcode-cn.com/problems/n-queens/) | [N-Queens](/question_bank/n-queens) | 难(H)  | 0.73 | [:link:code](/question_bank/n-queens/n-queens.py) |
  | [52](https://leetcode-cn.com/problems/n-queens-ii/) | [N-Queens II](/question_bank/n-queens-ii) | 难(H)  | 0.80 | [:link:code](/question_bank/n-queens-ii/n-queens-ii.py) |
  | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](/question_bank/maximum-subarray) | 易(E)  | 0.52 | [:link:code](/question_bank/maximum-subarray/maximum-subarray.py) |
+ | [58](https://leetcode-cn.com/problems/length-of-last-word/) | [Length of Last Word](/question_bank/length-of-last-word) | 易(E)  | 0.34 | [:link:code](/question_bank/length-of-last-word/length-of-last-word.py) |
  | [60](https://leetcode-cn.com/problems/permutation-sequence/) | [Permutation Sequence](/question_bank/permutation-sequence) | 难(H)  | 0.51 | [:link:code](/question_bank/permutation-sequence/permutation-sequence.py) |
  | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](/question_bank/unique-paths) | 中(M)  | 0.62 | [:link:code](/question_bank/unique-paths/unique-paths.py) |
  | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](/question_bank/unique-paths-ii) | 中(M)  | 0.37 | [:link:code](/question_bank/unique-paths-ii/unique-paths-ii.py) |
  | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](/question_bank/minimum-path-sum) | 中(M)  | 0.68 | [:link:code](/question_bank/minimum-path-sum/minimum-path-sum.py) |
+ | [66](https://leetcode-cn.com/problems/plus-one/) | [Plus One](/question_bank/plus-one) | 易(E)  | 0.45 | [:link:code](/question_bank/plus-one/plus-one.py) |
  | [70](https://leetcode-cn.com/problems/climbing-stairs/) | [Climbing Stairs](/question_bank/climbing-stairs) | 易(E)  | 0.51 | [:link:code](/question_bank/climbing-stairs/climbing-stairs.py) |
  | [72](https://leetcode-cn.com/problems/edit-distance/) | [Edit Distance](/question_bank/edit-distance) | 难(H)  | 0.60 | [:link:code](/question_bank/edit-distance/edit-distance.py) |
  | [77](https://leetcode-cn.com/problems/combinations/) | [Combinations](/question_bank/combinations) | 中(M)  | 0.76 | [:link:code](/question_bank/combinations/combinations.py) |
@@ -157,6 +159,7 @@
  | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](/question_bank/split-array-into-fibonacci-sequence) | 中(M)  | 0.39 | [:link:code](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
  | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](/question_bank/increasing-order-search-tree) | 易(E)  | 0.72 | [:link:code](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [DI String Match](/question_bank/di-string-match) | 易(E)  | 0.72 | [:link:code](/question_bank/di-string-match/di-string-match.py) |
+ | [968](https://leetcode-cn.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](/question_bank/binary-tree-cameras) | 难(H)  | 0.47 | [:link:code](/question_bank/binary-tree-cameras/binary-tree-cameras.py) |
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:code](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.65 | [:link:code](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:code](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
@@ -166,8 +169,9 @@
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:code](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.50 | [:link:code](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:code](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
+ | [1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [Build an Array With Stack Operations](/question_bank/build-an-array-with-stack-operations) | 易(E)  | 0.65 | [:link:code](/question_bank/build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [Detect Pattern of Length M Repeated K or More Times](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:code](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
- | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.43 | [:link:code](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
+ | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.44 | [:link:code](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [Convert Integer LCCI](/question_bank/convert-integer-lcci) | 易(E)  | 0.51 | [:link:code](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
  | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [Sum Lists LCCI](/question_bank/sum-lists-lcci) | 中(M)  | 0.45 | [:link:code](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [Three Steps Problem LCCI](/question_bank/three-steps-problem-lcci) | 易(E)  | 0.35 | [:link:code](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
