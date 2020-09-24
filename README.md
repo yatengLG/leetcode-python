@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 145/1806 
+finished 146/1807 
 
-Easy: 56    Medium: 77    Hard: 12
+Easy: 57    Medium: 77    Hard: 12
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -50,7 +50,7 @@ The project is a record of the author's leetcode.
  | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](/question_bank/3sum-closest) | Medium  | 0.46 | [:link:code](/question_bank/3sum-closest/3sum-closest.py) |
  | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](/question_bank/letter-combinations-of-a-phone-number) | Medium  | 0.55 | [:link:code](/question_bank/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
  | [18](https://leetcode-cn.com/problems/4sum/) | [4Sum](/question_bank/4sum) | Medium  | 0.38 | [:link:code](/question_bank/4sum/4sum.py) |
- | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](/question_bank/remove-nth-node-from-end-of-list) | Medium  | 0.39 | [:link:code](/question_bank/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
+ | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](/question_bank/remove-nth-node-from-end-of-list) | Medium  | 0.40 | [:link:code](/question_bank/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
  | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](/question_bank/valid-parentheses) | Easy  | 0.43 | [:link:code](/question_bank/valid-parentheses/valid-parentheses.py) |
  | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [Merge Two Sorted Lists](/question_bank/merge-two-sorted-lists) | Easy  | 0.64 | [:link:code](/question_bank/merge-two-sorted-lists/merge-two-sorted-lists.py) |
  | [22](https://leetcode-cn.com/problems/generate-parentheses/) | [Generate Parentheses](/question_bank/generate-parentheses) | Medium  | 0.76 | [:link:code](/question_bank/generate-parentheses/generate-parentheses.py) |
@@ -132,6 +132,7 @@ The project is a record of the author's leetcode.
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](/question_bank/repeated-substring-pattern) | Easy  | 0.51 | [:link:code](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
  | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [Predict the Winner](/question_bank/predict-the-winner) | Medium  | 0.59 | [:link:code](/question_bank/predict-the-winner/predict-the-winner.py) |
  | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [Increasing Subsequences](/question_bank/increasing-subsequences) | Medium  | 0.56 | [:link:code](/question_bank/increasing-subsequences/increasing-subsequences.py) |
+ | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](/question_bank/find-mode-in-binary-search-tree) | Easy  | 0.47 | [:link:code](/question_bank/find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | Medium  | 0.63 | [:link:code](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | Medium  | 0.65 | [:link:code](/question_bank/minesweeper/minesweeper.py) |
  | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | Easy  | 0.64 | [:link:code](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
