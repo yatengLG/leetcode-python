@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 147/1808 
+finished 148/1808 
 
-Easy: 57    Medium: 78    Hard: 12
+Easy: 56    Medium: 80    Hard: 12
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -48,7 +48,7 @@ The project is a record of the author's leetcode.
  | [14](https://leetcode-cn.com/problems/longest-common-prefix/) | [Longest Common Prefix](/question_bank/longest-common-prefix) | Easy  | 0.39 | [:link:code](/question_bank/longest-common-prefix/longest-common-prefix.py) |
  | [15](https://leetcode-cn.com/problems/3sum/) | [3Sum](/question_bank/3sum) | Medium  | 0.30 | [:link:code](/question_bank/3sum/3sum.py) |
  | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](/question_bank/3sum-closest) | Medium  | 0.46 | [:link:code](/question_bank/3sum-closest/3sum-closest.py) |
- | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](/question_bank/letter-combinations-of-a-phone-number) | Medium  | 0.56 | [:link:code](/question_bank/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
+ | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](/question_bank/letter-combinations-of-a-phone-number) | Medium  | 0.55 | [:link:code](/question_bank/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
  | [18](https://leetcode-cn.com/problems/4sum/) | [4Sum](/question_bank/4sum) | Medium  | 0.38 | [:link:code](/question_bank/4sum/4sum.py) |
  | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](/question_bank/remove-nth-node-from-end-of-list) | Medium  | 0.40 | [:link:code](/question_bank/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
  | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](/question_bank/valid-parentheses) | Easy  | 0.43 | [:link:code](/question_bank/valid-parentheses/valid-parentheses.py) |
@@ -93,6 +93,7 @@ The project is a record of the author's leetcode.
  | [110](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Balanced Binary Tree](/question_bank/balanced-binary-tree) | Easy  | 0.55 | [:link:code](/question_bank/balanced-binary-tree/balanced-binary-tree.py) |
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](/question_bank/minimum-depth-of-binary-tree) | Easy  | 0.44 | [:link:code](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
  | [112](https://leetcode-cn.com/problems/path-sum/) | [Path Sum](/question_bank/path-sum) | Easy  | 0.51 | [:link:code](/question_bank/path-sum/path-sum.py) |
+ | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [Path Sum II](/question_bank/path-sum-ii) | Medium  | 0.61 | [:link:code](/question_bank/path-sum-ii/path-sum-ii.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | Medium  | 0.67 | [:link:code](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | Easy  | 0.55 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/question_bank/best-time-to-buy-and-sell-stock-ii) | Easy  | 0.63 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
@@ -106,7 +107,7 @@ The project is a record of the author's leetcode.
  | [221](https://leetcode-cn.com/problems/maximal-square/) | [Maximal Square](/question_bank/maximal-square) | Medium  | 0.43 | [:link:code](/question_bank/maximal-square/maximal-square.py) |
  | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | [Invert Binary Tree](/question_bank/invert-binary-tree) | Easy  | 0.77 | [:link:code](/question_bank/invert-binary-tree/invert-binary-tree.py) |
  | [234](https://leetcode-cn.com/problems/palindrome-linked-list/) | [Palindrome Linked List](/question_bank/palindrome-linked-list) | Easy  | 0.43 | [:link:code](/question_bank/palindrome-linked-list/palindrome-linked-list.py) |
- | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](/question_bank/lowest-common-ancestor-of-a-binary-search-tree) | Easy  | 0.65 | [:link:code](/question_bank/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
+ | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Lowest Common Ancestor of a Binary Search Tree](/question_bank/lowest-common-ancestor-of-a-binary-search-tree) | Easy  | 0.66 | [:link:code](/question_bank/lowest-common-ancestor-of-a-binary-search-tree/lowest-common-ancestor-of-a-binary-search-tree.py) |
  | [236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](/question_bank/lowest-common-ancestor-of-a-binary-tree) | Medium  | 0.65 | [:link:code](/question_bank/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) |
  | [237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](/question_bank/delete-node-in-a-linked-list) | Easy  | 0.83 | [:link:code](/question_bank/delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) |
  | [257](https://leetcode-cn.com/problems/binary-tree-paths/) | [Binary Tree Paths](/question_bank/binary-tree-paths) | Easy  | 0.66 | [:link:code](/question_bank/binary-tree-paths/binary-tree-paths.py) |
@@ -136,7 +137,7 @@ The project is a record of the author's leetcode.
  | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](/question_bank/find-mode-in-binary-search-tree) | Easy  | 0.50 | [:link:code](/question_bank/find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | Medium  | 0.63 | [:link:code](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | Medium  | 0.65 | [:link:code](/question_bank/minesweeper/minesweeper.py) |
- | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | Easy  | 0.64 | [:link:code](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
+ | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | Medium  | 0.64 | [:link:code](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](/question_bank/construct-string-from-binary-tree) | Easy  | 0.55 | [:link:code](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
  | [617](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](/question_bank/merge-two-binary-trees) | Easy  | 0.78 | [:link:code](/question_bank/merge-two-binary-trees/merge-two-binary-trees.py) |
  | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](/question_bank/average-of-levels-in-binary-tree) | Easy  | 0.69 | [:link:code](/question_bank/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.py) |

@@ -31,3 +31,24 @@ class Solution:
                 root = root.left
             if root.val < l_val:    #
                 root = root.right
+
+
+"""
+执行用时：88 ms, 在所有 Python3 提交中击败了95.71% 的用户
+内存消耗：17.1 MB, 在所有 Python3 提交中击败了97.46% 的用户
+
+解题思路：
+    递归
+"""
+class Solution:
+    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
+        if p.val > q.val:
+            p, q = q, p
+        def find(root, p, q):
+            if p.val <= root.val <= q.val:  # 比较当前节点与p,q的值， 如果处于p,q之间，则返回
+                return root
+            elif root.val < p.val:  # 如果当前节点值小于p,则遍历右子树
+                return find(root.right, p, q)
+            else:   # 否则，遍历左子树
+                return find(root.left, p, q)
+        return find(root, p, q)
