@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 151/1808 
+已通过 153/1812 
 
-简单: 58    中等: 81    困难: 12
+简单: 59    中等: 82    困难: 12
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -72,7 +72,7 @@
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | 难(H)  | 0.34 | [:link:code](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | 易(E)  | 0.47 | [:link:code](/question_bank/search-insert-position/search-insert-position.py) |
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | 难(H)  | 0.67 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
- | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
+ | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | 易(E)  | 0.57 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | 中(M)  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | 中(M)  | 0.44 | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
@@ -106,6 +106,7 @@
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](/question_bank/minimum-depth-of-binary-tree) | 易(E)  | 0.44 | [:link:code](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
  | [112](https://leetcode-cn.com/problems/path-sum/) | [Path Sum](/question_bank/path-sum) | 易(E)  | 0.51 | [:link:code](/question_bank/path-sum/path-sum.py) |
  | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [Path Sum II](/question_bank/path-sum-ii) | 中(M)  | 0.61 | [:link:code](/question_bank/path-sum-ii/path-sum-ii.py) |
+ | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Populating Next Right Pointers in Each Node II](/question_bank/populating-next-right-pointers-in-each-node-ii) | 中(M)  | 0.54 | [:link:code](/question_bank/populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | 中(M)  | 0.67 | [:link:code](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | 易(E)  | 0.55 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/question_bank/best-time-to-buy-and-sell-stock-ii) | 易(E)  | 0.63 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
@@ -147,6 +148,7 @@
  | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [Predict the Winner](/question_bank/predict-the-winner) | 中(M)  | 0.59 | [:link:code](/question_bank/predict-the-winner/predict-the-winner.py) |
  | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [Increasing Subsequences](/question_bank/increasing-subsequences) | 中(M)  | 0.56 | [:link:code](/question_bank/increasing-subsequences/increasing-subsequences.py) |
  | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](/question_bank/find-mode-in-binary-search-tree) | 易(E)  | 0.50 | [:link:code](/question_bank/find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.py) |
+ | [504](https://leetcode-cn.com/problems/base-7/) | [Base 7](/question_bank/base-7) | 易(E)  | 0.49 | [:link:code](/question_bank/base-7/base-7.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | 中(M)  | 0.63 | [:link:code](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | 中(M)  | 0.65 | [:link:code](/question_bank/minesweeper/minesweeper.py) |
  | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | 中(M)  | 0.64 | [:link:code](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |

@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 151/1808 
+finished 153/1812 
 
-Easy: 58    Medium: 81    Hard: 12
+Easy: 59    Medium: 82    Hard: 12
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -60,7 +60,7 @@ The project is a record of the author's leetcode.
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | Hard  | 0.34 | [:link:code](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | Easy  | 0.47 | [:link:code](/question_bank/search-insert-position/search-insert-position.py) |
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | Hard  | 0.67 | [:link:code](/question_bank/sudoku-solver/sudoku-solver.py) |
- | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | Easy  | 0.56 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
+ | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | Easy  | 0.57 | [:link:code](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [Combination Sum](/question_bank/combination-sum) | Medium  | 0.71 | [:link:code](/question_bank/combination-sum/combination-sum.py) |
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [Combination Sum II](/question_bank/combination-sum-ii) | Medium  | 0.65 | [:link:code](/question_bank/combination-sum-ii/combination-sum-ii.py) |
  | [43](https://leetcode-cn.com/problems/multiply-strings/) | [Multiply Strings](/question_bank/multiply-strings) | Medium  | 0.44 | [:link:code](/question_bank/multiply-strings/multiply-strings.py) |
@@ -94,6 +94,7 @@ The project is a record of the author's leetcode.
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](/question_bank/minimum-depth-of-binary-tree) | Easy  | 0.44 | [:link:code](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
  | [112](https://leetcode-cn.com/problems/path-sum/) | [Path Sum](/question_bank/path-sum) | Easy  | 0.51 | [:link:code](/question_bank/path-sum/path-sum.py) |
  | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [Path Sum II](/question_bank/path-sum-ii) | Medium  | 0.61 | [:link:code](/question_bank/path-sum-ii/path-sum-ii.py) |
+ | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Populating Next Right Pointers in Each Node II](/question_bank/populating-next-right-pointers-in-each-node-ii) | Medium  | 0.54 | [:link:code](/question_bank/populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | Medium  | 0.67 | [:link:code](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | Easy  | 0.55 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/question_bank/best-time-to-buy-and-sell-stock-ii) | Easy  | 0.63 | [:link:code](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
@@ -135,6 +136,7 @@ The project is a record of the author's leetcode.
  | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [Predict the Winner](/question_bank/predict-the-winner) | Medium  | 0.59 | [:link:code](/question_bank/predict-the-winner/predict-the-winner.py) |
  | [491](https://leetcode-cn.com/problems/increasing-subsequences/) | [Increasing Subsequences](/question_bank/increasing-subsequences) | Medium  | 0.56 | [:link:code](/question_bank/increasing-subsequences/increasing-subsequences.py) |
  | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [Find Mode in Binary Search Tree](/question_bank/find-mode-in-binary-search-tree) | Easy  | 0.50 | [:link:code](/question_bank/find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.py) |
+ | [504](https://leetcode-cn.com/problems/base-7/) | [Base 7](/question_bank/base-7) | Easy  | 0.49 | [:link:code](/question_bank/base-7/base-7.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | Medium  | 0.63 | [:link:code](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | Medium  | 0.65 | [:link:code](/question_bank/minesweeper/minesweeper.py) |
  | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | Medium  | 0.64 | [:link:code](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
