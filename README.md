@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 170/1828 
+finished 173/1828 
 
-Easy: 66    Medium: 90    Hard: 14
+Easy: 67    Medium: 92    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -84,6 +84,9 @@ The project is a record of the author's leetcode.
  | [77](https://leetcode-cn.com/problems/combinations/) | [Combinations](/question_bank/combinations) | Medium  | 0.76 | [:link:python](/question_bank/combinations/combinations.py) |
  | [78](https://leetcode-cn.com/problems/subsets/) | [Subsets](/question_bank/subsets) | Medium  | 0.79 | [:link:python](/question_bank/subsets/subsets.py) |
  | [79](https://leetcode-cn.com/problems/word-search/) | [Word Search](/question_bank/word-search) | Medium  | 0.44 | [:link:python](/question_bank/word-search/word-search.py) |
+ | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](/question_bank/remove-duplicates-from-sorted-list-ii) | Medium  | 0.49 | [:link:python](/question_bank/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py) |
+ | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](/question_bank/remove-duplicates-from-sorted-list) | Easy  | 0.52 | [:link:python](/question_bank/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
+ | [86](https://leetcode-cn.com/problems/partition-list/) | [Partition List](/question_bank/partition-list) | Medium  | 0.60 | [:link:python](/question_bank/partition-list/partition-list.py) |
  | [89](https://leetcode-cn.com/problems/gray-code/) | [Gray Code](/question_bank/gray-code) | Medium  | 0.69 | [:link:python](/question_bank/gray-code/gray-code.py) |
  | [90](https://leetcode-cn.com/problems/subsets-ii/) | [Subsets II](/question_bank/subsets-ii) | Medium  | 0.61 | [:link:python](/question_bank/subsets-ii/subsets-ii.py) |
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](/question_bank/decode-ways) | Medium  | 0.25 | [:link:python](/question_bank/decode-ways/decode-ways.py) |
@@ -146,7 +149,7 @@ The project is a record of the author's leetcode.
  | [504](https://leetcode-cn.com/problems/base-7/) | [Base 7](/question_bank/base-7) | Easy  | 0.50 | [:link:python](/question_bank/base-7/base-7.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [Beautiful Arrangement](/question_bank/beautiful-arrangement) | Medium  | 0.63 | [:link:python](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
  | [529](https://leetcode-cn.com/problems/minesweeper/) | [Minesweeper](/question_bank/minesweeper) | Medium  | 0.65 | [:link:python](/question_bank/minesweeper/minesweeper.py) |
- | [530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [Minimum Absolute Difference in BST](/question_bank/minimum-absolute-difference-in-bst) | Easy  | 0.60 | [:link:python](/question_bank/minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py) |
+ | [530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [Minimum Absolute Difference in BST](/question_bank/minimum-absolute-difference-in-bst) | Easy  | 0.61 | [:link:python](/question_bank/minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py) |
  | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [Convert BST to Greater Tree](/question_bank/convert-bst-to-greater-tree) | Medium  | 0.63 | [:link:python](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
  | [557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](/question_bank/reverse-words-in-a-string-iii) | Easy  | 0.73 | [:link:python](/question_bank/reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](/question_bank/construct-string-from-binary-tree) | Easy  | 0.55 | [:link:python](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
@@ -200,5 +203,5 @@ The project is a record of the author's leetcode.
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | Easy  | 0.59 | [:link:python](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | Medium  | 0.64 | [:link:python](/question_bank/partition-list-lcci/partition-list-lcci.py) |
  | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [The Masseuse LCCI](/question_bank/the-masseuse-lcci) | Easy  | 0.53 | [:link:python](/question_bank/the-masseuse-lcci/the-masseuse-lcci.py) |
- | [面试题 17.10](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [Find Majority Element LCCI](/question_bank/find-majority-element-lcci) | Easy  | 0.64 | [:link:python](/question_bank/find-majority-element-lcci/find-majority-element-lcci.py) |
+ | [面试题 17.10](https://leetcode-cn.com/problems/find-majority-element-lcci/) | [Find Majority Element LCCI](/question_bank/find-majority-element-lcci) | Easy  | 0.63 | [:link:python](/question_bank/find-majority-element-lcci/find-majority-element-lcci.py) |
  | [LCP 19](https://leetcode-cn.com/problems/UlBDOe/) | [秋叶收藏集](/question_bank/UlBDOe) | Medium  | 0.51 | [:link:python](/question_bank/UlBDOe/UlBDOe.py) |
