@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 176/1828 
+finished 177/1828 
 
-Easy: 68    Medium: 94    Hard: 14
+Easy: 68    Medium: 95    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -111,6 +111,7 @@ The project is a record of the author's leetcode.
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](/question_bank/linked-list-cycle-ii) | Medium  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
  | [143](https://leetcode-cn.com/problems/reorder-list/) | [Reorder List](/question_bank/reorder-list) | Medium  | 0.57 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
  | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](/question_bank/binary-tree-postorder-traversal) | Medium  | 0.73 | [:link:python](/question_bank/binary-tree-postorder-traversal/binary-tree-postorder-traversal.py) |
+ | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](/question_bank/insertion-sort-list) | Medium  | 0.65 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Maximum Product Subarray](/question_bank/maximum-product-subarray) | Medium  | 0.40 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [House Robber](/question_bank/house-robber) | Easy  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [House Robber II](/question_bank/house-robber-ii) | Medium  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
@@ -182,7 +183,7 @@ The project is a record of the author's leetcode.
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | Medium  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | Easy  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
