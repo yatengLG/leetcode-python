@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 173/1828 
+已通过 176/1828 
 
-简单: 67    中等: 92    困难: 14
+简单: 68    中等: 94    困难: 14
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -66,7 +66,7 @@
  | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [有效的括号](/question_bank/valid-parentheses) | 易(E)  | 0.43 | [:link:python](/question_bank/valid-parentheses/valid-parentheses.py) |
  | [21](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [合并两个有序链表](/question_bank/merge-two-sorted-lists) | 易(E)  | 0.65 | [:link:python](/question_bank/merge-two-sorted-lists/merge-two-sorted-lists.py) |
  | [22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](/question_bank/generate-parentheses) | 中(M)  | 0.76 | [:link:python](/question_bank/generate-parentheses/generate-parentheses.py) |
- | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](/question_bank/swap-nodes-in-pairs) | 中(M)  | 0.67 | [:link:python](/question_bank/swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
+ | [24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [两两交换链表中的节点](/question_bank/swap-nodes-in-pairs) | 中(M)  | 0.68 | [:link:python](/question_bank/swap-nodes-in-pairs/swap-nodes-in-pairs.py) |
  | [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [删除排序数组中的重复项](/question_bank/remove-duplicates-from-sorted-array) | 易(E)  | 0.52 | [:link:python](/question_bank/remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py) |
  | [27](https://leetcode-cn.com/problems/remove-element/) | [移除元素](/question_bank/remove-element) | 易(E)  | 0.59 | [:link:python](/question_bank/remove-element/remove-element.py) |
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [实现 strStr()](/question_bank/implement-strstr) | 易(E)  | 0.40 | [:link:python](/question_bank/implement-strstr/implement-strstr.py) |
@@ -76,7 +76,7 @@
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [外观数列](/question_bank/count-and-say) | 易(E)  | 0.57 | [:link:python](/question_bank/count-and-say/count-and-say.py) |
  | [39](https://leetcode-cn.com/problems/combination-sum/) | [组合总和](/question_bank/combination-sum) | 中(M)  | 0.71 | [:link:python](/question_bank/combination-sum/combination-sum.py) |
  | [40](https://leetcode-cn.com/problems/combination-sum-ii/) | [组合总和 II](/question_bank/combination-sum-ii) | 中(M)  | 0.65 | [:link:python](/question_bank/combination-sum-ii/combination-sum-ii.py) |
- | [43](https://leetcode-cn.com/problems/multiply-strings/) | [字符串相乘](/question_bank/multiply-strings) | 中(M)  | 0.44 | [:link:python](/question_bank/multiply-strings/multiply-strings.py) |
+ | [43](https://leetcode-cn.com/problems/multiply-strings/) | [字符串相乘](/question_bank/multiply-strings) | 中(M)  | 0.45 | [:link:python](/question_bank/multiply-strings/multiply-strings.py) |
  | [44](https://leetcode-cn.com/problems/wildcard-matching/) | [通配符匹配](/question_bank/wildcard-matching) | 难(H)  | 0.31 | [:link:python](/question_bank/wildcard-matching/wildcard-matching.py) |
  | [46](https://leetcode-cn.com/problems/permutations/) | [全排列](/question_bank/permutations) | 中(M)  | 0.77 | [:link:python](/question_bank/permutations/permutations.py) |
  | [47](https://leetcode-cn.com/problems/permutations-ii/) | [全排列 II](/question_bank/permutations-ii) | 中(M)  | 0.62 | [:link:python](/question_bank/permutations-ii/permutations-ii.py) |
@@ -102,6 +102,7 @@
  | [89](https://leetcode-cn.com/problems/gray-code/) | [格雷编码](/question_bank/gray-code) | 中(M)  | 0.69 | [:link:python](/question_bank/gray-code/gray-code.py) |
  | [90](https://leetcode-cn.com/problems/subsets-ii/) | [子集 II](/question_bank/subsets-ii) | 中(M)  | 0.61 | [:link:python](/question_bank/subsets-ii/subsets-ii.py) |
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [解码方法](/question_bank/decode-ways) | 中(M)  | 0.25 | [:link:python](/question_bank/decode-ways/decode-ways.py) |
+ | [92](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [反转链表 II](/question_bank/reverse-linked-list-ii) | 中(M)  | 0.52 | [:link:python](/question_bank/reverse-linked-list-ii/reverse-linked-list-ii.py) |
  | [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原IP地址](/question_bank/restore-ip-addresses) | 中(M)  | 0.50 | [:link:python](/question_bank/restore-ip-addresses/restore-ip-addresses.py) |
  | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [二叉树的中序遍历](/question_bank/binary-tree-inorder-traversal) | 中(M)  | 0.74 | [:link:python](/question_bank/binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
  | [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [二叉树的最大深度](/question_bank/maximum-depth-of-binary-tree) | 易(E)  | 0.75 | [:link:python](/question_bank/maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py) |
@@ -120,12 +121,13 @@
  | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](/question_bank/word-break) | 中(M)  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](/question_bank/linked-list-cycle) | 易(E)  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](/question_bank/linked-list-cycle-ii) | 中(M)  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
+ | [143](https://leetcode-cn.com/problems/reorder-list/) | [重排链表](/question_bank/reorder-list) | 中(M)  | 0.57 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
  | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [二叉树的后序遍历](/question_bank/binary-tree-postorder-traversal) | 中(M)  | 0.73 | [:link:python](/question_bank/binary-tree-postorder-traversal/binary-tree-postorder-traversal.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](/question_bank/maximum-product-subarray) | 中(M)  | 0.40 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](/question_bank/house-robber) | 易(E)  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [打家劫舍 II](/question_bank/house-robber-ii) | 中(M)  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
  | [215](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [数组中的第K个最大元素](/question_bank/kth-largest-element-in-an-array) | 中(M)  | 0.64 | [:link:python](/question_bank/kth-largest-element-in-an-array/kth-largest-element-in-an-array.py) |
- | [216](https://leetcode-cn.com/problems/combination-sum-iii/) | [组合总和 III](/question_bank/combination-sum-iii) | 中(M)  | 0.73 | [:link:python](/question_bank/combination-sum-iii/combination-sum-iii.py) |
+ | [216](https://leetcode-cn.com/problems/combination-sum-iii/) | [组合总和 III](/question_bank/combination-sum-iii) | 中(M)  | 0.74 | [:link:python](/question_bank/combination-sum-iii/combination-sum-iii.py) |
  | [221](https://leetcode-cn.com/problems/maximal-square/) | [最大正方形](/question_bank/maximal-square) | 中(M)  | 0.43 | [:link:python](/question_bank/maximal-square/maximal-square.py) |
  | [226](https://leetcode-cn.com/problems/invert-binary-tree/) | [翻转二叉树](/question_bank/invert-binary-tree) | 易(E)  | 0.77 | [:link:python](/question_bank/invert-binary-tree/invert-binary-tree.py) |
  | [234](https://leetcode-cn.com/problems/palindrome-linked-list/) | [回文链表](/question_bank/palindrome-linked-list) | 易(E)  | 0.44 | [:link:python](/question_bank/palindrome-linked-list/palindrome-linked-list.py) |
@@ -148,7 +150,7 @@
  | [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](/question_bank/top-k-frequent-elements) | 中(M)  | 0.62 | [:link:python](/question_bank/top-k-frequent-elements/top-k-frequent-elements.py) |
  | [357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [计算各个位数不同的数字个数](/question_bank/count-numbers-with-unique-digits) | 中(M)  | 0.51 | [:link:python](/question_bank/count-numbers-with-unique-digits/count-numbers-with-unique-digits.py) |
  | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [最大整除子集](/question_bank/largest-divisible-subset) | 中(M)  | 0.39 | [:link:python](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
- | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.41 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
+ | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.42 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](/question_bank/wiggle-subsequence) | 中(M)  | 0.43 | [:link:python](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](/question_bank/combination-sum-iv) | 中(M)  | 0.43 | [:link:python](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [判断子序列](/question_bank/is-subsequence) | 易(E)  | 0.51 | [:link:python](/question_bank/is-subsequence/is-subsequence.py) |
@@ -160,9 +162,9 @@
  | [501](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/) | [二叉搜索树中的众数](/question_bank/find-mode-in-binary-search-tree) | 易(E)  | 0.50 | [:link:python](/question_bank/find-mode-in-binary-search-tree/find-mode-in-binary-search-tree.py) |
  | [504](https://leetcode-cn.com/problems/base-7/) | [七进制数](/question_bank/base-7) | 易(E)  | 0.50 | [:link:python](/question_bank/base-7/base-7.py) |
  | [526](https://leetcode-cn.com/problems/beautiful-arrangement/) | [优美的排列](/question_bank/beautiful-arrangement) | 中(M)  | 0.63 | [:link:python](/question_bank/beautiful-arrangement/beautiful-arrangement.py) |
- | [529](https://leetcode-cn.com/problems/minesweeper/) | [扫雷游戏](/question_bank/minesweeper) | 中(M)  | 0.65 | [:link:python](/question_bank/minesweeper/minesweeper.py) |
+ | [529](https://leetcode-cn.com/problems/minesweeper/) | [扫雷游戏](/question_bank/minesweeper) | 中(M)  | 0.66 | [:link:python](/question_bank/minesweeper/minesweeper.py) |
  | [530](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/) | [二叉搜索树的最小绝对差](/question_bank/minimum-absolute-difference-in-bst) | 易(E)  | 0.61 | [:link:python](/question_bank/minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py) |
- | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [把二叉搜索树转换为累加树](/question_bank/convert-bst-to-greater-tree) | 中(M)  | 0.63 | [:link:python](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
+ | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [把二叉搜索树转换为累加树](/question_bank/convert-bst-to-greater-tree) | 中(M)  | 0.64 | [:link:python](/question_bank/convert-bst-to-greater-tree/convert-bst-to-greater-tree.py) |
  | [557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [反转字符串中的单词 III](/question_bank/reverse-words-in-a-string-iii) | 易(E)  | 0.73 | [:link:python](/question_bank/reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [根据二叉树创建字符串](/question_bank/construct-string-from-binary-tree) | 易(E)  | 0.55 | [:link:python](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
  | [617](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [合并二叉树](/question_bank/merge-two-binary-trees) | 易(E)  | 0.78 | [:link:python](/question_bank/merge-two-binary-trees/merge-two-binary-trees.py) |
@@ -186,6 +188,7 @@
  | [993](https://leetcode-cn.com/problems/cousins-in-binary-tree/) | [二叉树的堂兄弟节点](/question_bank/cousins-in-binary-tree) | 易(E)  | 0.52 | [:link:python](/question_bank/cousins-in-binary-tree/cousins-in-binary-tree.py) |
  | [994](https://leetcode-cn.com/problems/rotting-oranges/) | [腐烂的橘子](/question_bank/rotting-oranges) | 中(M)  | 0.51 | [:link:python](/question_bank/rotting-oranges/rotting-oranges.py) |
  | [996](https://leetcode-cn.com/problems/number-of-squareful-arrays/) | [正方形数组的数目](/question_bank/number-of-squareful-arrays) | 难(H)  | 0.47 | [:link:python](/question_bank/number-of-squareful-arrays/number-of-squareful-arrays.py) |
+ | [1002](https://leetcode-cn.com/problems/find-common-characters/) | [查找常用字符](/question_bank/find-common-characters) | 易(E)  | 0.74 | [:link:python](/question_bank/find-common-characters/find-common-characters.py) |
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [除数博弈](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [距离顺序排列矩阵单元格](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.65 | [:link:python](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [活字印刷](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
@@ -194,14 +197,14 @@
  | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [串联字符串的最大长度](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
- | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.50 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
+ | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [长度为 n 的开心字符串中字典序第 k 小的字符串](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
  | [1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [用栈操作构建数组](/question_bank/build-an-array-with-stack-operations) | 易(E)  | 0.65 | [:link:python](/question_bank/build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [重复至少 K 次且长度为 M 的模式](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:python](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
  | [1588](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [所有奇数长度子数组的和](/question_bank/sum-of-all-odd-length-subarrays) | 易(E)  | 0.82 | [:link:python](/question_bank/sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
  | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [拆分字符串使唯一子字符串的数目最大](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.46 | [:link:python](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [整数转换](/question_bank/convert-integer-lcci) | 易(E)  | 0.51 | [:link:python](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
- | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [链表求和](/question_bank/sum-lists-lcci) | 中(M)  | 0.45 | [:link:python](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
+ | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [链表求和](/question_bank/sum-lists-lcci) | 中(M)  | 0.46 | [:link:python](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [三步问题](/question_bank/three-steps-problem-lcci) | 易(E)  | 0.35 | [:link:python](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
  | [面试题 08.04](https://leetcode-cn.com/problems/power-set-lcci/) | [幂集](/question_bank/power-set-lcci) | 中(M)  | 0.81 | [:link:python](/question_bank/power-set-lcci/power-set-lcci.py) |
  | [面试题 08.09](https://leetcode-cn.com/problems/bracket-lcci/) | [括号](/question_bank/bracket-lcci) | 中(M)  | 0.81 | [:link:python](/question_bank/bracket-lcci/bracket-lcci.py) |
