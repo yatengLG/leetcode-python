@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 177/1828 
+已通过 179/1828 
 
-简单: 68    中等: 95    困难: 14
+简单: 68    中等: 97    困难: 14
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -113,11 +113,13 @@
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [二叉树的最小深度](/question_bank/minimum-depth-of-binary-tree) | 易(E)  | 0.44 | [:link:python](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
  | [112](https://leetcode-cn.com/problems/path-sum/) | [路径总和](/question_bank/path-sum) | 易(E)  | 0.51 | [:link:python](/question_bank/path-sum/path-sum.py) |
  | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [路径总和 II](/question_bank/path-sum-ii) | 中(M)  | 0.61 | [:link:python](/question_bank/path-sum-ii/path-sum-ii.py) |
+ | [116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [填充每个节点的下一个右侧节点指针](/question_bank/populating-next-right-pointers-in-each-node) | 中(M)  | 0.66 | [:link:python](/question_bank/populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.py) |
  | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [填充每个节点的下一个右侧节点指针 II](/question_bank/populating-next-right-pointers-in-each-node-ii) | 中(M)  | 0.59 | [:link:python](/question_bank/populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [三角形最小路径和](/question_bank/triangle) | 中(M)  | 0.67 | [:link:python](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [买卖股票的最佳时机](/question_bank/best-time-to-buy-and-sell-stock) | 易(E)  | 0.55 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [买卖股票的最佳时机 II](/question_bank/best-time-to-buy-and-sell-stock-ii) | 易(E)  | 0.64 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
  | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](/question_bank/palindrome-partitioning) | 中(M)  | 0.69 | [:link:python](/question_bank/palindrome-partitioning/palindrome-partitioning.py) |
+ | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](/question_bank/copy-list-with-random-pointer) | 中(M)  | 0.57 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
  | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](/question_bank/word-break) | 中(M)  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](/question_bank/linked-list-cycle) | 易(E)  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](/question_bank/linked-list-cycle-ii) | 中(M)  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
@@ -195,7 +197,7 @@
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [活字印刷](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [顺次数](/question_bank/sequential-digits) | 中(M)  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [公交站间的距离](/question_bank/distance-between-bus-stops) | 易(E)  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [串联字符串的最大长度](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |

@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 177/1828 
+finished 179/1828 
 
-Easy: 68    Medium: 95    Hard: 14
+Easy: 68    Medium: 97    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -101,11 +101,13 @@ The project is a record of the author's leetcode.
  | [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Minimum Depth of Binary Tree](/question_bank/minimum-depth-of-binary-tree) | Easy  | 0.44 | [:link:python](/question_bank/minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py) |
  | [112](https://leetcode-cn.com/problems/path-sum/) | [Path Sum](/question_bank/path-sum) | Easy  | 0.51 | [:link:python](/question_bank/path-sum/path-sum.py) |
  | [113](https://leetcode-cn.com/problems/path-sum-ii/) | [Path Sum II](/question_bank/path-sum-ii) | Medium  | 0.61 | [:link:python](/question_bank/path-sum-ii/path-sum-ii.py) |
+ | [116](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/) | [Populating Next Right Pointers in Each Node](/question_bank/populating-next-right-pointers-in-each-node) | Medium  | 0.66 | [:link:python](/question_bank/populating-next-right-pointers-in-each-node/populating-next-right-pointers-in-each-node.py) |
  | [117](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Populating Next Right Pointers in Each Node II](/question_bank/populating-next-right-pointers-in-each-node-ii) | Medium  | 0.59 | [:link:python](/question_bank/populating-next-right-pointers-in-each-node-ii/populating-next-right-pointers-in-each-node-ii.py) |
  | [120](https://leetcode-cn.com/problems/triangle/) | [Triangle](/question_bank/triangle) | Medium  | 0.67 | [:link:python](/question_bank/triangle/triangle.py) |
  | [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [Best Time to Buy and Sell Stock](/question_bank/best-time-to-buy-and-sell-stock) | Easy  | 0.55 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.py) |
  | [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best Time to Buy and Sell Stock II](/question_bank/best-time-to-buy-and-sell-stock-ii) | Easy  | 0.64 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.py) |
  | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](/question_bank/palindrome-partitioning) | Medium  | 0.69 | [:link:python](/question_bank/palindrome-partitioning/palindrome-partitioning.py) |
+ | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](/question_bank/copy-list-with-random-pointer) | Medium  | 0.57 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
  | [139](https://leetcode-cn.com/problems/word-break/) | [Word Break](/question_bank/word-break) | Medium  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](/question_bank/linked-list-cycle) | Easy  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](/question_bank/linked-list-cycle-ii) | Medium  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
@@ -183,7 +185,7 @@ The project is a record of the author's leetcode.
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | Medium  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | Easy  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
