@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 197/1838 
+finished 199/1840 
 
-Easy: 71    Medium: 112    Hard: 14
+Easy: 71    Medium: 114    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -154,7 +154,9 @@ The project is a record of the author's leetcode.
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | Medium  | 0.43 | [:link:python](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [Combination Sum IV](/question_bank/combination-sum-iv) | Medium  | 0.43 | [:link:python](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [Is Subsequence](/question_bank/is-subsequence) | Easy  | 0.51 | [:link:python](/question_bank/is-subsequence/is-subsequence.py) |
+ | [394](https://leetcode-cn.com/problems/decode-string/) | [Decode String](/question_bank/decode-string) | Medium  | 0.53 | [:link:python](/question_bank/decode-string/decode-string.py) |
  | [401](https://leetcode-cn.com/problems/binary-watch/) | [Binary Watch](/question_bank/binary-watch) | Easy  | 0.53 | [:link:python](/question_bank/binary-watch/binary-watch.py) |
+ | [402](https://leetcode-cn.com/problems/remove-k-digits/) | [Remove K Digits](/question_bank/remove-k-digits) | Medium  | 0.30 | [:link:python](/question_bank/remove-k-digits/remove-k-digits.py) |
  | [404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Sum of Left Leaves](/question_bank/sum-of-left-leaves) | Easy  | 0.56 | [:link:python](/question_bank/sum-of-left-leaves/sum-of-left-leaves.py) |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](/question_bank/add-two-numbers-ii) | Medium  | 0.58 | [:link:python](/question_bank/add-two-numbers-ii/add-two-numbers-ii.py) |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](/question_bank/repeated-substring-pattern) | Easy  | 0.51 | [:link:python](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
@@ -202,7 +204,7 @@ The project is a record of the author's leetcode.
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list) | Medium  | 0.44 | [:link:python](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | Easy  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |

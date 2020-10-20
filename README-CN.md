@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 197/1838 
+已通过 199/1840 
 
-简单: 71    中等: 112    困难: 14
+简单: 71    中等: 114    困难: 14
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -39,8 +39,6 @@
    **题名**一栏指向项目中题目页面。
 
    **代码**一栏指向项目中题目对应代码页面。
-
-   代码注释中标注的执行时间及内存消耗，仅记录leetcode返回的值，不代表实际运行消耗。
 
  | 题号 | 题名 | 难度 | 通过率 | 代码 | 
  | ---- | ---- | ---- | ---- | ---- |
@@ -166,7 +164,9 @@
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](/question_bank/wiggle-subsequence) | 中(M)  | 0.43 | [:link:python](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](/question_bank/combination-sum-iv) | 中(M)  | 0.43 | [:link:python](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [392](https://leetcode-cn.com/problems/is-subsequence/) | [判断子序列](/question_bank/is-subsequence) | 易(E)  | 0.51 | [:link:python](/question_bank/is-subsequence/is-subsequence.py) |
+ | [394](https://leetcode-cn.com/problems/decode-string/) | [字符串解码](/question_bank/decode-string) | 中(M)  | 0.53 | [:link:python](/question_bank/decode-string/decode-string.py) |
  | [401](https://leetcode-cn.com/problems/binary-watch/) | [二进制手表](/question_bank/binary-watch) | 易(E)  | 0.53 | [:link:python](/question_bank/binary-watch/binary-watch.py) |
+ | [402](https://leetcode-cn.com/problems/remove-k-digits/) | [移掉K位数字](/question_bank/remove-k-digits) | 中(M)  | 0.30 | [:link:python](/question_bank/remove-k-digits/remove-k-digits.py) |
  | [404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [左叶子之和](/question_bank/sum-of-left-leaves) | 易(E)  | 0.56 | [:link:python](/question_bank/sum-of-left-leaves/sum-of-left-leaves.py) |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [两数相加 II](/question_bank/add-two-numbers-ii) | 中(M)  | 0.58 | [:link:python](/question_bank/add-two-numbers-ii/add-two-numbers-ii.py) |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [重复的子字符串](/question_bank/repeated-substring-pattern) | 易(E)  | 0.51 | [:link:python](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
@@ -214,7 +214,7 @@
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [顺次数](/question_bank/sequential-digits) | 中(M)  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list) | 中(M)  | 0.44 | [:link:python](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [公交站间的距离](/question_bank/distance-between-bus-stops) | 易(E)  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [串联字符串的最大长度](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
