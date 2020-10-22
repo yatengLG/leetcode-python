@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 199/1840 
+finished 201/1839 
 
-Easy: 71    Medium: 114    Hard: 14
+Easy: 72    Medium: 115    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -75,7 +75,7 @@ The project is a record of the author's leetcode.
  | [58](https://leetcode-cn.com/problems/length-of-last-word/) | [Length of Last Word](/question_bank/length-of-last-word) | Easy  | 0.34 | [:link:python](/question_bank/length-of-last-word/length-of-last-word.py) |
  | [60](https://leetcode-cn.com/problems/permutation-sequence/) | [Permutation Sequence](/question_bank/permutation-sequence) | Hard  | 0.52 | [:link:python](/question_bank/permutation-sequence/permutation-sequence.py) |
  | [61](https://leetcode-cn.com/problems/rotate-list/) | [Rotate List](/question_bank/rotate-list) | Medium  | 0.40 | [:link:python](/question_bank/rotate-list/rotate-list.py) |
- | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](/question_bank/unique-paths) | Medium  | 0.62 | [:link:python](/question_bank/unique-paths/unique-paths.py) |
+ | [62](https://leetcode-cn.com/problems/unique-paths/) | [Unique Paths](/question_bank/unique-paths) | Medium  | 0.63 | [:link:python](/question_bank/unique-paths/unique-paths.py) |
  | [63](https://leetcode-cn.com/problems/unique-paths-ii/) | [Unique Paths II](/question_bank/unique-paths-ii) | Medium  | 0.37 | [:link:python](/question_bank/unique-paths-ii/unique-paths-ii.py) |
  | [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [Minimum Path Sum](/question_bank/minimum-path-sum) | Medium  | 0.68 | [:link:python](/question_bank/minimum-path-sum/minimum-path-sum.py) |
  | [66](https://leetcode-cn.com/problems/plus-one/) | [Plus One](/question_bank/plus-one) | Easy  | 0.46 | [:link:python](/question_bank/plus-one/plus-one.py) |
@@ -86,7 +86,7 @@ The project is a record of the author's leetcode.
  | [77](https://leetcode-cn.com/problems/combinations/) | [Combinations](/question_bank/combinations) | Medium  | 0.76 | [:link:python](/question_bank/combinations/combinations.py) |
  | [78](https://leetcode-cn.com/problems/subsets/) | [Subsets](/question_bank/subsets) | Medium  | 0.79 | [:link:python](/question_bank/subsets/subsets.py) |
  | [79](https://leetcode-cn.com/problems/word-search/) | [Word Search](/question_bank/word-search) | Medium  | 0.44 | [:link:python](/question_bank/word-search/word-search.py) |
- | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](/question_bank/remove-duplicates-from-sorted-list-ii) | Medium  | 0.49 | [:link:python](/question_bank/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py) |
+ | [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [Remove Duplicates from Sorted List II](/question_bank/remove-duplicates-from-sorted-list-ii) | Medium  | 0.50 | [:link:python](/question_bank/remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py) |
  | [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | [Remove Duplicates from Sorted List](/question_bank/remove-duplicates-from-sorted-list) | Easy  | 0.52 | [:link:python](/question_bank/remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py) |
  | [86](https://leetcode-cn.com/problems/partition-list/) | [Partition List](/question_bank/partition-list) | Medium  | 0.60 | [:link:python](/question_bank/partition-list/partition-list.py) |
  | [89](https://leetcode-cn.com/problems/gray-code/) | [Gray Code](/question_bank/gray-code) | Medium  | 0.69 | [:link:python](/question_bank/gray-code/gray-code.py) |
@@ -115,7 +115,7 @@ The project is a record of the author's leetcode.
  | [139](https://leetcode-cn.com/problems/word-break/) | [Word Break](/question_bank/word-break) | Medium  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](/question_bank/linked-list-cycle) | Easy  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](/question_bank/linked-list-cycle-ii) | Medium  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
- | [143](https://leetcode-cn.com/problems/reorder-list/) | [Reorder List](/question_bank/reorder-list) | Medium  | 0.59 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
+ | [143](https://leetcode-cn.com/problems/reorder-list/) | [Reorder List](/question_bank/reorder-list) | Medium  | 0.60 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
  | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Binary Tree Preorder Traversal](/question_bank/binary-tree-preorder-traversal) | Medium  | 0.67 | [:link:python](/question_bank/binary-tree-preorder-traversal/binary-tree-preorder-traversal.py) |
  | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](/question_bank/binary-tree-postorder-traversal) | Medium  | 0.73 | [:link:python](/question_bank/binary-tree-postorder-traversal/binary-tree-postorder-traversal.py) |
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](/question_bank/insertion-sort-list) | Medium  | 0.65 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
@@ -135,7 +135,7 @@ The project is a record of the author's leetcode.
  | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [Ugly Number II](/question_bank/ugly-number-ii) | Medium  | 0.54 | [:link:python](/question_bank/ugly-number-ii/ugly-number-ii.py) |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [Perfect Squares](/question_bank/perfect-squares) | Medium  | 0.58 | [:link:python](/question_bank/perfect-squares/perfect-squares.py) |
  | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](/question_bank/longest-increasing-subsequence) | Medium  | 0.45 | [:link:python](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
- | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](/question_bank/range-sum-query-immutable) | Easy  | 0.63 | [:link:python](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
+ | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](/question_bank/range-sum-query-immutable) | Easy  | 0.64 | [:link:python](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
  | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [Range Sum Query 2D - Immutable](/question_bank/range-sum-query-2d-immutable) | Medium  | 0.46 | [:link:python](/question_bank/range-sum-query-2d-immutable/range-sum-query-2d-immutable.py) |
  | [306](https://leetcode-cn.com/problems/additive-number/) | [Additive Number](/question_bank/additive-number) | Medium  | 0.33 | [:link:python](/question_bank/additive-number/additive-number.py) |
  | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Best Time to Buy and Sell Stock with Cooldown](/question_bank/best-time-to-buy-and-sell-stock-with-cooldown) | Medium  | 0.57 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.py) |
@@ -172,7 +172,7 @@ The project is a record of the author's leetcode.
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](/question_bank/construct-string-from-binary-tree) | Easy  | 0.55 | [:link:python](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
  | [617](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](/question_bank/merge-two-binary-trees) | Easy  | 0.78 | [:link:python](/question_bank/merge-two-binary-trees/merge-two-binary-trees.py) |
  | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](/question_bank/average-of-levels-in-binary-tree) | Easy  | 0.69 | [:link:python](/question_bank/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.py) |
- | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [Palindromic Substrings](/question_bank/palindromic-substrings) | Medium  | 0.64 | [:link:python](/question_bank/palindromic-substrings/palindromic-substrings.py) |
+ | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [Palindromic Substrings](/question_bank/palindromic-substrings) | Medium  | 0.65 | [:link:python](/question_bank/palindromic-substrings/palindromic-substrings.py) |
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | Easy  | 0.78 | [:link:python](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
  | [682](https://leetcode-cn.com/problems/baseball-game/) | [Baseball Game](/question_bank/baseball-game) | Easy  | 0.68 | [:link:python](/question_bank/baseball-game/baseball-game.py) |
  | [685](https://leetcode-cn.com/problems/redundant-connection-ii/) | [Redundant Connection II](/question_bank/redundant-connection-ii) | Hard  | 0.45 | [:link:python](/question_bank/redundant-connection-ii/redundant-connection-ii.py) |
@@ -180,6 +180,7 @@ The project is a record of the author's leetcode.
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | Easy  | 0.58 | [:link:python](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | Easy  | 0.50 | [:link:python](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](/question_bank/flatten-a-multilevel-doubly-linked-list) | Medium  | 0.51 | [:link:python](/question_bank/flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.py) |
+ | [763](https://leetcode-cn.com/problems/partition-labels/) | [Partition Labels](/question_bank/partition-labels) | Medium  | 0.76 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
  | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](/question_bank/n-ary-tree-preorder-traversal) | Easy  | 0.74 | [:link:python](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
  | [771](https://leetcode-cn.com/problems/jewels-and-stones/) | [Jewels and Stones](/question_bank/jewels-and-stones) | Easy  | 0.85 | [:link:python](/question_bank/jewels-and-stones/jewels-and-stones.py) |
  | [701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Insert into a Binary Search Tree](/question_bank/insert-into-a-binary-search-tree) | Medium  | 0.72 | [:link:python](/question_bank/insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
@@ -191,6 +192,7 @@ The project is a record of the author's leetcode.
  | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [Backspace String Compare](/question_bank/backspace-string-compare) | Easy  | 0.52 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py) |
  | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](/question_bank/middle-of-the-linked-list) | Easy  | 0.70 | [:link:python](/question_bank/middle-of-the-linked-list/middle-of-the-linked-list.py) |
  | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](/question_bank/increasing-order-search-tree) | Easy  | 0.73 | [:link:python](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
+ | [925](https://leetcode-cn.com/problems/long-pressed-name/) | [Long Pressed Name](/question_bank/long-pressed-name) | Easy  | 0.39 | [:link:python](/question_bank/long-pressed-name/long-pressed-name.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [DI String Match](/question_bank/di-string-match) | Easy  | 0.72 | [:link:python](/question_bank/di-string-match/di-string-match.py) |
  | [968](https://leetcode-cn.com/problems/binary-tree-cameras/) | [Binary Tree Cameras](/question_bank/binary-tree-cameras) | Hard  | 0.49 | [:link:python](/question_bank/binary-tree-cameras/binary-tree-cameras.py) |
  | [977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [Squares of a Sorted Array](/question_bank/squares-of-a-sorted-array) | Easy  | 0.74 | [:link:python](/question_bank/squares-of-a-sorted-array/squares-of-a-sorted-array.py) |
@@ -201,7 +203,7 @@ The project is a record of the author's leetcode.
  | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | Easy  | 0.72 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | Easy  | 0.65 | [:link:python](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | Medium  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
- | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.50 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
+ | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.51 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list) | Medium  | 0.44 | [:link:python](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | Easy  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
  | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
@@ -215,7 +217,7 @@ The project is a record of the author's leetcode.
  | [1588](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [Sum of All Odd Length Subarrays](/question_bank/sum-of-all-odd-length-subarrays) | Easy  | 0.82 | [:link:python](/question_bank/sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
  | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [Split a String Into the Max Number of Unique Substrings](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | Medium  | 0.46 | [:link:python](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [Convert Integer LCCI](/question_bank/convert-integer-lcci) | Easy  | 0.51 | [:link:python](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
- | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [Sum Lists LCCI](/question_bank/sum-lists-lcci) | Medium  | 0.45 | [:link:python](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
+ | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [Sum Lists LCCI](/question_bank/sum-lists-lcci) | Medium  | 0.46 | [:link:python](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [Three Steps Problem LCCI](/question_bank/three-steps-problem-lcci) | Easy  | 0.35 | [:link:python](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
  | [面试题 08.04](https://leetcode-cn.com/problems/power-set-lcci/) | [Power Set LCCI](/question_bank/power-set-lcci) | Medium  | 0.81 | [:link:python](/question_bank/power-set-lcci/power-set-lcci.py) |
  | [面试题 08.09](https://leetcode-cn.com/problems/bracket-lcci/) | [Bracket LCCI](/question_bank/bracket-lcci) | Medium  | 0.81 | [:link:python](/question_bank/bracket-lcci/bracket-lcci.py) |
@@ -223,7 +225,7 @@ The project is a record of the author's leetcode.
  | [面试题 08.07](https://leetcode-cn.com/problems/permutation-i-lcci/) | [Permutation I LCCI](/question_bank/permutation-i-lcci) | Medium  | 0.81 | [:link:python](/question_bank/permutation-i-lcci/permutation-i-lcci.py) |
  | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串 LCOF](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | Medium  | 0.23 | [:link:python](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py) |
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | Easy  | 0.60 | [:link:python](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
- | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | Medium  | 0.54 | [:link:python](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
+ | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | Medium  | 0.55 | [:link:python](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
  | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | Easy  | 0.69 | [:link:python](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
  | [面试题 08.08](https://leetcode-cn.com/problems/permutation-ii-lcci/) | [Permutation II LCCI](/question_bank/permutation-ii-lcci) | Medium  | 0.71 | [:link:python](/question_bank/permutation-ii-lcci/permutation-ii-lcci.py) |
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | Easy  | 0.59 | [:link:python](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
