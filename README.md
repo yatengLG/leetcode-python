@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 203/1844 
+finished 204/1844 
 
-Easy: 73    Medium: 116    Hard: 14
+Easy: 74    Medium: 116    Hard: 14
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -48,7 +48,7 @@ The project is a record of the author's leetcode.
  | [14](https://leetcode-cn.com/problems/longest-common-prefix/) | [Longest Common Prefix](/question_bank/longest-common-prefix) | Easy  | 0.39 | [:link:python](/question_bank/longest-common-prefix/longest-common-prefix.py) |
  | [15](https://leetcode-cn.com/problems/3sum/) | [3Sum](/question_bank/3sum) | Medium  | 0.30 | [:link:python](/question_bank/3sum/3sum.py) |
  | [16](https://leetcode-cn.com/problems/3sum-closest/) | [3Sum Closest](/question_bank/3sum-closest) | Medium  | 0.46 | [:link:python](/question_bank/3sum-closest/3sum-closest.py) |
- | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](/question_bank/letter-combinations-of-a-phone-number) | Medium  | 0.56 | [:link:python](/question_bank/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
+ | [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [Letter Combinations of a Phone Number](/question_bank/letter-combinations-of-a-phone-number) | Medium  | 0.55 | [:link:python](/question_bank/letter-combinations-of-a-phone-number/letter-combinations-of-a-phone-number.py) |
  | [18](https://leetcode-cn.com/problems/4sum/) | [4Sum](/question_bank/4sum) | Medium  | 0.39 | [:link:python](/question_bank/4sum/4sum.py) |
  | [19](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [Remove Nth Node From End of List](/question_bank/remove-nth-node-from-end-of-list) | Medium  | 0.40 | [:link:python](/question_bank/remove-nth-node-from-end-of-list/remove-nth-node-from-end-of-list.py) |
  | [20](https://leetcode-cn.com/problems/valid-parentheses/) | [Valid Parentheses](/question_bank/valid-parentheses) | Easy  | 0.43 | [:link:python](/question_bank/valid-parentheses/valid-parentheses.py) |
@@ -116,7 +116,7 @@ The project is a record of the author's leetcode.
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](/question_bank/linked-list-cycle) | Easy  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](/question_bank/linked-list-cycle-ii) | Medium  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
  | [143](https://leetcode-cn.com/problems/reorder-list/) | [Reorder List](/question_bank/reorder-list) | Medium  | 0.60 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
- | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Binary Tree Preorder Traversal](/question_bank/binary-tree-preorder-traversal) | Medium  | 0.67 | [:link:python](/question_bank/binary-tree-preorder-traversal/binary-tree-preorder-traversal.py) |
+ | [144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | [Binary Tree Preorder Traversal](/question_bank/binary-tree-preorder-traversal) | Medium  | 0.68 | [:link:python](/question_bank/binary-tree-preorder-traversal/binary-tree-preorder-traversal.py) |
  | [145](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [Binary Tree Postorder Traversal](/question_bank/binary-tree-postorder-traversal) | Medium  | 0.73 | [:link:python](/question_bank/binary-tree-postorder-traversal/binary-tree-postorder-traversal.py) |
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](/question_bank/insertion-sort-list) | Medium  | 0.65 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](/question_bank/evaluate-reverse-polish-notation) | Medium  | 0.51 | [:link:python](/question_bank/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
@@ -141,7 +141,7 @@ The project is a record of the author's leetcode.
  | [309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Best Time to Buy and Sell Stock with Cooldown](/question_bank/best-time-to-buy-and-sell-stock-with-cooldown) | Medium  | 0.57 | [:link:python](/question_bank/best-time-to-buy-and-sell-stock-with-cooldown/best-time-to-buy-and-sell-stock-with-cooldown.py) |
  | [316](https://leetcode-cn.com/problems/remove-duplicate-letters/) | [Remove Duplicate Letters](/question_bank/remove-duplicate-letters) | Medium  | 0.42 | [:link:python](/question_bank/remove-duplicate-letters/remove-duplicate-letters.py) |
  | [322](https://leetcode-cn.com/problems/coin-change/) | [Coin Change](/question_bank/coin-change) | Medium  | 0.42 | [:link:python](/question_bank/coin-change/coin-change.py) |
- | [328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Odd Even Linked List](/question_bank/odd-even-linked-list) | Medium  | 0.64 | [:link:python](/question_bank/odd-even-linked-list/odd-even-linked-list.py) |
+ | [328](https://leetcode-cn.com/problems/odd-even-linked-list/) | [Odd Even Linked List](/question_bank/odd-even-linked-list) | Medium  | 0.63 | [:link:python](/question_bank/odd-even-linked-list/odd-even-linked-list.py) |
  | [331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/) | [Verify Preorder Serialization of a Binary Tree](/question_bank/verify-preorder-serialization-of-a-binary-tree) | Medium  | 0.46 | [:link:python](/question_bank/verify-preorder-serialization-of-a-binary-tree/verify-preorder-serialization-of-a-binary-tree.py) |
  | [332](https://leetcode-cn.com/problems/reconstruct-itinerary/) | [Reconstruct Itinerary](/question_bank/reconstruct-itinerary) | Medium  | 0.44 | [:link:python](/question_bank/reconstruct-itinerary/reconstruct-itinerary.py) |
  | [338](https://leetcode-cn.com/problems/counting-bits/) | [Counting Bits](/question_bank/counting-bits) | Medium  | 0.76 | [:link:python](/question_bank/counting-bits/counting-bits.py) |
@@ -180,7 +180,7 @@ The project is a record of the author's leetcode.
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | Easy  | 0.58 | [:link:python](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | Easy  | 0.50 | [:link:python](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](/question_bank/flatten-a-multilevel-doubly-linked-list) | Medium  | 0.52 | [:link:python](/question_bank/flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.py) |
- | [763](https://leetcode-cn.com/problems/partition-labels/) | [Partition Labels](/question_bank/partition-labels) | Medium  | 0.77 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
+ | [763](https://leetcode-cn.com/problems/partition-labels/) | [Partition Labels](/question_bank/partition-labels) | Medium  | 0.76 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
  | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](/question_bank/n-ary-tree-preorder-traversal) | Easy  | 0.74 | [:link:python](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
  | [771](https://leetcode-cn.com/problems/jewels-and-stones/) | [Jewels and Stones](/question_bank/jewels-and-stones) | Easy  | 0.85 | [:link:python](/question_bank/jewels-and-stones/jewels-and-stones.py) |
  | [701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Insert into a Binary Search Tree](/question_bank/insert-into-a-binary-search-tree) | Medium  | 0.72 | [:link:python](/question_bank/insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
@@ -207,7 +207,8 @@ The project is a record of the author's leetcode.
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [Sequential Digits](/question_bank/sequential-digits) | Medium  | 0.51 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
  | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [Remove Zero Sum Consecutive Nodes from Linked List](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list) | Medium  | 0.45 | [:link:python](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [Distance Between Bus Stops](/question_bank/distance-between-bus-stops) | Easy  | 0.57 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
- | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.60 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [Day of the Week](/question_bank/day-of-the-week) | Easy  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
+ | [1207](https://leetcode-cn.com/problems/unique-number-of-occurrences/) | [Unique Number of Occurrences](/question_bank/unique-number-of-occurrences) | Easy  | 0.71 | [:link:python](/question_bank/unique-number-of-occurrences/unique-number-of-occurrences.py) |
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
