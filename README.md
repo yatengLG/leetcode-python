@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 215/1854 
+finished 216/1854 
 
-Easy: 77    Medium: 123    Hard: 15
+Easy: 77    Medium: 124    Hard: 15
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -200,6 +200,7 @@ The project is a record of the author's leetcode.
  | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](/question_bank/score-after-flipping-matrix) | Medium  | 0.74 | [:link:python](/question_bank/score-after-flipping-matrix/score-after-flipping-matrix.py) |
  | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](/question_bank/middle-of-the-linked-list) | Easy  | 0.70 | [:link:python](/question_bank/middle-of-the-linked-list/middle-of-the-linked-list.py) |
  | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](/question_bank/increasing-order-search-tree) | Easy  | 0.73 | [:link:python](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
+ | [921](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](/question_bank/minimum-add-to-make-parentheses-valid) | Medium  | 0.72 | [:link:python](/question_bank/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
  | [925](https://leetcode-cn.com/problems/long-pressed-name/) | [Long Pressed Name](/question_bank/long-pressed-name) | Easy  | 0.39 | [:link:python](/question_bank/long-pressed-name/long-pressed-name.py) |
  | [941](https://leetcode-cn.com/problems/valid-mountain-array/) | [Valid Mountain Array](/question_bank/valid-mountain-array) | Easy  | 0.39 | [:link:python](/question_bank/valid-mountain-array/valid-mountain-array.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [DI String Match](/question_bank/di-string-match) | Easy  | 0.72 | [:link:python](/question_bank/di-string-match/di-string-match.py) |

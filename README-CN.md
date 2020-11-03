@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 215/1854 
+已通过 216/1854 
 
-简单: 77    中等: 123    困难: 15
+简单: 77    中等: 124    困难: 15
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -210,6 +210,7 @@
  | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [翻转矩阵后的得分](/question_bank/score-after-flipping-matrix) | 中(M)  | 0.74 | [:link:python](/question_bank/score-after-flipping-matrix/score-after-flipping-matrix.py) |
  | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [链表的中间结点](/question_bank/middle-of-the-linked-list) | 易(E)  | 0.70 | [:link:python](/question_bank/middle-of-the-linked-list/middle-of-the-linked-list.py) |
  | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [递增顺序查找树](/question_bank/increasing-order-search-tree) | 易(E)  | 0.73 | [:link:python](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
+ | [921](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [使括号有效的最少添加](/question_bank/minimum-add-to-make-parentheses-valid) | 中(M)  | 0.72 | [:link:python](/question_bank/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
  | [925](https://leetcode-cn.com/problems/long-pressed-name/) | [长按键入](/question_bank/long-pressed-name) | 易(E)  | 0.39 | [:link:python](/question_bank/long-pressed-name/long-pressed-name.py) |
  | [941](https://leetcode-cn.com/problems/valid-mountain-array/) | [有效的山脉数组](/question_bank/valid-mountain-array) | 易(E)  | 0.39 | [:link:python](/question_bank/valid-mountain-array/valid-mountain-array.py) |
  | [942](https://leetcode-cn.com/problems/di-string-match/) | [增减字符串匹配](/question_bank/di-string-match) | 易(E)  | 0.72 | [:link:python](/question_bank/di-string-match/di-string-match.py) |
