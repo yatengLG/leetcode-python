@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 216/1854 
+已通过 217/1854 
 
-简单: 77    中等: 124    困难: 15
+简单: 77    中等: 125    困难: 15
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -240,7 +240,8 @@
  | [1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [用栈操作构建数组](/question_bank/build-an-array-with-stack-operations) | 易(E)  | 0.65 | [:link:python](/question_bank/build-an-array-with-stack-operations/build-an-array-with-stack-operations.py) |
  | [1566](https://leetcode-cn.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/) | [重复至少 K 次且长度为 M 的模式](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times) | 易(E)  | 0.43 | [:link:python](/question_bank/detect-pattern-of-length-m-repeated-k-or-more-times/detect-pattern-of-length-m-repeated-k-or-more-times.py) |
  | [1588](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/) | [所有奇数长度子数组的和](/question_bank/sum-of-all-odd-length-subarrays) | 易(E)  | 0.82 | [:link:python](/question_bank/sum-of-all-odd-length-subarrays/sum-of-all-odd-length-subarrays.py) |
- | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [拆分字符串使唯一子字符串的数目最大](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.46 | [:link:python](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
+ | [1605](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums/) | [给定行和列的和求可行矩阵](/question_bank/find-valid-matrix-given-row-and-column-sums) | 中(M)  | 0.70 | [:link:python](/question_bank/find-valid-matrix-given-row-and-column-sums/find-valid-matrix-given-row-and-column-sums.py) |
+ | [1593](https://leetcode-cn.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | [拆分字符串使唯一子字符串的数目最大](/question_bank/split-a-string-into-the-max-number-of-unique-substrings) | 中(M)  | 0.47 | [:link:python](/question_bank/split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.py) |
  | [面试题 05.06](https://leetcode-cn.com/problems/convert-integer-lcci/) | [整数转换](/question_bank/convert-integer-lcci) | 易(E)  | 0.51 | [:link:python](/question_bank/convert-integer-lcci/convert-integer-lcci.py) |
  | [面试题 02.05](https://leetcode-cn.com/problems/sum-lists-lcci/) | [链表求和](/question_bank/sum-lists-lcci) | 中(M)  | 0.46 | [:link:python](/question_bank/sum-lists-lcci/sum-lists-lcci.py) |
  | [面试题 08.01](https://leetcode-cn.com/problems/three-steps-problem-lcci/) | [三步问题](/question_bank/three-steps-problem-lcci) | 易(E)  | 0.35 | [:link:python](/question_bank/three-steps-problem-lcci/three-steps-problem-lcci.py) |
