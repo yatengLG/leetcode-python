@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 217/1854 
+finished 218/1854 
 
-Easy: 77    Medium: 125    Hard: 15
+Easy: 77    Medium: 125    Hard: 16
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -72,6 +72,7 @@ The project is a record of the author's leetcode.
  | [52](https://leetcode-cn.com/problems/n-queens-ii/) | [N-Queens II](/question_bank/n-queens-ii) | Hard  | 0.82 | [:link:python](/question_bank/n-queens-ii/n-queens-ii.py) |
  | [53](https://leetcode-cn.com/problems/maximum-subarray/) | [Maximum Subarray](/question_bank/maximum-subarray) | Easy  | 0.53 | [:link:python](/question_bank/maximum-subarray/maximum-subarray.py) |
  | [55](https://leetcode-cn.com/problems/jump-game/) | [Jump Game](/question_bank/jump-game) | Medium  | 0.41 | [:link:python](/question_bank/jump-game/jump-game.py) |
+ | [57](https://leetcode-cn.com/problems/insert-interval/) | [Insert Interval](/question_bank/insert-interval) | Hard  | 0.39 | [:link:python](/question_bank/insert-interval/insert-interval.py) |
  | [58](https://leetcode-cn.com/problems/length-of-last-word/) | [Length of Last Word](/question_bank/length-of-last-word) | Easy  | 0.34 | [:link:python](/question_bank/length-of-last-word/length-of-last-word.py) |
  | [60](https://leetcode-cn.com/problems/permutation-sequence/) | [Permutation Sequence](/question_bank/permutation-sequence) | Hard  | 0.52 | [:link:python](/question_bank/permutation-sequence/permutation-sequence.py) |
  | [61](https://leetcode-cn.com/problems/rotate-list/) | [Rotate List](/question_bank/rotate-list) | Medium  | 0.41 | [:link:python](/question_bank/rotate-list/rotate-list.py) |
@@ -93,7 +94,7 @@ The project is a record of the author's leetcode.
  | [90](https://leetcode-cn.com/problems/subsets-ii/) | [Subsets II](/question_bank/subsets-ii) | Medium  | 0.61 | [:link:python](/question_bank/subsets-ii/subsets-ii.py) |
  | [91](https://leetcode-cn.com/problems/decode-ways/) | [Decode Ways](/question_bank/decode-ways) | Medium  | 0.25 | [:link:python](/question_bank/decode-ways/decode-ways.py) |
  | [92](https://leetcode-cn.com/problems/reverse-linked-list-ii/) | [Reverse Linked List II](/question_bank/reverse-linked-list-ii) | Medium  | 0.52 | [:link:python](/question_bank/reverse-linked-list-ii/reverse-linked-list-ii.py) |
- | [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Restore IP Addresses](/question_bank/restore-ip-addresses) | Medium  | 0.50 | [:link:python](/question_bank/restore-ip-addresses/restore-ip-addresses.py) |
+ | [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Restore IP Addresses](/question_bank/restore-ip-addresses) | Medium  | 0.51 | [:link:python](/question_bank/restore-ip-addresses/restore-ip-addresses.py) |
  | [94](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Binary Tree Inorder Traversal](/question_bank/binary-tree-inorder-traversal) | Medium  | 0.74 | [:link:python](/question_bank/binary-tree-inorder-traversal/binary-tree-inorder-traversal.py) |
  | [96](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [Unique Binary Search Trees](/question_bank/unique-binary-search-trees) | Medium  | 0.69 | [:link:python](/question_bank/unique-binary-search-trees/unique-binary-search-trees.py) |
  | [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Binary Tree Zigzag Level Order Traversal](/question_bank/binary-tree-zigzag-level-order-traversal) | Medium  | 0.55 | [:link:python](/question_bank/binary-tree-zigzag-level-order-traversal/binary-tree-zigzag-level-order-traversal.py) |
@@ -134,7 +135,7 @@ The project is a record of the author's leetcode.
  | [236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Lowest Common Ancestor of a Binary Tree](/question_bank/lowest-common-ancestor-of-a-binary-tree) | Medium  | 0.66 | [:link:python](/question_bank/lowest-common-ancestor-of-a-binary-tree/lowest-common-ancestor-of-a-binary-tree.py) |
  | [237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [Delete Node in a Linked List](/question_bank/delete-node-in-a-linked-list) | Easy  | 0.83 | [:link:python](/question_bank/delete-node-in-a-linked-list/delete-node-in-a-linked-list.py) |
  | [257](https://leetcode-cn.com/problems/binary-tree-paths/) | [Binary Tree Paths](/question_bank/binary-tree-paths) | Easy  | 0.66 | [:link:python](/question_bank/binary-tree-paths/binary-tree-paths.py) |
- | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [Ugly Number II](/question_bank/ugly-number-ii) | Medium  | 0.54 | [:link:python](/question_bank/ugly-number-ii/ugly-number-ii.py) |
+ | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [Ugly Number II](/question_bank/ugly-number-ii) | Medium  | 0.55 | [:link:python](/question_bank/ugly-number-ii/ugly-number-ii.py) |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [Perfect Squares](/question_bank/perfect-squares) | Medium  | 0.58 | [:link:python](/question_bank/perfect-squares/perfect-squares.py) |
  | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [Longest Increasing Subsequence](/question_bank/longest-increasing-subsequence) | Medium  | 0.45 | [:link:python](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
  | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [Range Sum Query - Immutable](/question_bank/range-sum-query-immutable) | Easy  | 0.64 | [:link:python](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
