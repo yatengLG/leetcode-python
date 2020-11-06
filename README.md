@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 220/1855 
+finished 222/1855 
 
-Easy: 78    Medium: 126    Hard: 16
+Easy: 79    Medium: 127    Hard: 16
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -115,6 +115,8 @@ The project is a record of the author's leetcode.
  | [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Sum Root to Leaf Numbers](/question_bank/sum-root-to-leaf-numbers) | Medium  | 0.66 | [:link:python](/question_bank/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.py) |
  | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Palindrome Partitioning](/question_bank/palindrome-partitioning) | Medium  | 0.69 | [:link:python](/question_bank/palindrome-partitioning/palindrome-partitioning.py) |
  | [134](https://leetcode-cn.com/problems/gas-station/) | [Gas Station](/question_bank/gas-station) | Medium  | 0.54 | [:link:python](/question_bank/gas-station/gas-station.py) |
+ | [136](https://leetcode-cn.com/problems/single-number/) | [Single Number](/question_bank/single-number) | Easy  | 0.70 | [:link:python](/question_bank/single-number/single-number.py) |
+ | [137](https://leetcode-cn.com/problems/single-number-ii/) | [Single Number II](/question_bank/single-number-ii) | Medium  | 0.68 | [:link:python](/question_bank/single-number-ii/single-number-ii.py) |
  | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](/question_bank/copy-list-with-random-pointer) | Medium  | 0.58 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
  | [139](https://leetcode-cn.com/problems/word-break/) | [Word Break](/question_bank/word-break) | Medium  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](/question_bank/linked-list-cycle) | Easy  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
@@ -188,7 +190,7 @@ The project is a record of the author's leetcode.
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [Flood Fill](/question_bank/flood-fill) | Easy  | 0.58 | [:link:python](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [Min Cost Climbing Stairs](/question_bank/min-cost-climbing-stairs) | Easy  | 0.50 | [:link:python](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Flatten a Multilevel Doubly Linked List](/question_bank/flatten-a-multilevel-doubly-linked-list) | Medium  | 0.52 | [:link:python](/question_bank/flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.py) |
- | [763](https://leetcode-cn.com/problems/partition-labels/) | [Partition Labels](/question_bank/partition-labels) | Medium  | 0.77 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
+ | [763](https://leetcode-cn.com/problems/partition-labels/) | [Partition Labels](/question_bank/partition-labels) | Medium  | 0.76 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
  | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N-ary Tree Preorder Traversal](/question_bank/n-ary-tree-preorder-traversal) | Easy  | 0.74 | [:link:python](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
  | [771](https://leetcode-cn.com/problems/jewels-and-stones/) | [Jewels and Stones](/question_bank/jewels-and-stones) | Easy  | 0.85 | [:link:python](/question_bank/jewels-and-stones/jewels-and-stones.py) |
  | [701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [Insert into a Binary Search Tree](/question_bank/insert-into-a-binary-search-tree) | Medium  | 0.72 | [:link:python](/question_bank/insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
@@ -225,7 +227,7 @@ The project is a record of the author's leetcode.
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Maximum Length of a Concatenated String with Unique Characters](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | Medium  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1282](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [Group the People Given the Group Size They Belong To](/question_bank/group-the-people-given-the-group-size-they-belong-to) | Medium  | 0.81 | [:link:python](/question_bank/group-the-people-given-the-group-size-they-belong-to/group-the-people-given-the-group-size-they-belong-to.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
- | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](/question_bank/sort-integers-by-the-number-of-1-bits) | Easy  | 0.72 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
+ | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](/question_bank/sort-integers-by-the-number-of-1-bits) | Easy  | 0.73 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](/question_bank/how-many-numbers-are-smaller-than-the-current-number) | Easy  | 0.83 | [:link:python](/question_bank/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](/question_bank/linked-list-in-binary-tree) | Medium  | 0.40 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py) |

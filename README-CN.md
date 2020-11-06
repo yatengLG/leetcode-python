@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 220/1855 
+已通过 222/1855 
 
-简单: 78    中等: 126    困难: 16
+简单: 79    中等: 127    困难: 16
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -125,6 +125,8 @@
  | [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [求根到叶子节点数字之和](/question_bank/sum-root-to-leaf-numbers) | 中(M)  | 0.66 | [:link:python](/question_bank/sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.py) |
  | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](/question_bank/palindrome-partitioning) | 中(M)  | 0.69 | [:link:python](/question_bank/palindrome-partitioning/palindrome-partitioning.py) |
  | [134](https://leetcode-cn.com/problems/gas-station/) | [加油站](/question_bank/gas-station) | 中(M)  | 0.54 | [:link:python](/question_bank/gas-station/gas-station.py) |
+ | [136](https://leetcode-cn.com/problems/single-number/) | [只出现一次的数字](/question_bank/single-number) | 易(E)  | 0.70 | [:link:python](/question_bank/single-number/single-number.py) |
+ | [137](https://leetcode-cn.com/problems/single-number-ii/) | [只出现一次的数字 II](/question_bank/single-number-ii) | 中(M)  | 0.68 | [:link:python](/question_bank/single-number-ii/single-number-ii.py) |
  | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](/question_bank/copy-list-with-random-pointer) | 中(M)  | 0.58 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
  | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](/question_bank/word-break) | 中(M)  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](/question_bank/linked-list-cycle) | 易(E)  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
@@ -198,7 +200,7 @@
  | [733](https://leetcode-cn.com/problems/flood-fill/) | [图像渲染](/question_bank/flood-fill) | 易(E)  | 0.58 | [:link:python](/question_bank/flood-fill/flood-fill.py) |
  | [746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/) | [使用最小花费爬楼梯](/question_bank/min-cost-climbing-stairs) | 易(E)  | 0.50 | [:link:python](/question_bank/min-cost-climbing-stairs/min-cost-climbing-stairs.py) |
  | [430](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/) | [扁平化多级双向链表](/question_bank/flatten-a-multilevel-doubly-linked-list) | 中(M)  | 0.52 | [:link:python](/question_bank/flatten-a-multilevel-doubly-linked-list/flatten-a-multilevel-doubly-linked-list.py) |
- | [763](https://leetcode-cn.com/problems/partition-labels/) | [划分字母区间](/question_bank/partition-labels) | 中(M)  | 0.77 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
+ | [763](https://leetcode-cn.com/problems/partition-labels/) | [划分字母区间](/question_bank/partition-labels) | 中(M)  | 0.76 | [:link:python](/question_bank/partition-labels/partition-labels.py) |
  | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N叉树的前序遍历](/question_bank/n-ary-tree-preorder-traversal) | 易(E)  | 0.74 | [:link:python](/question_bank/n-ary-tree-preorder-traversal/n-ary-tree-preorder-traversal.py) |
  | [771](https://leetcode-cn.com/problems/jewels-and-stones/) | [宝石与石头](/question_bank/jewels-and-stones) | 易(E)  | 0.85 | [:link:python](/question_bank/jewels-and-stones/jewels-and-stones.py) |
  | [701](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/) | [二叉搜索树中的插入操作](/question_bank/insert-into-a-binary-search-tree) | 中(M)  | 0.72 | [:link:python](/question_bank/insert-into-a-binary-search-tree/insert-into-a-binary-search-tree.py) |
@@ -235,7 +237,7 @@
  | [1239](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [串联字符串的最大长度](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters) | 中(M)  | 0.40 | [:link:python](/question_bank/maximum-length-of-a-concatenated-string-with-unique-characters/maximum-length-of-a-concatenated-string-with-unique-characters.py) |
  | [1282](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to/) | [用户分组](/question_bank/group-the-people-given-the-group-size-they-belong-to) | 中(M)  | 0.81 | [:link:python](/question_bank/group-the-people-given-the-group-size-they-belong-to/group-the-people-given-the-group-size-they-belong-to.py) |
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
- | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [根据数字二进制下 1 的数目排序](/question_bank/sort-integers-by-the-number-of-1-bits) | 易(E)  | 0.72 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
+ | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [根据数字二进制下 1 的数目排序](/question_bank/sort-integers-by-the-number-of-1-bits) | 易(E)  | 0.73 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
  | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [有多少小于当前数字的数字](/question_bank/how-many-numbers-are-smaller-than-the-current-number) | 易(E)  | 0.83 | [:link:python](/question_bank/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [二叉树中的列表](/question_bank/linked-list-in-binary-tree) | 中(M)  | 0.40 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
