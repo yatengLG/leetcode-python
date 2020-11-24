@@ -153,7 +153,7 @@
  | [257](https://leetcode-cn.com/problems/binary-tree-paths/) | [二叉树的所有路径](/question_bank/binary-tree-paths) | 易(E)  | 0.66 | [:link:python](/question_bank/binary-tree-paths/binary-tree-paths.py) |
  | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [丑数 II](/question_bank/ugly-number-ii) | 中(M)  | 0.55 | [:link:python](/question_bank/ugly-number-ii/ugly-number-ii.py) |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](/question_bank/perfect-squares) | 中(M)  | 0.58 | [:link:python](/question_bank/perfect-squares/perfect-squares.py) |
- | [283](https://leetcode-cn.com/problems/move-zeroes/) | 移动零 | 易(E)  | 0.63 | :heavy_check_mark: |
+ | [283](https://leetcode-cn.com/problems/move-zeroes/) | [移动零](/question_bank/move-zeroes) | 易(E)  | 0.63 | [:link:python](/question_bank/move-zeroes/move-zeroes.py) |
  | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](/question_bank/longest-increasing-subsequence) | 中(M)  | 0.45 | [:link:python](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
  | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](/question_bank/range-sum-query-immutable) | 易(E)  | 0.64 | [:link:python](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
  | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索 - 矩阵不可变](/question_bank/range-sum-query-2d-immutable) | 中(M)  | 0.46 | [:link:python](/question_bank/range-sum-query-2d-immutable/range-sum-query-2d-immutable.py) |
@@ -181,7 +181,7 @@
  | [401](https://leetcode-cn.com/problems/binary-watch/) | [二进制手表](/question_bank/binary-watch) | 易(E)  | 0.53 | [:link:python](/question_bank/binary-watch/binary-watch.py) |
  | [402](https://leetcode-cn.com/problems/remove-k-digits/) | [移掉K位数字](/question_bank/remove-k-digits) | 中(M)  | 0.33 | [:link:python](/question_bank/remove-k-digits/remove-k-digits.py) |
  | [404](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [左叶子之和](/question_bank/sum-of-left-leaves) | 易(E)  | 0.56 | [:link:python](/question_bank/sum-of-left-leaves/sum-of-left-leaves.py) |
- | [406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | 根据身高重建队列 | 中(M)  | 0.72 | :heavy_check_mark: |
+ | [406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [根据身高重建队列](/question_bank/queue-reconstruction-by-height) | 中(M)  | 0.72 | [:link:python](/question_bank/queue-reconstruction-by-height/queue-reconstruction-by-height.py) |
  | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](/question_bank/partition-equal-subset-sum) | 中(M)  | 0.49 | [:link:python](/question_bank/partition-equal-subset-sum/partition-equal-subset-sum.py) |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [两数相加 II](/question_bank/add-two-numbers-ii) | 中(M)  | 0.58 | [:link:python](/question_bank/add-two-numbers-ii/add-two-numbers-ii.py) |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [重复的子字符串](/question_bank/repeated-substring-pattern) | 易(E)  | 0.51 | [:link:python](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
@@ -239,7 +239,7 @@
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [活字印刷](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [有效括号的嵌套深度](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings) | 中(M)  | 0.78 | [:link:python](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
  | [1291](https://leetcode-cn.com/problems/sequential-digits/) | [顺次数](/question_bank/sequential-digits) | 中(M)  | 0.51 | [:link:python](/question_bank/sequential-digits/sequential-digits.py) |
- | [1122](https://leetcode-cn.com/problems/relative-sort-array/) | 数组的相对排序 | 易(E)  | 0.71 | :heavy_check_mark: |
+ | [1122](https://leetcode-cn.com/problems/relative-sort-array/) | [数组的相对排序](/question_bank/relative-sort-array) | 易(E)  | 0.71 | [:link:python](/question_bank/relative-sort-array/relative-sort-array.py) |
  | [1171](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | [从链表中删去总和值为零的连续节点](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list) | 中(M)  | 0.45 | [:link:python](/question_bank/remove-zero-sum-consecutive-nodes-from-linked-list/remove-zero-sum-consecutive-nodes-from-linked-list.py) |
  | [1184](https://leetcode-cn.com/problems/distance-between-bus-stops/) | [公交站间的距离](/question_bank/distance-between-bus-stops) | 易(E)  | 0.58 | [:link:python](/question_bank/distance-between-bus-stops/distance-between-bus-stops.py) |
  | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](/question_bank/day-of-the-week) | 易(E)  | 0.61 | [:link:python](/question_bank/day-of-the-week/day-of-the-week.py) |
