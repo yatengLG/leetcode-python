@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 232/1876 
+已通过 233/1876 
 
-简单: 83    中等: 131    困难: 18
+简单: 84    中等: 131    困难: 18
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -154,7 +154,7 @@
  | [264](https://leetcode-cn.com/problems/ugly-number-ii/) | [丑数 II](/question_bank/ugly-number-ii) | 中(M)  | 0.55 | [:link:python](/question_bank/ugly-number-ii/ugly-number-ii.py) |
  | [279](https://leetcode-cn.com/problems/perfect-squares/) | [完全平方数](/question_bank/perfect-squares) | 中(M)  | 0.58 | [:link:python](/question_bank/perfect-squares/perfect-squares.py) |
  | [283](https://leetcode-cn.com/problems/move-zeroes/) | [移动零](/question_bank/move-zeroes) | 易(E)  | 0.63 | [:link:python](/question_bank/move-zeroes/move-zeroes.py) |
- | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](/question_bank/longest-increasing-subsequence) | 中(M)  | 0.45 | [:link:python](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
+ | [300](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [最长上升子序列](/question_bank/longest-increasing-subsequence) | 中(M)  | 0.46 | [:link:python](/question_bank/longest-increasing-subsequence/longest-increasing-subsequence.py) |
  | [303](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [区域和检索 - 数组不可变](/question_bank/range-sum-query-immutable) | 易(E)  | 0.64 | [:link:python](/question_bank/range-sum-query-immutable/range-sum-query-immutable.py) |
  | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索 - 矩阵不可变](/question_bank/range-sum-query-2d-immutable) | 中(M)  | 0.46 | [:link:python](/question_bank/range-sum-query-2d-immutable/range-sum-query-2d-immutable.py) |
  | [306](https://leetcode-cn.com/problems/additive-number/) | [累加数](/question_bank/additive-number) | 中(M)  | 0.33 | [:link:python](/question_bank/additive-number/additive-number.py) |
@@ -249,6 +249,7 @@
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [根据数字二进制下 1 的数目排序](/question_bank/sort-integers-by-the-number-of-1-bits) | 易(E)  | 0.74 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
+ | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [上升下降字符串](/question_bank/increasing-decreasing-string) | 易(E)  | 0.78 | [:link:python](/question_bank/increasing-decreasing-string/increasing-decreasing-string.py) |
  | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [有多少小于当前数字的数字](/question_bank/how-many-numbers-are-smaller-than-the-current-number) | 易(E)  | 0.83 | [:link:python](/question_bank/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [二叉树中的列表](/question_bank/linked-list-in-binary-tree) | 中(M)  | 0.40 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [长度为 n 的开心字符串中字典序第 k 小的字符串](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
