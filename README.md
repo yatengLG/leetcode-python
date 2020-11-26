@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 233/1876 
+finished 234/1877 
 
-Easy: 84    Medium: 131    Hard: 18
+Easy: 84    Medium: 131    Hard: 19
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -128,6 +128,7 @@ The project is a record of the author's leetcode.
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](/question_bank/insertion-sort-list) | Medium  | 0.67 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](/question_bank/evaluate-reverse-polish-notation) | Medium  | 0.51 | [:link:python](/question_bank/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Maximum Product Subarray](/question_bank/maximum-product-subarray) | Medium  | 0.41 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
+ | [164](https://leetcode-cn.com/problems/maximum-gap/) | Maximum Gap | Hard  | 0.59 | :heavy_check_mark: |
  | [169](https://leetcode-cn.com/problems/majority-element/) | [Majority Element](/question_bank/majority-element) | Easy  | 0.65 | [:link:python](/question_bank/majority-element/majority-element.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [House Robber](/question_bank/house-robber) | Easy  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [House Robber II](/question_bank/house-robber-ii) | Medium  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
@@ -239,7 +240,7 @@ The project is a record of the author's leetcode.
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [XOR Queries of a Subarray](/question_bank/xor-queries-of-a-subarray) | Medium  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [Sort Integers by The Number of 1 Bits](/question_bank/sort-integers-by-the-number-of-1-bits) | Easy  | 0.74 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [Apply Discount Every n Orders](/question_bank/apply-discount-every-n-orders) | Medium  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
- | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](/question_bank/increasing-decreasing-string) | Easy  | 0.78 | [:link:python](/question_bank/increasing-decreasing-string/increasing-decreasing-string.py) |
+ | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [Increasing Decreasing String](/question_bank/increasing-decreasing-string) | Easy  | 0.80 | [:link:python](/question_bank/increasing-decreasing-string/increasing-decreasing-string.py) |
  | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [How Many Numbers Are Smaller Than the Current Number](/question_bank/how-many-numbers-are-smaller-than-the-current-number) | Easy  | 0.83 | [:link:python](/question_bank/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](/question_bank/linked-list-in-binary-tree) | Medium  | 0.40 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |

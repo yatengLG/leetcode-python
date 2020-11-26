@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 233/1876 
+已通过 234/1877 
 
-简单: 84    中等: 131    困难: 18
+简单: 84    中等: 131    困难: 19
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -138,6 +138,7 @@
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [对链表进行插入排序](/question_bank/insertion-sort-list) | 中(M)  | 0.67 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](/question_bank/evaluate-reverse-polish-notation) | 中(M)  | 0.51 | [:link:python](/question_bank/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](/question_bank/maximum-product-subarray) | 中(M)  | 0.41 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
+ | [164](https://leetcode-cn.com/problems/maximum-gap/) | 最大间距 | 难(H)  | 0.59 | :heavy_check_mark: |
  | [169](https://leetcode-cn.com/problems/majority-element/) | [多数元素](/question_bank/majority-element) | 易(E)  | 0.65 | [:link:python](/question_bank/majority-element/majority-element.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](/question_bank/house-robber) | 易(E)  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [打家劫舍 II](/question_bank/house-robber-ii) | 中(M)  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
@@ -249,7 +250,7 @@
  | [1310](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/) | [子数组异或查询](/question_bank/xor-queries-of-a-subarray) | 中(M)  | 0.65 | [:link:python](/question_bank/xor-queries-of-a-subarray/xor-queries-of-a-subarray.py) |
  | [1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) | [根据数字二进制下 1 的数目排序](/question_bank/sort-integers-by-the-number-of-1-bits) | 易(E)  | 0.74 | [:link:python](/question_bank/sort-integers-by-the-number-of-1-bits/sort-integers-by-the-number-of-1-bits.py) |
  | [1357](https://leetcode-cn.com/problems/apply-discount-every-n-orders/) | [每隔 n 个顾客打折](/question_bank/apply-discount-every-n-orders) | 中(M)  | 0.51 | [:link:python](/question_bank/apply-discount-every-n-orders/apply-discount-every-n-orders.py) |
- | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [上升下降字符串](/question_bank/increasing-decreasing-string) | 易(E)  | 0.78 | [:link:python](/question_bank/increasing-decreasing-string/increasing-decreasing-string.py) |
+ | [1370](https://leetcode-cn.com/problems/increasing-decreasing-string/) | [上升下降字符串](/question_bank/increasing-decreasing-string) | 易(E)  | 0.80 | [:link:python](/question_bank/increasing-decreasing-string/increasing-decreasing-string.py) |
  | [1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [有多少小于当前数字的数字](/question_bank/how-many-numbers-are-smaller-than-the-current-number) | 易(E)  | 0.83 | [:link:python](/question_bank/how-many-numbers-are-smaller-than-the-current-number/how-many-numbers-are-smaller-than-the-current-number.py) |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [二叉树中的列表](/question_bank/linked-list-in-binary-tree) | 中(M)  | 0.40 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py) |
  | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [长度为 n 的开心字符串中字典序第 k 小的字符串](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py) |
