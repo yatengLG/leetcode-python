@@ -151,4 +151,5 @@ class Solution:
                         l += 1
                     else:
                         r -= 1
-        return result</code></pre></div>
+        return result
+</code></pre></div>

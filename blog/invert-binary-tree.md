@@ -88,4 +88,5 @@ class Solution:
                 invert(root.left)
                 invert(root.right)
         invert(root)
-        return root</code></pre></div>
+        return root
+</code></pre></div>

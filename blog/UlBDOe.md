@@ -82,4 +82,5 @@ class Solution:
             dp[i][0] = dp[i-1][0] + int(leaves[i]!='r')                     # r* 只依赖于 r*情况
             dp[i][1] = min(dp[i-1][0], dp[i-1][1]) + int(leaves[i]!='y')    # r*y* 可由 r*+y 和r*y*+y 得到，依赖于 r* 和r*y*情况
             dp[i][2] = min(dp[i-1][1], dp[i-1][2]) + int(leaves[i]!='r')    # r*y*r* 可由 r*y*+r 和 r*y*r*+r 得到，依赖于r*y* 和 r*y*r*情况
-        return dp[-1][2]</code></pre></div>
+        return dp[-1][2]
+</code></pre></div>

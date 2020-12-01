@@ -131,4 +131,5 @@ class Solution:
                             record.add(now)
             head = record   #
             result += 1
-        return 0</code></pre></div>
+        return 0
+</code></pre></div>

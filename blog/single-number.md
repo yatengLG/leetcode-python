@@ -60,4 +60,5 @@ Leetcode 136. 只出现一次的数字
 """
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        return reduce(lambda x, y: x^y, nums)</code></pre></div>
+        return reduce(lambda x, y: x^y, nums)
+</code></pre></div>

@@ -114,4 +114,5 @@ class Solution:
             else:
                 record[add] = head
                 head = head.next
-        return start.next</code></pre></div>
+        return start.next
+</code></pre></div>

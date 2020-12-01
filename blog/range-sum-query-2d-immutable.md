@@ -102,4 +102,5 @@ class NumMatrix:
         row1, col1, row2, col2 = row1+1, col1+1, row2+1, col2+1
         # print(self.dp[row2][col2], self.dp[row1-1][col1], self.dp[row1][col1-1], self.dp[row1-1][col1-1])
         return self.dp[row2][col2] - self.dp[row1-1][col2] - self.dp[row2][col1-1] + self.dp[row1-1][col1-1]
+
 </code></pre></div>

@@ -120,4 +120,5 @@ class Solution:
             record[i] = record[i-1] ^ arr[i]    # 记录每一位之前的异或值
         for q in queries:
             result.append(record[q[1]]^record[q[0]-1])  # 直接计算异或值   # a^b=c c^a=b c^b=a
-        return result</code></pre></div>
+        return result
+</code></pre></div>

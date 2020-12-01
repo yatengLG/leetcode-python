@@ -54,4 +54,5 @@ class Solution:
     def lengthOfLastWord(self, s: str) -> int:
         s = s.rstrip(' ')   # 去除右侧空格
         words = s.split(' ')    # 以空格划开单词
-        return len(words[-1])   # 取最后一个单词的长度</code></pre></div>
+        return len(words[-1])   # 取最后一个单词的长度
+</code></pre></div>

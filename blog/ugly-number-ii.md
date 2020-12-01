@@ -69,4 +69,5 @@ class Solution:
                 p3 += 1
             if dp[p5] * 5 == min_:
                 p5 += 1
-        return dp[-1]</code></pre></div>
+        return dp[-1]
+</code></pre></div>

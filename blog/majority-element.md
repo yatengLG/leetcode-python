@@ -60,4 +60,5 @@ Leetcode 169. 多数元素
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         nums.sort()
-        return nums[len(nums)//2]</code></pre></div>
+        return nums[len(nums)//2]
+</code></pre></div>

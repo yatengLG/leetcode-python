@@ -64,4 +64,5 @@ class Solution:
                 find(root.right)
 
         find(root)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

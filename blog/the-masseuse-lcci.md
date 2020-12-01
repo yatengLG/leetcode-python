@@ -102,4 +102,5 @@ class Solution:
         for i in range(3, n):
             dp[i] = max(dp[i-2], dp[i-3]) + nums[i]
 
-        return max(dp[-2:])</code></pre></div>
+        return max(dp[-2:])
+</code></pre></div>

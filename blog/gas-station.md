@@ -129,4 +129,5 @@ class Solution:
             if g < 0:   # 如果到当前加油站净消耗<0， 则[:i]部分的净消耗和小于0。前面不可能成环
                 g = 0   # 将净消耗归0, 从下一个加油站开始作为起始点
                 start = i+1
-        return start</code></pre></div>
+        return start
+</code></pre></div>

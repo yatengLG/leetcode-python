@@ -111,4 +111,5 @@ class Solution:
             else:
                 dp[0][i] = dp[0][i - 1]
                 dp[1][i] = dp[1][i - 1]
-        return max(dp[0][-1], dp[1][-1])+1</code></pre></div>
+        return max(dp[0][-1], dp[1][-1])+1
+</code></pre></div>

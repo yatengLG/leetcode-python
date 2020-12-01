@@ -123,4 +123,5 @@ class Solution:
             node.right = f(link_list[m + 1:])
             return node
 
-        return f(link_list)</code></pre></div>
+        return f(link_list)
+</code></pre></div>

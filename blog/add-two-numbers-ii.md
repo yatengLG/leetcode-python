@@ -106,4 +106,5 @@ class Solution:
         if node.val > 0:    # 处理首位是否进位
             return node
         else:
-            return node.next</code></pre></div>
+            return node.next
+</code></pre></div>

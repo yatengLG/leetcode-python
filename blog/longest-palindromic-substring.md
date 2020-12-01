@@ -103,4 +103,5 @@ class Solution:
                     dp[i][j] = (s[i] == s[j])
                 if dp[i][j] and j+1-i > len(string):    # 若当前下标间的字符串回文，则对比记录的字符串，且比较长度
                     string = s[i: j+1]
-        return string</code></pre></div>
+        return string
+</code></pre></div>

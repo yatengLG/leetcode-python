@@ -116,4 +116,5 @@ class Solution:
                     obl2.pop()
 
         backtrack(0, 0)
-        return result[0]</code></pre></div>
+        return result[0]
+</code></pre></div>

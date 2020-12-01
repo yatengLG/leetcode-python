@@ -207,4 +207,5 @@ class Solution:
         for i in range(n):
             k, pre = find(i, k, pre)
         return ''.join(result)
+
 </code></pre></div>

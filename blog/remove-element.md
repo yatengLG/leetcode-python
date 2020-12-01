@@ -127,4 +127,5 @@ class Solution:
             else:
                 nums[index] = value
                 index += 1
-        return index</code></pre></div>
+        return index
+</code></pre></div>

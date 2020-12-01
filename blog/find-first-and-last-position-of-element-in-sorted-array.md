@@ -126,4 +126,5 @@ class Solution:
                 r += 1
             return [l,r]
         else:
-            return [-1, -1]</code></pre></div>
+            return [-1, -1]
+</code></pre></div>

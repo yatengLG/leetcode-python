@@ -79,4 +79,5 @@ class Solution:
             h.next = p
             p.next = h_next
             h = h_next
-            p = p_next</code></pre></div>
+            p = p_next
+</code></pre></div>

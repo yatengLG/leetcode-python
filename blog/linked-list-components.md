@@ -112,4 +112,5 @@ class Solution:
             else:   # 当前值不在G中，断开
                 start = False
             head = head.next
-        return num</code></pre></div>
+        return num
+</code></pre></div>

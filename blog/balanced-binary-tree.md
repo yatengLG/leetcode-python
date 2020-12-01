@@ -118,4 +118,5 @@ class Solution:
             else:
                 return max(left_height, right_height) + 1   # 如果平衡，则该节点的root高度为 叶节点最大高度+1
 
-        return height(root)>=0</code></pre></div>
+        return height(root)>=0
+</code></pre></div>

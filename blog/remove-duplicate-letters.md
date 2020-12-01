@@ -101,4 +101,5 @@ class Solution:
         for c in s: # 挨个插入s字符串中的字符
             insert(c)
         return ''.join(result)
+
 </code></pre></div>

@@ -101,4 +101,5 @@ class Solution:
                     self.val = r.val
 
         find(root)
-        return int(self.result)</code></pre></div>
+        return int(self.result)
+</code></pre></div>

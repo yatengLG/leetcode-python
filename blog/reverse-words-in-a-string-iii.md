@@ -63,4 +63,5 @@ class Solution:
         ss = s.split(' ')   # 以空格划分
         for i in range(len(ss)):
             ss[i] = ss[i][::-1] # 翻转每一部分
-        return ' '.join(ss) # 添加空格</code></pre></div>
+        return ' '.join(ss) # 添加空格
+</code></pre></div>

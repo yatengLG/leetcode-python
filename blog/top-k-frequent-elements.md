@@ -101,4 +101,5 @@ class Solution:
 
         for k in set(value[:k]):
             result.extend(record_[k])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

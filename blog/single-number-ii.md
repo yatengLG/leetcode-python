@@ -120,4 +120,5 @@ class Solution:
         for num in nums:
             one = one ^ num & ~two
             two = two ^ num & ~one
-        return one</code></pre></div>
+        return one
+</code></pre></div>

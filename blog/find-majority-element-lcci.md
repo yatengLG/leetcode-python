@@ -93,4 +93,5 @@ class Solution:
         if count > 0:   # 如果当前元素的统计次数大于0，则存在主要元素
             return major
         else:       # 否则，不存在
-            return -1</code></pre></div>
+            return -1
+</code></pre></div>

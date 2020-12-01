@@ -96,4 +96,5 @@ class Solution:
         for j in range(1, n+1): # 这里需要注意遍历顺序。
             for i in range(j-2, 0, -1): # 忽略[i][i] 与 [i][i+1]
                 dp[i][j] = min(max(dp[i][x-1], dp[x+1][j])+x for x in range(i,j))   # 状态转移方程
-        return dp[1][n]</code></pre></div>
+        return dp[1][n]
+</code></pre></div>

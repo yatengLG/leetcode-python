@@ -96,4 +96,5 @@ class Solution:
             dp[i] = min(dp[i-1], dp[i-2]) + cost[i] # 大于三的元素，依赖于前一个和前两个元素的值，最后加上本身的值
         cost = min(dp[-1], dp[-2])  # 最后需要处理，可经倒数第一个元素到顶，也可经倒数第二个元素到顶
 
-        return cost</code></pre></div>
+        return cost
+</code></pre></div>

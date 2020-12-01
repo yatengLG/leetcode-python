@@ -66,4 +66,5 @@ class Solution:
         for i in range(1, n+1):     # n
             for j in range(1, i+1): # 当前n时，以j为根的树有 左子树种类*右子树种类 种
                 dp[i] += dp[j-1] * dp[i-j]
-        return dp[n]</code></pre></div>
+        return dp[n]
+</code></pre></div>

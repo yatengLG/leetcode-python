@@ -97,4 +97,5 @@ class Solution:
                 record[a] += 1
             else:
                 record[a] = 1
-        return len(record.values()) == len(set(record.values()))</code></pre></div>
+        return len(record.values()) == len(set(record.values()))
+</code></pre></div>

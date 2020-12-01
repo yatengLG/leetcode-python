@@ -129,4 +129,5 @@ class Solution:
                     if num <= record:
                         records[i] = num
                         break
-        return size</code></pre></div>
+        return size
+</code></pre></div>

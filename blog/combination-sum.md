@@ -121,4 +121,5 @@ class Solution:
                 else:               # 小于目标值，下一层
                     backtrack(i, target-num, current+[num])
         backtrack(0, target, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

@@ -60,4 +60,5 @@ class Solution:
             q = r
         pre.next.next = q   # 连接链表
         pre.next = p
-        return result.next</code></pre></div>
+        return result.next
+</code></pre></div>

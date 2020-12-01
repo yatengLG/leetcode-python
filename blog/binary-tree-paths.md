@@ -85,4 +85,5 @@ class Solution:
             current.pop()               # 回溯
 
         find(root, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

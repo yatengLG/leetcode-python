@@ -103,4 +103,5 @@ class Solution:
                 continue
             backtrack(index, [A[index]], [index])
 
-        return len(result)</code></pre></div>
+        return len(result)
+</code></pre></div>

@@ -106,4 +106,5 @@ class Solution:
                 find(root.left, deep+1)     # 处理左子树
                 find(root.right, deep+1)    # 右子树
         find(root, 0)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

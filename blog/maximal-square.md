@@ -97,4 +97,5 @@ class Solution:
                     dp[i+1][j+1] = 0
 
                 max_ = max(dp[i+1][j+1], max_)
-        return max_**2</code></pre></div>
+        return max_**2
+</code></pre></div>

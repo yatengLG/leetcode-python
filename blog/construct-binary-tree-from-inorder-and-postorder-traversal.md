@@ -81,4 +81,5 @@ class Solution:
             return node
 
         t = find(inorder, postorder)
-        return t</code></pre></div>
+        return t
+</code></pre></div>

@@ -80,4 +80,5 @@ class Solution:
                     result_.append(r+letter)
             result = result_.copy()
 
-        return result</code></pre></div>
+        return result
+</code></pre></div>

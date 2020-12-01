@@ -91,4 +91,5 @@ class Solution:
                 return False
 
             state = states[state[c]]
-        return state['空格'] in [2,3,7,8]</code></pre></div>
+        return state['空格'] in [2,3,7,8]
+</code></pre></div>

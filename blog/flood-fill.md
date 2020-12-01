@@ -104,4 +104,5 @@ class Solution:
                     if image[nr][nc] == oldColor:   # 判断是否为需要渲染的点
                         rc_list.append([nr, nc])    # 进列表
 
-        return image</code></pre></div>
+        return image
+</code></pre></div>

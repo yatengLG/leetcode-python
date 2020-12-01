@@ -103,4 +103,5 @@ class Solution:
             record = max(record+nums[i], nums[i])
             if record > max_:
                 max_ = record
-        return max_</code></pre></div>
+        return max_
+</code></pre></div>

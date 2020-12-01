@@ -204,4 +204,5 @@ class Solution:
             A = np.matmul(A, A).astype(np.int64)    # 计算当前次方和
             A = np.mod(A, 1000000007)
             n = n >> 1  # /2向下取整
-        return e</code></pre></div>
+        return e
+</code></pre></div>

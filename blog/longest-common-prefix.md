@@ -80,4 +80,5 @@ class Solution:
 
             if result == '':
                 break
-        return result</code></pre></div>
+        return result
+</code></pre></div>

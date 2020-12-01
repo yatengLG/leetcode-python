@@ -118,4 +118,5 @@ class Solution:
                 r += 1
             return r
         else:
-            return len(nums)-1</code></pre></div>
+            return len(nums)-1
+</code></pre></div>

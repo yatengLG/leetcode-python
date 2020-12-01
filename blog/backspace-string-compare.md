@@ -145,4 +145,5 @@ class Solution:
                     t.pop()
             else:
                 t.append(i)
-        return s == t</code></pre></div>
+        return s == t
+</code></pre></div>

@@ -90,4 +90,5 @@ class Solution:
             j = j.next
         i.next = i.next.next
 
-        return record.next</code></pre></div>
+        return record.next
+</code></pre></div>

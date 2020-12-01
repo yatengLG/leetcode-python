@@ -99,4 +99,5 @@ class Solution:
         for i in range(n-1, 0, -1):
             for j in range(i):  # 第n行有n-1个元素，
                 triangle[i-1][j] = min(triangle[i][j], triangle[i][j+1]) + triangle[i-1][j] # 上一行的元素等于 上一行元素+ 本行相邻元素的最小值
-        return triangle[0][0]</code></pre></div>
+        return triangle[0][0]
+</code></pre></div>

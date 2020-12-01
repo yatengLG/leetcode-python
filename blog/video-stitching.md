@@ -151,4 +151,5 @@ class Solution:
         if dp[-1] == float('inf'):
             return -1
         else:
-            return int(dp[-1])</code></pre></div>
+            return int(dp[-1])
+</code></pre></div>

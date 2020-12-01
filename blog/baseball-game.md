@@ -122,4 +122,5 @@ class Solution:
                 record.pop()    # 前一轮得分无效，剔除
             else:
                 record.append(int(op))  # 录入得分
-        return sum(record)</code></pre></div>
+        return sum(record)
+</code></pre></div>

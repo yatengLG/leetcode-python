@@ -112,4 +112,5 @@ class Solution:
             for i, r in enumerate(roots):
                 if r:
                     r.next = roots[i+1]
-        return root</code></pre></div>
+        return root
+</code></pre></div>

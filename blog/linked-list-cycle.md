@@ -135,4 +135,5 @@ class Solution:
                 f = f.next.next # 快指针走两步
             else:
                 return False    # 若达到链表末尾，则无环
-        return True</code></pre></div>
+        return True
+</code></pre></div>

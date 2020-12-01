@@ -74,4 +74,5 @@ class Solution:
         dp = [0 for _ in range(num+1)]
         for i in range(1, num+1):
             dp[i] = dp[i // 2] if i%2 == 0 else dp[i // 2]+1
-        return dp</code></pre></div>
+        return dp
+</code></pre></div>

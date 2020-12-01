@@ -76,4 +76,5 @@ class Solution:
         nums2 = set(nums2)
         if len(nums1) > len(nums2):
             nums2, nums1 = nums1, nums2
-        return [i for i in nums1 if i in nums2]</code></pre></div>
+        return [i for i in nums1 if i in nums2]
+</code></pre></div>

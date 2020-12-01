@@ -77,4 +77,5 @@ class Solution:
                     continue
                 backtrack(i+1, current+[nums[i]])
         backtrack(0, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

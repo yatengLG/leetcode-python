@@ -110,4 +110,5 @@ class Solution:
         result = 0
         for i in range(n-1):
             result += max(prices[i + 1] - prices[i], 0)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

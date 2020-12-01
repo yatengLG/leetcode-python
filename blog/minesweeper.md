@@ -200,4 +200,5 @@ class Solution:
         elif board[i][j] == 'E':    # 不是雷，则需要以当前坐标为中心开始遍历周围点
             f(i, j)
 
-        return board</code></pre></div>
+        return board
+</code></pre></div>

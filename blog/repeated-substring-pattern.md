@@ -90,4 +90,5 @@ class Solution:
             if n%i == 0:
                 if s[:i] * (n//i) == s: # 判断字符串是否可以由当前分段组成
                     return True
-        return False</code></pre></div>
+        return False
+</code></pre></div>

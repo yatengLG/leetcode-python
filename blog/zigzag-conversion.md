@@ -132,4 +132,5 @@ class Solution:
                     string += s[j]
                 j += step
                 overturn = not overturn
-        return string</code></pre></div>
+        return string
+</code></pre></div>

@@ -112,4 +112,5 @@ class Solution:
             return right
         if left:
             return left
+
 </code></pre></div>

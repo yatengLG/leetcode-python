@@ -146,4 +146,5 @@ class Solution:
                 s = s[2:]
         if s:
             num = num + roman_dict[s]
-        return num</code></pre></div>
+        return num
+</code></pre></div>

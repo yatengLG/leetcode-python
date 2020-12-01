@@ -102,4 +102,5 @@ class Solution:
         result = 0
         for a in A:
             result += int('0b'+''.join([str(aa) for aa in a]), base=2)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

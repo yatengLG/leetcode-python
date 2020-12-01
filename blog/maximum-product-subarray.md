@@ -91,4 +91,5 @@ class Solution:
             p_min = min(pre_max*nums[i], pre_min*nums[i], nums[i])
             pre_max, pre_min = p_max, p_min
             max_ = max(max_, pre_max)
-        return max_</code></pre></div>
+        return max_
+</code></pre></div>

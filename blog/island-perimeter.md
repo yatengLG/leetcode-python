@@ -86,4 +86,5 @@ class Solution:
                         neighbor += 1
                     if j+1 < n and grid[i][j+1] == 1:
                         neighbor += 1
-        return num*4-neighbor</code></pre></div>
+        return num*4-neighbor
+</code></pre></div>

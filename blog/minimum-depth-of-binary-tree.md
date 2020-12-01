@@ -82,4 +82,5 @@ class Solution:
                         roots_c.append(r.left)
                         roots_c.append(r.right)
             roots = roots_c
-            depth += 1  # 遍历完一次后，高度+1</code></pre></div>
+            depth += 1  # 遍历完一次后，高度+1
+</code></pre></div>

@@ -82,4 +82,5 @@ class Solution:
             if i == end:    # 如遍历到当前区间内字符的最后位置，则当前区间为一个可划分区间
                 result.append(end-start+1)
                 start = i+1 # 划分区间后，下次划分的其实start需要移动
-        return result</code></pre></div>
+        return result
+</code></pre></div>

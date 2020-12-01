@@ -154,4 +154,5 @@ class Solution:
         if fresh:   # 如果感染完后，存在新鲜橘子，则返回-1
             return -1
         else:       # 否则， 返回0
-            return num-1</code></pre></div>
+            return num-1
+</code></pre></div>

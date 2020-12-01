@@ -85,4 +85,5 @@ class Solution:
                 current.pop()   # 回溯
 
         backtrack(0, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

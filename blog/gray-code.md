@@ -162,4 +162,5 @@ class Solution:
             for i, s in enumerate(string):
                 result[i] += int(s) * (2 ** j)
         return result
+
 </code></pre></div>

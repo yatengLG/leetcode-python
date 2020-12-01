@@ -123,4 +123,5 @@ class Solution:
                     l += 1
                 else:   # 和 > target， 右指针左移
                     r -= 1
-        return result</code></pre></div>
+        return result
+</code></pre></div>

@@ -84,4 +84,5 @@ class Solution:
                 find(root.left)
         if root:
             find(root)
-        return root</code></pre></div>
+        return root
+</code></pre></div>

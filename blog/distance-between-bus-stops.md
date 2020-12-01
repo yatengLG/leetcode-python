@@ -129,4 +129,5 @@ class Solution:
             start, destination = destination, start
         dist1 = sum(distance[start: destination])
         dist2 = sum(distance[0: start]) + sum(distance[destination:])
-        return min(dist1, dist2)</code></pre></div>
+        return min(dist1, dist2)
+</code></pre></div>

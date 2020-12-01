@@ -71,4 +71,5 @@ class Solution:
                 backtrack(j + 1, current)   # 下一个元素
                 current.pop()   # 回溯
         backtrack(0, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

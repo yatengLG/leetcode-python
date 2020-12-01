@@ -61,4 +61,5 @@ class Solution:
                 find(root.right)    # 再处理右节点
                 result.append(root.val) # 最后处理当前节点
         find(root)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

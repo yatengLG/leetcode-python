@@ -68,4 +68,5 @@ class Solution:
             else:
                 p = p.next  # 不等于则同时向后移动p,q
                 q = p.next
-        return start.next</code></pre></div>
+        return start.next
+</code></pre></div>

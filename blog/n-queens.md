@@ -131,4 +131,5 @@ class Solution:
                 board[n][r][c] = 'Q'
                 board[n][r] = ''.join(board[n][r])
 
-        return board</code></pre></div>
+        return board
+</code></pre></div>

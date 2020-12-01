@@ -136,4 +136,5 @@ class Solution:
             now.right = TreeNode(r)
             now = now.right
 
-        return start.right</code></pre></div>
+        return start.right
+</code></pre></div>

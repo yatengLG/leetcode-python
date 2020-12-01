@@ -69,4 +69,5 @@ class Solution:
         for i, num in enumerate(nums):
             if i <= far:    # 如果当前点，现在能到达
                 far = max(far, i+num)   # 更新能到达的最远点
-        return far >= i # 比较能到达的最远点与列表长度</code></pre></div>
+        return far >= i # 比较能到达的最远点与列表长度
+</code></pre></div>

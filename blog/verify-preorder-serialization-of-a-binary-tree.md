@@ -127,4 +127,5 @@ class Solution:
             else:
                 return False
 
-        return pop_node(record)</code></pre></div>
+        return pop_node(record)
+</code></pre></div>

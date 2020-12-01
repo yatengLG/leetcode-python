@@ -171,4 +171,5 @@ class Solution:
                 record.append(cal)
             else:
                 record.append(token)
-        return int(record.pop())</code></pre></div>
+        return int(record.pop())
+</code></pre></div>

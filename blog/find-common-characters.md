@@ -91,4 +91,5 @@ class Solution:
                     record_now[i] = 1
             record = {i:min(n, record_now[i]) for i,n in record.items() if i in record_now} # 比较当前单词字符出现次数，更新record
 
-        return [i for i,n in record.items() for _ in range(n)]</code></pre></div>
+        return [i for i,n in record.items() for _ in range(n)]
+</code></pre></div>

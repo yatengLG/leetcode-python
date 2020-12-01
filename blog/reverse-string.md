@@ -70,4 +70,5 @@ class Solution:
         while r > l:
             s[l], s[r] = s[r], s[l] # 交换元素
             l += 1  # 移动指针
-            r -= 1</code></pre></div>
+            r -= 1
+</code></pre></div>

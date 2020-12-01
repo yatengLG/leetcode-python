@@ -85,4 +85,5 @@ class Solution:
         sort_dic = {a:i for i, a in enumerate(arr2)}    # 将arr2 按 元素:顺序 组成字典
         arr1.sort(key=lambda x:sort_dic[x] if x in sort_dic else len(arr2)+x) # 如果在字典中，则按照字典顺序排序，如不在字典中，则按照x本来的值排序
         return arr1
+
 </code></pre></div>

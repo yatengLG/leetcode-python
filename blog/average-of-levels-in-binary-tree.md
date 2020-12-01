@@ -96,4 +96,5 @@ class Solution:
                 if node.right:
                     record_.append(node.right)
             record = record_
-        return result</code></pre></div>
+        return result
+</code></pre></div>

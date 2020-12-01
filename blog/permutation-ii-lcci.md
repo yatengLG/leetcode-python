@@ -77,4 +77,5 @@ class Solution:
                     continue
                 backtrack(s[:i]+s[i+1:], current+s[i])
         backtrack(S, '')
-        return result</code></pre></div>
+        return result
+</code></pre></div>

@@ -89,4 +89,5 @@ class Solution:
             i += 1
         if record > 0:  # 匹配成功时，record指向匹配字符串的末尾，需要移动到匹配字符串的开始
             record -= len_j-1
-        return record</code></pre></div>
+        return record
+</code></pre></div>

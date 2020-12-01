@@ -94,4 +94,5 @@ class Solution:
 
         if root:
             find(root, [], sum)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

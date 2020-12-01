@@ -160,4 +160,5 @@ class Solution:
                 if backtrack(current+nums[i], nums[i+1:]):
                     return True
             return False
-        return backtrack(0, nums)</code></pre></div>
+        return backtrack(0, nums)
+</code></pre></div>

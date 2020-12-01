@@ -71,4 +71,5 @@ class Solution:
         square_nums = [i**2 for i in range(1, int(n**0.5)+1)]   # 完全平方数
         for count in range(1, n + 1):   # 从 1 到n，看可以由多少个完全平方数构成。
             if f(n, count):
-                return count</code></pre></div>
+                return count
+</code></pre></div>

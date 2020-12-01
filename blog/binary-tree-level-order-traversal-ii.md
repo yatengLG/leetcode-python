@@ -85,4 +85,5 @@ class Solution:
             dfs(root.left, depth+1)
             dfs(root.right, depth+1)
         dfs(root,0)
-        return res[::-1]</code></pre></div>
+        return res[::-1]
+</code></pre></div>

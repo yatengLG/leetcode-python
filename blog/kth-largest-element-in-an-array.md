@@ -75,4 +75,5 @@ class Solution:
                     if nums[i] > nums[i + 1]:   # 从小到大排,每次将最大值放到末尾
                         nums[i], nums[i + 1] = nums[i + 1], nums[i]
                 if j > k-2:
-                    return nums[-k] # 取第-k个即为第k个最大数</code></pre></div>
+                    return nums[-k] # 取第-k个即为第k个最大数
+</code></pre></div>

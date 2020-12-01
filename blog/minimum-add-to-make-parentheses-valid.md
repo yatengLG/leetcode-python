@@ -130,4 +130,5 @@ class Solution:
                     r += 1
                 else:
                     l -= 1  # 如果有多余的左括号, 则消耗一个左括号
-        return l+r  # 返回未匹配的左括号和右括号的总和</code></pre></div>
+        return l+r  # 返回未匹配的左括号和右括号的总和
+</code></pre></div>

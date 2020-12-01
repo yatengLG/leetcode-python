@@ -89,4 +89,5 @@ class Solution:
                     results.add(record)
             results.add((num, ))
         results = [result for result in results if len(result) > 1]
-        return results</code></pre></div>
+        return results
+</code></pre></div>

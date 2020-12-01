@@ -56,4 +56,5 @@ class Solution:
                 p.next = p.next.next
             else:
                 p = p.next  # 不重复则移动指针
-        return head</code></pre></div>
+        return head
+</code></pre></div>

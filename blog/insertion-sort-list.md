@@ -97,4 +97,5 @@ class Solution:
                     p = p.next
                 node.next = p.next  # 插入节点
                 p.next = node
-        return result.next</code></pre></div>
+        return result.next
+</code></pre></div>

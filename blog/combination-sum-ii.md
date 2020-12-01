@@ -142,4 +142,5 @@ class Solution:
                 current.pop()
 
         backtrack(0,target,[])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

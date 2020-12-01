@@ -188,4 +188,5 @@ class Solution:
                 d -= 1              # 然后深度-1
         max_ = max_d//2 # 以深度，分为两部分
         result = [1 if r > max_ else 0 for r in result ] # 重新整理结果
-        return result</code></pre></div>
+        return result
+</code></pre></div>

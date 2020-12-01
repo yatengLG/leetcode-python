@@ -137,4 +137,5 @@ class Solution:
             new = new.next
             s = s.next
 
-        return s</code></pre></div>
+        return s
+</code></pre></div>

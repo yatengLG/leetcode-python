@@ -77,4 +77,5 @@ class Solution:
             dp[i][1] = max(dp[i-1][1], dp[i-1][2] - prices[i])      # 持有股票的情况：(原本持有，原本不持有买进，需要注意的是买进时，必须是冷冻期之后才可以)
             dp[i][2] = dp[i-1][0]                                   # 冷冻期与前一天不持有时利润一致
         return max(dp[-1])
+
 </code></pre></div>

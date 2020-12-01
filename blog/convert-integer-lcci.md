@@ -85,4 +85,5 @@ Leetcode 面试题 05.06. 整数转换
 """
 class Solution:
     def convertInteger(self, A: int, B: int) -> int:
-        return bin((A & 0xffffffff) ^ (B & 0xffffffff)).replace('0b','').count('1')</code></pre></div>
+        return bin((A & 0xffffffff) ^ (B & 0xffffffff)).replace('0b','').count('1')
+</code></pre></div>

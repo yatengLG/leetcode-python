@@ -138,4 +138,5 @@ class Solution:
 
         backtrack(s, [])
         result = [ '.'.join(i) for i in result] # 格式化字符串
-        return result</code></pre></div>
+        return result
+</code></pre></div>

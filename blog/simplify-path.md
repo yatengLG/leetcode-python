@@ -126,4 +126,5 @@ class Solution:
                     result.pop()
             else:
                 result.append(p)    # 其他情况为路径，入栈
-        return '/' + '/'.join(result)   # 格式化，路径之间添加/， 首位置添加/</code></pre></div>
+        return '/' + '/'.join(result)   # 格式化，路径之间添加/， 首位置添加/
+</code></pre></div>

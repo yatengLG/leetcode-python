@@ -70,4 +70,5 @@ class Solution:
                 for children in childrens:
                     find(children)
         find(root)
-        return result</code></pre></div>
+        return result
+</code></pre></div>

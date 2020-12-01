@@ -79,4 +79,5 @@ class Solution:
                 buy = price
             else:
                 profit = max((price-buy), profit)
-        return profit</code></pre></div>
+        return profit
+</code></pre></div>

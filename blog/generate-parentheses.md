@@ -72,4 +72,5 @@ class Solution:
                 backtrack(l_num, r_num-1, current + ')')
 
         backtrack(n,n, "")
-        return result</code></pre></div>
+        return result
+</code></pre></div>

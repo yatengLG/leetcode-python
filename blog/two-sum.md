@@ -60,4 +60,5 @@ class Solution:
                 record[v] = i
             else:
                 return [i, record[a]]
+
 </code></pre></div>

@@ -121,4 +121,5 @@ class Solution:
                 left = "()"
             else:
                 left = ""
-        return str(t.val)+left+ right</code></pre></div>
+        return str(t.val)+left+ right
+</code></pre></div>

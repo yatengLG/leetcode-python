@@ -90,4 +90,5 @@ class Solution:
                     dia1_record.pop()
                     dia2_record.pop()
         backtrack(0, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

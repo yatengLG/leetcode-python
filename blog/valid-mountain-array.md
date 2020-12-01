@@ -137,4 +137,5 @@ class Solution:
                 up = False
             else:   # 如果下降状态，但数值增大，或数值不变，则False
                 return False
-        return True</code></pre></div>
+        return True
+</code></pre></div>

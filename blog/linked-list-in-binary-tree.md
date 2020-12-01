@@ -134,4 +134,5 @@ class Solution:
         for node in nodes:
             if Sub(node, head): # 判断所有子树是否存在
                 return True
-        return False</code></pre></div>
+        return False
+</code></pre></div>

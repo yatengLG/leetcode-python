@@ -67,4 +67,5 @@ class Solution:
             backtrack(l-1, r, current+'(')  # 使用一个左括号
             backtrack(l, r-1, current+')')  # 使用一个右括号
         backtrack(n, n, '')
-        return result</code></pre></div>
+        return result
+</code></pre></div>

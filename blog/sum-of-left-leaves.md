@@ -74,4 +74,5 @@ class Solution:
                 find(right)
         if root:
             find(root)
-        return self.result</code></pre></div>
+        return self.result
+</code></pre></div>

@@ -98,4 +98,5 @@ class Solution:
         dp[1] = max(nums[:2])
         for i in range(2, n):
             dp[i] = max(dp[i-2] + nums[i], dp[i-1])
-        return max(dp)</code></pre></div>
+        return max(dp)
+</code></pre></div>

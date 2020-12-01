@@ -106,4 +106,5 @@ class Solution(object):
                 while A[j] % 2: # 找偶数下标j对应的偶数
                     j += 2
                 A[i], A[j] = A[j], A[i] # 交换i,j对应元素
-        return A</code></pre></div>
+        return A
+</code></pre></div>

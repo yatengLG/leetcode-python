@@ -131,4 +131,5 @@ class Solution:
         for coord in result:
             r, c, num = coord
             board[r][c] = num
+
 </code></pre></div>

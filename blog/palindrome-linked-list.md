@@ -81,4 +81,5 @@ class Solution:
             head = head.next
             reverse = reverse.next
 
-        return True</code></pre></div>
+        return True
+</code></pre></div>

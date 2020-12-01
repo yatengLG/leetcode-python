@@ -66,4 +66,5 @@ class Solution:
             else:   # q指针指向的下一个节点值>=x，则移动q指针寻找小于x的节点
                 q = q.next
 
-        return start.next</code></pre></div>
+        return start.next
+</code></pre></div>

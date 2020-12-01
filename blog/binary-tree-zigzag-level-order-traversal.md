@@ -88,4 +88,5 @@ class Solution:
             else:
                 result.append(record[d])
             reverse = not reverse
-        return result</code></pre></div>
+        return result
+</code></pre></div>

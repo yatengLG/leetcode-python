@@ -161,4 +161,5 @@ class Solution:
         if result:
             return result
         else:
-            return []</code></pre></div>
+            return []
+</code></pre></div>

@@ -76,4 +76,5 @@ class Solution:
         result = []
         for p in people:
             result.insert(p[1], p)  # 依次按照前面高个子数量插入列表
-        return result</code></pre></div>
+        return result
+</code></pre></div>

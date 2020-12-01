@@ -112,4 +112,5 @@ class Solution:
                 return None # 均不存在返回None
             return root1
         t = find(t1, t2)
-        return t</code></pre></div>
+        return t
+</code></pre></div>

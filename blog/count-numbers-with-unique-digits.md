@@ -60,4 +60,5 @@ class Solution:
             dp[i] = dp[i-1]*(10-i+1)
         if n > 9:
             n = 9
-        return sum(dp[:n+1])</code></pre></div>
+        return sum(dp[:n+1])
+</code></pre></div>

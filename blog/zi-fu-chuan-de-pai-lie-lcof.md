@@ -102,4 +102,5 @@ class Solution:
                     continue
                 backtrack(s[:i]+s[i+1:], current+[s[i]])
         backtrack(s, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

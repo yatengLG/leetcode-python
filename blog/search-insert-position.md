@@ -94,4 +94,5 @@ class Solution:
                 l = m
             else:
                 r = m               # m指针值大于目标值，值处于l-m之间，更新右指针为m
-        return r</code></pre></div>
+        return r
+</code></pre></div>

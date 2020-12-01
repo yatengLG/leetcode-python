@@ -92,4 +92,5 @@ class Solution:
             o = o.next
             add = add // 10
 
-        return head.next</code></pre></div>
+        return head.next
+</code></pre></div>

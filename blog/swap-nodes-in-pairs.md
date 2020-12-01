@@ -65,4 +65,5 @@ class Solution:
                 p = q
                 r = r.next
         r.next = p  # 将最后的none添加到新链表中
-        return result.next</code></pre></div>
+        return result.next
+</code></pre></div>

@@ -90,4 +90,5 @@ class Solution:
         result = q.next # 组合新链表
         p.next = head
         q.next = None
-        return result</code></pre></div>
+        return result
+</code></pre></div>

@@ -88,4 +88,5 @@ class Solution:
         for i in range(1, 10):  # 以1~9依次作为开头
             backtract(i, i)
         result.sort()
-        return result</code></pre></div>
+        return result
+</code></pre></div>

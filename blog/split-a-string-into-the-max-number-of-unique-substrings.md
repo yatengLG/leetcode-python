@@ -148,4 +148,5 @@ class Solution:
 
         backtrack(s, [])
         result = [len(r) for r in result]
-        return max(result)</code></pre></div>
+        return max(result)
+</code></pre></div>

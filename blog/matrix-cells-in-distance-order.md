@@ -155,4 +155,5 @@ class Solution:
         dists_keys = sorted(dists.keys())
         for dist in dists_keys:
             result.extend(dists[dist])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

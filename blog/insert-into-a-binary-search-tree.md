@@ -140,4 +140,5 @@ class Solution:
             find(root)
             return root
         else:   # 如果当前树为空，则直接返回待插入节点
-            return insert_node</code></pre></div>
+            return insert_node
+</code></pre></div>

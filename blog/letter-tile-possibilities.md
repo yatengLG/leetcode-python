@@ -107,4 +107,5 @@ class Solution:
                     current.pop()   # 回溯
                     tile_dic[tile] += 1 # 回溯，字母个数+1
         backtrack([], tile_dic)
-        return len(result)-1    # 由于[] 也是最终结果的一部分，所以需要-1</code></pre></div>
+        return len(result)-1    # 由于[] 也是最终结果的一部分，所以需要-1
+</code></pre></div>

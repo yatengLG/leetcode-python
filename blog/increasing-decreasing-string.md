@@ -162,4 +162,5 @@ class Solution:
                 s_list.remove(r)    # 从列表中移除已经添加的数据
             reverse = not reverse   # 翻转
 
-        return ''.join(result)</code></pre></div>
+        return ''.join(result)
+</code></pre></div>

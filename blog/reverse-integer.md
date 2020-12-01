@@ -91,4 +91,5 @@ class Solution:
             num += v*10**i
             if num > max_:
                 return 0
-        return num*negative</code></pre></div>
+        return num*negative
+</code></pre></div>

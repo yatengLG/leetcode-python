@@ -94,4 +94,5 @@ class Solution:
                 backtrack(j + 1, current)
                 current.pop()
         backtrack(0, [])
-        return result</code></pre></div>
+        return result
+</code></pre></div>

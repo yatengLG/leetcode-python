@@ -84,4 +84,5 @@ class Solution:
 
             p = p.next  # 移动指针
             q = q.next
-        return head</code></pre></div>
+        return head
+</code></pre></div>

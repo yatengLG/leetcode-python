@@ -88,4 +88,5 @@ class Solution:
         while f and f.next:
             s = s.next
             f = f.next.next
-        return s</code></pre></div>
+        return s
+</code></pre></div>

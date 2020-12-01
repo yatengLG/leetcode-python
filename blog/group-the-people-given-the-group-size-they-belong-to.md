@@ -91,4 +91,5 @@ class Solution:
             if len(dp[group]) == group: # 如果当前用户组的用户数等于指定数
                 result.append(dp[group][:]) # 添加到最终结果
                 dp[group] = []  # 重置对应的用户组
-        return result</code></pre></div>
+        return result
+</code></pre></div>

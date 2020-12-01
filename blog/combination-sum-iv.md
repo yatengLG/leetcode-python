@@ -103,4 +103,5 @@ class Solution:
                 else:
                     dp[t] += dp[t-num]
 
-        return dp[target]</code></pre></div>
+        return dp[target]
+</code></pre></div>

@@ -187,4 +187,5 @@ class Solution:
                     dp[i+1][j+1] = dp[i][j]
                 elif p[i] == s[j]:
                     dp[i+1][j+1] = dp[i][j]
-        return dp[-1][-1]</code></pre></div>
+        return dp[-1][-1]
+</code></pre></div>

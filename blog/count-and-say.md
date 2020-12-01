@@ -115,4 +115,5 @@ class Solution:
                     record_n = 1                        # 将计数 置为1
             s = s + str(record_n) + record_s            # 外观数列循环完，处理最后一项(或n项)
             string = s                                  # 将外观数列更新
-        return string</code></pre></div>
+        return string
+</code></pre></div>

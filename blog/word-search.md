@@ -184,4 +184,5 @@ class Solution:
                     current[(i, j)] = 0
                     if backtrack(i, j, 1):
                         return True
-        return False</code></pre></div>
+        return False
+</code></pre></div>

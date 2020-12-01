@@ -98,4 +98,5 @@ class Solution:
     def sortedSquares(self, A: List[int]) -> List[int]:
         result = [a**2 for a in A]
         result.sort()
-        return result</code></pre></div>
+        return result
+</code></pre></div>

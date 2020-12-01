@@ -78,4 +78,5 @@ class Solution:
         for s in S: # 遍历石头
             if s in jewel_dic:  # 对应宝石数量+1
                 jewel_dic[s] += 1
-        return sum(jewel_dic.values())</code></pre></div>
+        return sum(jewel_dic.values())
+</code></pre></div>

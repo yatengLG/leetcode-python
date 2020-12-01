@@ -143,4 +143,5 @@ class Solution:
                 nums[index] = record
                 index += 1
         return index
+
 </code></pre></div>

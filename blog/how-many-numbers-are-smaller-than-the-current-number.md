@@ -150,4 +150,5 @@ class Solution:
                 if rn < num:
                     n += record_n[rn]
             result += [n]
-        return result</code></pre></div>
+        return result
+</code></pre></div>

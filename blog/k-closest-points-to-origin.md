@@ -97,4 +97,5 @@ Leetcode 973. 最接近原点的 K 个点
 class Solution:
     def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
         points.sort(key=lambda point: point[0]**2+point[1]**2)
-        return points[:K]</code></pre></div>
+        return points[:K]
+</code></pre></div>

@@ -75,4 +75,5 @@ class Solution:
             max_ = max(max_+nums[i], nums[i])
             if max_ > result:
                 result = max_
-        return result</code></pre></div>
+        return result
+</code></pre></div>

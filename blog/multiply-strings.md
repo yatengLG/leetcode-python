@@ -93,4 +93,5 @@ class Solution:
         for power, val in enumerate(record):
             result += val*10**power
 
-        return str(result)</code></pre></div>
+        return str(result)
+</code></pre></div>

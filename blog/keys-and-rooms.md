@@ -116,4 +116,5 @@ class Solution:
         if len(record) == len(rooms):
             return True
         else:
-            return False</code></pre></div>
+            return False
+</code></pre></div>

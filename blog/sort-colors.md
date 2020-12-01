@@ -80,4 +80,5 @@ class Solution:
                 nums.insert(r, nums.pop(index)) # 取出2， 放到r指针指向位置，r前移。index不动
                 r -= 1
             else:   # 1不处理， index后移
-                index += 1</code></pre></div>
+                index += 1
+</code></pre></div>

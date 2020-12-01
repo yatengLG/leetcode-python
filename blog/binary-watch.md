@@ -121,4 +121,5 @@ class Solution:
 
         backstrace(num, 0, 0, 0)
 
-        return result</code></pre></div>
+        return result
+</code></pre></div>

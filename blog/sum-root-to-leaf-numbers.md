@@ -110,4 +110,5 @@ class Solution:
         if root:
             find(root, '')
 
-        return sum(record)</code></pre></div>
+        return sum(record)
+</code></pre></div>

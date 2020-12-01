@@ -156,4 +156,5 @@ class Solution:
 
         backtrack([], 1)
         return len(result)
+
 </code></pre></div>

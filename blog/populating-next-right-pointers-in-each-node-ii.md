@@ -132,4 +132,5 @@ class Solution:
             for i in range(len(ns)-1):
                 ns[i].next = ns[i+1]
             ns[-1] = None
-        return root</code></pre></div>
+        return root
+</code></pre></div>

@@ -200,4 +200,5 @@ class Solution:
         find(head)
         if head:
             result.next.prev = None # 将结果的prev指向None
-        return result.next</code></pre></div>
+        return result.next
+</code></pre></div>

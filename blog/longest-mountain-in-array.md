@@ -124,4 +124,5 @@ class Solution:
             p += 1
         if up == True and down == True: # 如果存在山脉，则更新l
             l = max(l, p+1 - s )
-        return l</code></pre></div>
+        return l
+</code></pre></div>

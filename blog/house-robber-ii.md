@@ -67,4 +67,5 @@ class Solution:
             for num in nums:
                 cur, pre = max(pre+num, cur), cur
             return cur
-        return max(f(nums[1:]), f(nums[:-1]))</code></pre></div>
+        return max(f(nums[1:]), f(nums[:-1]))
+</code></pre></div>

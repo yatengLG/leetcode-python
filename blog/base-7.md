@@ -71,4 +71,5 @@ class Solution:
             num = num//7    # 更新数字
         result = str(num) + result
         result = symbol + result    # 添加符号
-        return result</code></pre></div>
+        return result
+</code></pre></div>

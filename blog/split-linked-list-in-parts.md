@@ -148,4 +148,5 @@ class Solution:
                 if node:
                     node.next = nodes[j + 1]
             result.append(nodes[0]) # 将重组后的每段链表添加到最终结果中
-        return result</code></pre></div>
+        return result
+</code></pre></div>

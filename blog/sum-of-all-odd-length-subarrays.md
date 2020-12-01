@@ -139,4 +139,5 @@ class Solution:
             for j in range(n-l+1):  # 以当前长度截取字符串，求和
                 result.append(sum(arr[j:j+l]))
         return sum(result)
+
 </code></pre></div>

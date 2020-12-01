@@ -86,4 +86,5 @@ class Solution:
                 end = max(end, intervals[i][1])
             i += 1
         result.append([start, end]) # 最后将待插入列表插入最终结果
-        return result</code></pre></div>
+        return result
+</code></pre></div>

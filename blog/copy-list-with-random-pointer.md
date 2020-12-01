@@ -150,4 +150,5 @@ class Solution:
                 return node
 
         node = backtrack(head, {})
-        return node</code></pre></div>
+        return node
+</code></pre></div>

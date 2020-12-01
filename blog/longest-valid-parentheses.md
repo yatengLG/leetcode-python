@@ -124,4 +124,5 @@ class Solution:
                     dp[i] = dp[i - 1] + 2
             else:
                 dp[i] = 0
-        return max(dp)</code></pre></div>
+        return max(dp)
+</code></pre></div>

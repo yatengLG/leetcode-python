@@ -73,4 +73,5 @@ class Solution:
         dp[2:7] = [1,2,4,6,9]
         for i in range(7,n+1):
             dp[i] = dp[i-3] *3
-        return dp[n]</code></pre></div>
+        return dp[n]
+</code></pre></div>

@@ -187,4 +187,5 @@ class Solution:
             k = k % mul
             del nums[index]
 
-        return ''.join([str(i) for i in result])</code></pre></div>
+        return ''.join([str(i) for i in result])
+</code></pre></div>
