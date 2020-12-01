@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 234/1877 
+finished 236/1886 
 
-Easy: 84    Medium: 131    Hard: 19
+Easy: 84    Medium: 133    Hard: 19
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -60,6 +60,7 @@ The project is a record of the author's leetcode.
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [Implement strStr()](/question_bank/implement-strstr) | Easy  | 0.40 | [:link:python](/question_bank/implement-strstr/implement-strstr.py) |
  | [31](https://leetcode-cn.com/problems/next-permutation/) | Next Permutation | Medium  | 0.36 | :heavy_check_mark: |
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [Longest Valid Parentheses](/question_bank/longest-valid-parentheses) | Hard  | 0.34 | [:link:python](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
+ | [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Find First and Last Position of Element in Sorted Array](/question_bank/find-first-and-last-position-of-element-in-sorted-array) | Medium  | 0.42 | [:link:python](/question_bank/find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [Search Insert Position](/question_bank/search-insert-position) | Easy  | 0.47 | [:link:python](/question_bank/search-insert-position/search-insert-position.py) |
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [Sudoku Solver](/question_bank/sudoku-solver) | Hard  | 0.67 | [:link:python](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [Count and Say](/question_bank/count-and-say) | Easy  | 0.57 | [:link:python](/question_bank/count-and-say/count-and-say.py) |
@@ -118,8 +119,8 @@ The project is a record of the author's leetcode.
  | [134](https://leetcode-cn.com/problems/gas-station/) | [Gas Station](/question_bank/gas-station) | Medium  | 0.57 | [:link:python](/question_bank/gas-station/gas-station.py) |
  | [136](https://leetcode-cn.com/problems/single-number/) | [Single Number](/question_bank/single-number) | Easy  | 0.70 | [:link:python](/question_bank/single-number/single-number.py) |
  | [137](https://leetcode-cn.com/problems/single-number-ii/) | [Single Number II](/question_bank/single-number-ii) | Medium  | 0.68 | [:link:python](/question_bank/single-number-ii/single-number-ii.py) |
- | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](/question_bank/copy-list-with-random-pointer) | Medium  | 0.58 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
- | [139](https://leetcode-cn.com/problems/word-break/) | [Word Break](/question_bank/word-break) | Medium  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
+ | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [Copy List with Random Pointer](/question_bank/copy-list-with-random-pointer) | Medium  | 0.59 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
+ | [139](https://leetcode-cn.com/problems/word-break/) | [Word Break](/question_bank/word-break) | Medium  | 0.49 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [Linked List Cycle](/question_bank/linked-list-cycle) | Easy  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [Linked List Cycle II](/question_bank/linked-list-cycle-ii) | Medium  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
  | [143](https://leetcode-cn.com/problems/reorder-list/) | [Reorder List](/question_bank/reorder-list) | Medium  | 0.60 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
@@ -128,7 +129,7 @@ The project is a record of the author's leetcode.
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [Insertion Sort List](/question_bank/insertion-sort-list) | Medium  | 0.67 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [Evaluate Reverse Polish Notation](/question_bank/evaluate-reverse-polish-notation) | Medium  | 0.51 | [:link:python](/question_bank/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Maximum Product Subarray](/question_bank/maximum-product-subarray) | Medium  | 0.41 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
- | [164](https://leetcode-cn.com/problems/maximum-gap/) | Maximum Gap | Hard  | 0.59 | :heavy_check_mark: |
+ | [164](https://leetcode-cn.com/problems/maximum-gap/) | Maximum Gap | Hard  | 0.61 | :heavy_check_mark: |
  | [169](https://leetcode-cn.com/problems/majority-element/) | [Majority Element](/question_bank/majority-element) | Easy  | 0.65 | [:link:python](/question_bank/majority-element/majority-element.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [House Robber](/question_bank/house-robber) | Easy  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [House Robber II](/question_bank/house-robber-ii) | Medium  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
@@ -163,7 +164,7 @@ The project is a record of the author's leetcode.
  | [349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [Intersection of Two Arrays](/question_bank/intersection-of-two-arrays) | Easy  | 0.73 | [:link:python](/question_bank/intersection-of-two-arrays/intersection-of-two-arrays.py) |
  | [357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [Count Numbers with Unique Digits](/question_bank/count-numbers-with-unique-digits) | Medium  | 0.51 | [:link:python](/question_bank/count-numbers-with-unique-digits/count-numbers-with-unique-digits.py) |
  | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [Largest Divisible Subset](/question_bank/largest-divisible-subset) | Medium  | 0.39 | [:link:python](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
- | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | Medium  | 0.42 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
+ | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [Guess Number Higher or Lower II](/question_bank/guess-number-higher-or-lower-ii) | Medium  | 0.43 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [Wiggle Subsequence](/question_bank/wiggle-subsequence) | Medium  | 0.43 | [:link:python](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [Combination Sum IV](/question_bank/combination-sum-iv) | Medium  | 0.43 | [:link:python](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [381](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | Insert Delete GetRandom O(1) - Duplicates allowed | Hard  | 0.45 | :heavy_check_mark: |
@@ -175,6 +176,7 @@ The project is a record of the author's leetcode.
  | [406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Queue Reconstruction by Height](/question_bank/queue-reconstruction-by-height) | Medium  | 0.72 | [:link:python](/question_bank/queue-reconstruction-by-height/queue-reconstruction-by-height.py) |
  | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [Partition Equal Subset Sum](/question_bank/partition-equal-subset-sum) | Medium  | 0.49 | [:link:python](/question_bank/partition-equal-subset-sum/partition-equal-subset-sum.py) |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [Add Two Numbers II](/question_bank/add-two-numbers-ii) | Medium  | 0.58 | [:link:python](/question_bank/add-two-numbers-ii/add-two-numbers-ii.py) |
+ | [454](https://leetcode-cn.com/problems/4sum-ii/) | 4Sum II | Medium  | 0.58 | :heavy_check_mark: |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [Repeated Substring Pattern](/question_bank/repeated-substring-pattern) | Easy  | 0.51 | [:link:python](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
  | [463](https://leetcode-cn.com/problems/island-perimeter/) | [Island Perimeter](/question_bank/island-perimeter) | Easy  | 0.71 | [:link:python](/question_bank/island-perimeter/island-perimeter.py) |
  | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [Predict the Winner](/question_bank/predict-the-winner) | Medium  | 0.59 | [:link:python](/question_bank/predict-the-winner/predict-the-winner.py) |
@@ -225,7 +227,7 @@ The project is a record of the author's leetcode.
  | [996](https://leetcode-cn.com/problems/number-of-squareful-arrays/) | [Number of Squareful Arrays](/question_bank/number-of-squareful-arrays) | Hard  | 0.47 | [:link:python](/question_bank/number-of-squareful-arrays/number-of-squareful-arrays.py) |
  | [1002](https://leetcode-cn.com/problems/find-common-characters/) | [Find Common Characters](/question_bank/find-common-characters) | Easy  | 0.74 | [:link:python](/question_bank/find-common-characters/find-common-characters.py) |
  | [1024](https://leetcode-cn.com/problems/video-stitching/) | [Video Stitching](/question_bank/video-stitching) | Medium  | 0.57 | [:link:python](/question_bank/video-stitching/video-stitching.py) |
- | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | Easy  | 0.72 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
+ | [1025](https://leetcode-cn.com/problems/divisor-game/) | [Divisor Game](/question_bank/divisor-game) | Easy  | 0.71 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [Matrix Cells in Distance Order](/question_bank/matrix-cells-in-distance-order) | Easy  | 0.71 | [:link:python](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [Letter Tile Possibilities](/question_bank/letter-tile-possibilities) | Medium  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [Maximum Nesting Depth of Two Valid Parentheses Strings](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings) | Medium  | 0.78 | [:link:python](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |

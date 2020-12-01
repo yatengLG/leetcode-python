@@ -1,9 +1,9 @@
 # Leet Code 力扣
 [English](./README.md) | 中文版
 
-已通过 234/1877 
+已通过 236/1886 
 
-简单: 84    中等: 131    困难: 19
+简单: 84    中等: 133    困难: 19
 
 项目每新增一道题，才会更新对应的题目，不定时更新，争取日日打卡。
 
@@ -70,6 +70,7 @@
  | [28](https://leetcode-cn.com/problems/implement-strstr/) | [实现 strStr()](/question_bank/implement-strstr) | 易(E)  | 0.40 | [:link:python](/question_bank/implement-strstr/implement-strstr.py) |
  | [31](https://leetcode-cn.com/problems/next-permutation/) | 下一个排列 | 中(M)  | 0.36 | :heavy_check_mark: |
  | [32](https://leetcode-cn.com/problems/longest-valid-parentheses/) | [最长有效括号](/question_bank/longest-valid-parentheses) | 难(H)  | 0.34 | [:link:python](/question_bank/longest-valid-parentheses/longest-valid-parentheses.py) |
+ | [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [在排序数组中查找元素的第一个和最后一个位置](/question_bank/find-first-and-last-position-of-element-in-sorted-array) | 中(M)  | 0.42 | [:link:python](/question_bank/find-first-and-last-position-of-element-in-sorted-array/find-first-and-last-position-of-element-in-sorted-array.py) |
  | [35](https://leetcode-cn.com/problems/search-insert-position/) | [搜索插入位置](/question_bank/search-insert-position) | 易(E)  | 0.47 | [:link:python](/question_bank/search-insert-position/search-insert-position.py) |
  | [37](https://leetcode-cn.com/problems/sudoku-solver/) | [解数独](/question_bank/sudoku-solver) | 难(H)  | 0.67 | [:link:python](/question_bank/sudoku-solver/sudoku-solver.py) |
  | [38](https://leetcode-cn.com/problems/count-and-say/) | [外观数列](/question_bank/count-and-say) | 易(E)  | 0.57 | [:link:python](/question_bank/count-and-say/count-and-say.py) |
@@ -128,8 +129,8 @@
  | [134](https://leetcode-cn.com/problems/gas-station/) | [加油站](/question_bank/gas-station) | 中(M)  | 0.57 | [:link:python](/question_bank/gas-station/gas-station.py) |
  | [136](https://leetcode-cn.com/problems/single-number/) | [只出现一次的数字](/question_bank/single-number) | 易(E)  | 0.70 | [:link:python](/question_bank/single-number/single-number.py) |
  | [137](https://leetcode-cn.com/problems/single-number-ii/) | [只出现一次的数字 II](/question_bank/single-number-ii) | 中(M)  | 0.68 | [:link:python](/question_bank/single-number-ii/single-number-ii.py) |
- | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](/question_bank/copy-list-with-random-pointer) | 中(M)  | 0.58 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
- | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](/question_bank/word-break) | 中(M)  | 0.48 | [:link:python](/question_bank/word-break/word-break.py) |
+ | [138](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) | [复制带随机指针的链表](/question_bank/copy-list-with-random-pointer) | 中(M)  | 0.59 | [:link:python](/question_bank/copy-list-with-random-pointer/copy-list-with-random-pointer.py) |
+ | [139](https://leetcode-cn.com/problems/word-break/) | [单词拆分](/question_bank/word-break) | 中(M)  | 0.49 | [:link:python](/question_bank/word-break/word-break.py) |
  | [141](https://leetcode-cn.com/problems/linked-list-cycle/) | [环形链表](/question_bank/linked-list-cycle) | 易(E)  | 0.50 | [:link:python](/question_bank/linked-list-cycle/linked-list-cycle.py) |
  | [142](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [环形链表 II](/question_bank/linked-list-cycle-ii) | 中(M)  | 0.54 | [:link:python](/question_bank/linked-list-cycle-ii/linked-list-cycle-ii.py) |
  | [143](https://leetcode-cn.com/problems/reorder-list/) | [重排链表](/question_bank/reorder-list) | 中(M)  | 0.60 | [:link:python](/question_bank/reorder-list/reorder-list.py) |
@@ -138,7 +139,7 @@
  | [147](https://leetcode-cn.com/problems/insertion-sort-list/) | [对链表进行插入排序](/question_bank/insertion-sort-list) | 中(M)  | 0.67 | [:link:python](/question_bank/insertion-sort-list/insertion-sort-list.py) |
  | [150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | [逆波兰表达式求值](/question_bank/evaluate-reverse-polish-notation) | 中(M)  | 0.51 | [:link:python](/question_bank/evaluate-reverse-polish-notation/evaluate-reverse-polish-notation.py) |
  | [152](https://leetcode-cn.com/problems/maximum-product-subarray/) | [乘积最大子数组](/question_bank/maximum-product-subarray) | 中(M)  | 0.41 | [:link:python](/question_bank/maximum-product-subarray/maximum-product-subarray.py) |
- | [164](https://leetcode-cn.com/problems/maximum-gap/) | 最大间距 | 难(H)  | 0.59 | :heavy_check_mark: |
+ | [164](https://leetcode-cn.com/problems/maximum-gap/) | 最大间距 | 难(H)  | 0.61 | :heavy_check_mark: |
  | [169](https://leetcode-cn.com/problems/majority-element/) | [多数元素](/question_bank/majority-element) | 易(E)  | 0.65 | [:link:python](/question_bank/majority-element/majority-element.py) |
  | [198](https://leetcode-cn.com/problems/house-robber/) | [打家劫舍](/question_bank/house-robber) | 易(E)  | 0.47 | [:link:python](/question_bank/house-robber/house-robber.py) |
  | [213](https://leetcode-cn.com/problems/house-robber-ii/) | [打家劫舍 II](/question_bank/house-robber-ii) | 中(M)  | 0.40 | [:link:python](/question_bank/house-robber-ii/house-robber-ii.py) |
@@ -173,7 +174,7 @@
  | [349](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [两个数组的交集](/question_bank/intersection-of-two-arrays) | 易(E)  | 0.73 | [:link:python](/question_bank/intersection-of-two-arrays/intersection-of-two-arrays.py) |
  | [357](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/) | [计算各个位数不同的数字个数](/question_bank/count-numbers-with-unique-digits) | 中(M)  | 0.51 | [:link:python](/question_bank/count-numbers-with-unique-digits/count-numbers-with-unique-digits.py) |
  | [368](https://leetcode-cn.com/problems/largest-divisible-subset/) | [最大整除子集](/question_bank/largest-divisible-subset) | 中(M)  | 0.39 | [:link:python](/question_bank/largest-divisible-subset/largest-divisible-subset.py) |
- | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.42 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
+ | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](/question_bank/guess-number-higher-or-lower-ii) | 中(M)  | 0.43 | [:link:python](/question_bank/guess-number-higher-or-lower-ii/guess-number-higher-or-lower-ii.py) |
  | [376](https://leetcode-cn.com/problems/wiggle-subsequence/) | [摆动序列](/question_bank/wiggle-subsequence) | 中(M)  | 0.43 | [:link:python](/question_bank/wiggle-subsequence/wiggle-subsequence.py) |
  | [377](https://leetcode-cn.com/problems/combination-sum-iv/) | [组合总和 Ⅳ](/question_bank/combination-sum-iv) | 中(M)  | 0.43 | [:link:python](/question_bank/combination-sum-iv/combination-sum-iv.py) |
  | [381](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | O(1) 时间插入、删除和获取随机元素 - 允许重复 | 难(H)  | 0.45 | :heavy_check_mark: |
@@ -185,6 +186,7 @@
  | [406](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [根据身高重建队列](/question_bank/queue-reconstruction-by-height) | 中(M)  | 0.72 | [:link:python](/question_bank/queue-reconstruction-by-height/queue-reconstruction-by-height.py) |
  | [416](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [分割等和子集](/question_bank/partition-equal-subset-sum) | 中(M)  | 0.49 | [:link:python](/question_bank/partition-equal-subset-sum/partition-equal-subset-sum.py) |
  | [445](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [两数相加 II](/question_bank/add-two-numbers-ii) | 中(M)  | 0.58 | [:link:python](/question_bank/add-two-numbers-ii/add-two-numbers-ii.py) |
+ | [454](https://leetcode-cn.com/problems/4sum-ii/) | 四数相加 II | 中(M)  | 0.58 | :heavy_check_mark: |
  | [459](https://leetcode-cn.com/problems/repeated-substring-pattern/) | [重复的子字符串](/question_bank/repeated-substring-pattern) | 易(E)  | 0.51 | [:link:python](/question_bank/repeated-substring-pattern/repeated-substring-pattern.py) |
  | [463](https://leetcode-cn.com/problems/island-perimeter/) | [岛屿的周长](/question_bank/island-perimeter) | 易(E)  | 0.71 | [:link:python](/question_bank/island-perimeter/island-perimeter.py) |
  | [486](https://leetcode-cn.com/problems/predict-the-winner/) | [预测赢家](/question_bank/predict-the-winner) | 中(M)  | 0.59 | [:link:python](/question_bank/predict-the-winner/predict-the-winner.py) |
@@ -235,7 +237,7 @@
  | [996](https://leetcode-cn.com/problems/number-of-squareful-arrays/) | [正方形数组的数目](/question_bank/number-of-squareful-arrays) | 难(H)  | 0.47 | [:link:python](/question_bank/number-of-squareful-arrays/number-of-squareful-arrays.py) |
  | [1002](https://leetcode-cn.com/problems/find-common-characters/) | [查找常用字符](/question_bank/find-common-characters) | 易(E)  | 0.74 | [:link:python](/question_bank/find-common-characters/find-common-characters.py) |
  | [1024](https://leetcode-cn.com/problems/video-stitching/) | [视频拼接](/question_bank/video-stitching) | 中(M)  | 0.57 | [:link:python](/question_bank/video-stitching/video-stitching.py) |
- | [1025](https://leetcode-cn.com/problems/divisor-game/) | [除数博弈](/question_bank/divisor-game) | 易(E)  | 0.72 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
+ | [1025](https://leetcode-cn.com/problems/divisor-game/) | [除数博弈](/question_bank/divisor-game) | 易(E)  | 0.71 | [:link:python](/question_bank/divisor-game/divisor-game.py) |
  | [1030](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) | [距离顺序排列矩阵单元格](/question_bank/matrix-cells-in-distance-order) | 易(E)  | 0.71 | [:link:python](/question_bank/matrix-cells-in-distance-order/matrix-cells-in-distance-order.py) |
  | [1079](https://leetcode-cn.com/problems/letter-tile-possibilities/) | [活字印刷](/question_bank/letter-tile-possibilities) | 中(M)  | 0.73 | [:link:python](/question_bank/letter-tile-possibilities/letter-tile-possibilities.py) |
  | [1111](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [有效括号的嵌套深度](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings) | 中(M)  | 0.78 | [:link:python](/question_bank/maximum-nesting-depth-of-two-valid-parentheses-strings/maximum-nesting-depth-of-two-valid-parentheses-strings.py) |
