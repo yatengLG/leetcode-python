@@ -1,9 +1,9 @@
 # Leet Code
 English | [中文版](./README-CN.md)
 
-finished 239/1892 
+finished 240/1892 
 
-Easy: 86    Medium: 134    Hard: 19
+Easy: 86    Medium: 135    Hard: 19
 
  Every time a new code is added, the corresponding question will be added. 
 
@@ -193,6 +193,7 @@ The project is a record of the author's leetcode.
  | [557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [Reverse Words in a String III](/question_bank/reverse-words-in-a-string-iii) | Easy  | 0.74 | [:link:python](/question_bank/reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py) |
  | [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [Construct String from Binary Tree](/question_bank/construct-string-from-binary-tree) | Easy  | 0.55 | [:link:python](/question_bank/construct-string-from-binary-tree/construct-string-from-binary-tree.py) |
  | [617](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [Merge Two Binary Trees](/question_bank/merge-two-binary-trees) | Easy  | 0.78 | [:link:python](/question_bank/merge-two-binary-trees/merge-two-binary-trees.py) |
+ | [621](https://leetcode-cn.com/problems/task-scheduler/) | [Task Scheduler](/question_bank/task-scheduler) | Medium  | 0.55 | [:link:python](/question_bank/task-scheduler/task-scheduler.py) |
  | [637](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/) | [Average of Levels in Binary Tree](/question_bank/average-of-levels-in-binary-tree) | Easy  | 0.69 | [:link:python](/question_bank/average-of-levels-in-binary-tree/average-of-levels-in-binary-tree.py) |
  | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [Palindromic Substrings](/question_bank/palindromic-substrings) | Medium  | 0.65 | [:link:python](/question_bank/palindromic-substrings/palindromic-substrings.py) |
  | [657](https://leetcode-cn.com/problems/robot-return-to-origin/) | [Robot Return to Origin](/question_bank/robot-return-to-origin) | Easy  | 0.78 | [:link:python](/question_bank/robot-return-to-origin/robot-return-to-origin.py) |
@@ -214,7 +215,7 @@ The project is a record of the author's leetcode.
  | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](/question_bank/split-array-into-fibonacci-sequence) | Medium  | 0.39 | [:link:python](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py) |
  | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [Backspace String Compare](/question_bank/backspace-string-compare) | Easy  | 0.52 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py) |
  | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [Longest Mountain in Array](/question_bank/longest-mountain-in-array) | Medium  | 0.42 | [:link:python](/question_bank/longest-mountain-in-array/longest-mountain-in-array.py) |
- | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](/question_bank/score-after-flipping-matrix) | Medium  | 0.77 | [:link:python](/question_bank/score-after-flipping-matrix/score-after-flipping-matrix.py) |
+ | [861](https://leetcode-cn.com/problems/score-after-flipping-matrix/) | [Score After Flipping Matrix](/question_bank/score-after-flipping-matrix) | Medium  | 0.81 | [:link:python](/question_bank/score-after-flipping-matrix/score-after-flipping-matrix.py) |
  | [876](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [Middle of the Linked List](/question_bank/middle-of-the-linked-list) | Easy  | 0.70 | [:link:python](/question_bank/middle-of-the-linked-list/middle-of-the-linked-list.py) |
  | [897](https://leetcode-cn.com/problems/increasing-order-search-tree/) | [Increasing Order Search Tree](/question_bank/increasing-order-search-tree) | Easy  | 0.73 | [:link:python](/question_bank/increasing-order-search-tree/increasing-order-search-tree.py) |
  | [921](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/) | [Minimum Add to Make Parentheses Valid](/question_bank/minimum-add-to-make-parentheses-valid) | Medium  | 0.73 | [:link:python](/question_bank/minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.py) |
@@ -264,7 +265,7 @@ The project is a record of the author's leetcode.
  | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串 LCOF](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof) | Medium  | 0.23 | [:link:python](/question_bank/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/biao-shi-shu-zhi-de-zi-fu-chuan-lcof.py) |
  | [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和  LCOF](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | Easy  | 0.60 | [:link:python](/question_bank/lian-xu-zi-shu-zu-de-zui-da-he-lcof/lian-xu-zi-shu-zu-de-zui-da-he-lcof.py) |
  | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列  LCOF](/question_bank/zi-fu-chuan-de-pai-lie-lcof) | Medium  | 0.55 | [:link:python](/question_bank/zi-fu-chuan-de-pai-lie-lcof/zi-fu-chuan-de-pai-lie-lcof.py) |
- | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | Easy  | 0.68 | [:link:python](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
+ | [剑指 Offer 32 - II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II LCOF](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof) | Easy  | 0.69 | [:link:python](/question_bank/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.py) |
  | [面试题 08.08](https://leetcode-cn.com/problems/permutation-ii-lcci/) | [Permutation II LCCI](/question_bank/permutation-ii-lcci) | Medium  | 0.71 | [:link:python](/question_bank/permutation-ii-lcci/permutation-ii-lcci.py) |
  | [面试题 16.17](https://leetcode-cn.com/problems/contiguous-sequence-lcci/) | [Contiguous Sequence LCCI](/question_bank/contiguous-sequence-lcci) | Easy  | 0.59 | [:link:python](/question_bank/contiguous-sequence-lcci/contiguous-sequence-lcci.py) |
  | [面试题 02.04](https://leetcode-cn.com/problems/partition-list-lcci/) | [Partition List LCCI](/question_bank/partition-list-lcci) | Medium  | 0.65 | [:link:python](/question_bank/partition-list-lcci/partition-list-lcci.py) |
