@@ -37,7 +37,7 @@
 
  **难度**: Medium
 
- **标签**: 位运算、 回溯算法、 
+ **标签**: 位运算、 数组、 字符串、 回溯、 
 
 
 ------
@@ -83,5 +83,5 @@ Maximum length is 4.
 
  **difficulty**: Medium
 
- **topic**: Bit Manipulation, Backtracking, 
+ **topic**: Bit Manipulation, Array, String, Backtracking, 
 

@@ -1,70 +1,83 @@
-<h2>977. 有序数组的平方</h2><p>给定一个按非递减顺序排序的整数数组 <code>A</code>，返回每个数字的平方组成的新数组，要求也按非递减顺序排序。</p>
+<h2>977. 有序数组的平方</h2><p>给你一个按 <strong>非递减顺序</strong> 排序的整数数组 <code>nums</code>，返回 <strong>每个数字的平方</strong> 组成的新数组，要求也按 <strong>非递减顺序</strong> 排序。</p>
 
-<p>&nbsp;</p>
+<ul>
+</ul>
+
+<p> </p>
 
 <p><strong>示例 1：</strong></p>
 
-<pre><strong>输入：</strong>[-4,-1,0,3,10]
+<pre>
+<strong>输入：</strong>nums = [-4,-1,0,3,10]
 <strong>输出：</strong>[0,1,9,16,100]
-</pre>
+<strong>解释：</strong>平方后，数组变为 [16,1,0,9,100]
+排序后，数组变为 [0,1,9,16,100]</pre>
 
 <p><strong>示例 2：</strong></p>
 
-<pre><strong>输入：</strong>[-7,-3,2,3,11]
+<pre>
+<strong>输入：</strong>nums = [-7,-3,2,3,11]
 <strong>输出：</strong>[4,9,9,49,121]
 </pre>
 
-<p>&nbsp;</p>
+<p> </p>
 
 <p><strong>提示：</strong></p>
 
-<ol>
-	<li><code>1 &lt;= A.length &lt;= 10000</code></li>
-	<li><code>-10000 &lt;= A[i] &lt;= 10000</code></li>
-	<li><code>A</code>&nbsp;已按非递减顺序排序。</li>
-</ol>
+<ul>
+	<li><code><span>1 <= nums.length <= </span>10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code></li>
+	<li><code>nums</code> 已按 <strong>非递减顺序</strong> 排序</li>
+</ul>
+
+<p> </p>
+
+<p><strong>进阶：</strong></p>
+
+<ul>
+	<li>请你<span style="color: rgb(36, 41, 46); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">设计时间复杂度为 <code>O(n)</code> 的算法解决本问题</span></li>
+</ul>
 
 
  **难度**: Easy
 
- **标签**: 数组、 双指针、 
+ **标签**: 数组、 双指针、 排序、 
 
 
 ------
 
-<h2>977. Squares of a Sorted Array</h2><p>Given an array of integers <code>A</code>&nbsp;sorted in non-decreasing order,&nbsp;return an array of the squares of each number,&nbsp;also in sorted non-decreasing order.</p>
+<h2>977. Squares of a Sorted Array</h2><p>Given an integer array <code>nums</code> sorted in <strong>non-decreasing</strong> order, return <em>an array of <strong>the squares of each number</strong> sorted in non-decreasing order</em>.</p>
 
 <p>&nbsp;</p>
-
-<div>
 <p><strong>Example 1:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-1-1">[-4,-1,0,3,10]</span>
-<strong>Output: </strong><span id="example-output-1">[0,1,9,16,100]</span>
+<strong>Input:</strong> nums = [-4,-1,0,3,10]
+<strong>Output:</strong> [0,1,9,16,100]
+<strong>Explanation:</strong> After squaring, the array becomes [16,1,0,9,100].
+After sorting, it becomes [0,1,9,16,100].
 </pre>
 
-<div>
 <p><strong>Example 2:</strong></p>
 
 <pre>
-<strong>Input: </strong><span id="example-input-2-1">[-7,-3,2,3,11]</span>
-<strong>Output: </strong><span id="example-output-2">[4,9,9,49,121]</span>
+<strong>Input:</strong> nums = [-7,-3,2,3,11]
+<strong>Output:</strong> [4,9,9,49,121]
 </pre>
 
 <p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-<p><strong><span>Note:</span></strong></p>
+<ul>
+	<li><code><span>1 &lt;= nums.length &lt;= </span>10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt;= nums[i] &lt;= 10<sup>4</sup></code></li>
+	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
+</ul>
 
-<ol>
-	<li><code><span>1 &lt;= A.length &lt;= 10000</span></code></li>
-	<li><code>-10000 &lt;= A[i] &lt;= 10000</code></li>
-	<li><code>A</code>&nbsp;is sorted in non-decreasing order.</li>
-</ol>
-</div>
-</div>
+<p>&nbsp;</p>
+<strong>Follow up:</strong> Squaring each element and sorting the new array is very trivial, could you find an <code>O(n)</code> solution using a different approach?
 
  **difficulty**: Easy
 
- **topic**: Array, Two Pointers, 
+ **topic**: Array, Two Pointers, Sorting, 
 

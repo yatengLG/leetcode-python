@@ -26,7 +26,7 @@
 
  **难度**: Easy
 
- **标签**: 分治算法、 动态规划、 
+ **标签**: 数组、 分治、 动态规划、 
 
 
 ------
@@ -35,5 +35,5 @@
 
  **difficulty**: Easy
 
- **topic**: Divide and Conquer, Dynamic Programming, 
+ **topic**: Array, Divide and Conquer, Dynamic Programming, 
 

@@ -23,7 +23,7 @@
 
  **难度**: Hard
 
- **标签**: 回溯算法、 
+ **标签**: 数组、 回溯、 
 
 
 ------
@@ -54,5 +54,5 @@
 
  **difficulty**: Hard
 
- **topic**: Backtracking, 
+ **topic**: Array, Backtracking, 
 
