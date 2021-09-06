@@ -411,7 +411,7 @@
  |
  | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [将数组拆分成斐波那契序列](/question_bank/split-array-into-fibonacci-sequence) | 中(M)  | 0.49 | [:link:python](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py)
  |
- | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [比较含退格的字符串](/question_bank/backspace-string-compare) | 易(E)  | 0.52 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py)
+ | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [比较含退格的字符串](/question_bank/backspace-string-compare) | 易(E)  | 0.51 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py)
  |
  | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [数组中的最长山脉](/question_bank/longest-mountain-in-array) | 中(M)  | 0.42 | [:link:python](/question_bank/longest-mountain-in-array/longest-mountain-in-array.py)
  |
@@ -486,7 +486,7 @@
  |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [二叉树中的列表](/question_bank/linked-list-in-binary-tree) | 中(M)  | 0.42 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py)
  |
- | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [长度为 n 的开心字符串中字典序第 k 小的字符串](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py)
+ | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [长度为 n 的开心字符串中字典序第 k 小的字符串](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | 中(M)  | 0.68 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py)
  |
  | [1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [用栈操作构建数组](/question_bank/build-an-array-with-stack-operations) | 易(E)  | 0.65 | [:link:python](/question_bank/build-an-array-with-stack-operations/build-an-array-with-stack-operations.py)
  |

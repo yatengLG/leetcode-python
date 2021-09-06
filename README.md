@@ -401,7 +401,7 @@ The project is a record of the author's leetcode.
  |
  | [842](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/) | [Split Array into Fibonacci Sequence](/question_bank/split-array-into-fibonacci-sequence) | Medium  | 0.49 | [:link:python](/question_bank/split-array-into-fibonacci-sequence/split-array-into-fibonacci-sequence.py)
  |
- | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [Backspace String Compare](/question_bank/backspace-string-compare) | Easy  | 0.52 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py)
+ | [844](https://leetcode-cn.com/problems/backspace-string-compare/) | [Backspace String Compare](/question_bank/backspace-string-compare) | Easy  | 0.51 | [:link:python](/question_bank/backspace-string-compare/backspace-string-compare.py)
  |
  | [845](https://leetcode-cn.com/problems/longest-mountain-in-array/) | [Longest Mountain in Array](/question_bank/longest-mountain-in-array) | Medium  | 0.42 | [:link:python](/question_bank/longest-mountain-in-array/longest-mountain-in-array.py)
  |
@@ -476,7 +476,7 @@ The project is a record of the author's leetcode.
  |
  | [1367](https://leetcode-cn.com/problems/linked-list-in-binary-tree/) | [Linked List in Binary Tree](/question_bank/linked-list-in-binary-tree) | Medium  | 0.42 | [:link:python](/question_bank/linked-list-in-binary-tree/linked-list-in-binary-tree.py)
  |
- | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium  | 0.69 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py)
+ | [1415](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | [The k-th Lexicographical String of All Happy Strings of Length n](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) | Medium  | 0.68 | [:link:python](/question_bank/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n.py)
  |
  | [1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/) | [Build an Array With Stack Operations](/question_bank/build-an-array-with-stack-operations) | Easy  | 0.65 | [:link:python](/question_bank/build-an-array-with-stack-operations/build-an-array-with-stack-operations.py)
  |
